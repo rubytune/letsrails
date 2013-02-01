@@ -1,0 +1,11 @@
+es:
+  see: "ver"
+  sign_up: "Registrate"
+  buy_now!: "¡compra ya!"
+  description: "Descripción"
+  number:
+    currency:
+      format:
+        unit: '€'
+        precision: 2
+        format: '%n%u'

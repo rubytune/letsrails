@@ -1,0 +1,24 @@
+<section id="deals" class="deals">
+  <% for deal in @deals %>
+    <article id="deal-<%= deal.id %>" class="deal">
+      <% if deal.list_deal_image %>
+        <%= link_to image_tag(deal.list_deal_image.url, :width => deal.list_deal_image.width, :height => deal.list_deal_image.height, :alt => deal.long_title), deal_path(deal) %>
+      <% end %>
+      <div class="subheading">
+        <span class="discount">-<%= number_to_percentage deal.discount, :precision => 0 %></span>
+        <h3><%= link_to deal.short_title, deal_path(deal) %></h3>
+      </div>
+      <div class="details">
+        <span class="countdown">
+          <%= "#{deal.countdown[:days]}d" if deal.countdown[:days] > 0 %>
+          <%= "#{deal.countdown[:hours]}h" if deal.countdown[:hours] > 0 %>
+          <%= "#{deal.countdown[:minutes]}m" if deal.countdown[:minutes] > 0 %>
+          <%= "#{deal.countdown[:seconds]}s" if deal.countdown[:seconds] > 0 %>
+        </span>
+        <span class="value"><%= number_to_currency deal.value, :precision => 0 %></span>
+        <span class="price"><%= number_to_currency deal.price, :precision => 0 %></span>
+        <%= link_to "#{t(:see)} >", deal_path(deal), :class => 'see' %>
+      </div>
+    </article>
+  <% end %>
+</section>

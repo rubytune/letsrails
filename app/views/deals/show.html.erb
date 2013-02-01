@@ -1,0 +1,13 @@
+<section id="deal" class="deal">
+  <article id="deal-<%= @deal.id %>" class="deal">
+    <h2><%= @deal.long_title %></h2>
+    <%= image_tag @deal.wide_deal_image.url, :width => @deal.wide_deal_image.width, :height => @deal.wide_deal_image.height, :alt => @deal.long_title %>
+    <h3><%= t(:description) %></h3>
+    <div class="description">
+      <%=raw @deal.description %>
+    </div>
+  </article>
+  <aside>
+    <%= link_to t(:buy_now!), new_deal_purchase_path(@deal), :class => 'buy' %>
+  </aside>
+</section>
