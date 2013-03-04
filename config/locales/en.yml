@@ -3,3 +3,4 @@ en:
   sign_up: "Sign Up"
   buy_now!: "Buy Now!"
   description: "Description"
+  option_label: "%{value} for %{price} - %{title}"

@@ -1,7 +1,9 @@
 <section id="deal" class="deal">
   <article id="deal-<%= @deal.id %>" class="deal">
     <h2><%= @deal.long_title %></h2>
-    <%= image_tag @deal.wide_deal_image.url, :width => @deal.wide_deal_image.width, :height => @deal.wide_deal_image.height, :alt => @deal.long_title %>
+    <% unless @deal.wide_deal_image.blank? %>
+      <%= image_tag @deal.wide_deal_image.url, :width => @deal.wide_deal_image.width, :height => @deal.wide_deal_image.height, :alt => @deal.long_title %>
+    <% end %>
     <h3><%= t(:description) %></h3>
     <div class="description">
       <%=raw @deal.description %>

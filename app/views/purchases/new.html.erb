@@ -1,1 +1,19 @@
-<section id="quantity">
+<section id="purchase">
+  <fieldset>
+    <%= form_for @purchase, :url => deal_purchases_path(@deal, @purchase) do |f| %>
+      <p>
+        <%= f.label :option_id, "Option" %>
+        <%= f.select :option_id, @deal.options.map{|o| [ t(:option_label, :value => number_to_currency(o.value), :price => number_to_currency(o.price), :title => o.title), o.id ] } %>
+      </p>
+
+      <p>
+        <%= f.label :quantity %>
+        <%= f.select :quantity, 1..5 %>
+      </p>
+
+      <p>
+        <%= f.submit "Purchase" %>
+      </p>
+    <% end %>
+  </fieldset>
+</section>

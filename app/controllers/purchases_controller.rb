@@ -3,7 +3,7 @@ class PurchasesController < ApplicationController
   before_filter :load_deal
 
   def new
-    @purchase = Purchase.new
+    @purchase = Purchase.new(:quantity => 1)
   end
 
 protected

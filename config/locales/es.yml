@@ -3,6 +3,7 @@ es:
   sign_up: "Registrate"
   buy_now!: "¡compra ya!"
   description: "Descripción"
+  option_label: "%{value} a %{price} - %{title}"
   number:
     currency:
       format:

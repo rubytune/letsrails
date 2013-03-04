@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '3.2.11'
 
+gem 'attribution'
 gem 'awesome_print'
 gem 'jquery-rails'
 gem 'httparty'
