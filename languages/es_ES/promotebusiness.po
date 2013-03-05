@@ -1,0 +1,172 @@
+# promotebusiness.po
+# Spanish translations for letsbonus package.
+# Recent page
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2012-05-07 16:33+0100\n"
+"PO-Revision-Date: 2012-05-07 12:58+0100\n"
+"Last-Translator: Alessio Mavica <alessio.mavica@letsbonus.com>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Join us!"
+msgstr "¡Únete a nosotros!"
+
+msgid "Enter your name"
+msgstr "Introduce tu nombre"
+
+msgid "Business name"
+msgstr "Nombre del comercio"
+
+msgid "Enter your business name"
+msgstr "Introduce el nombre de tu comercio"
+
+msgid "National"
+msgstr "Nacional"
+
+msgid "Category"
+msgstr "Categoría"
+
+msgid "Choose a category"
+msgstr "Elige una categoría"
+
+msgid "Enter your phone"
+msgstr "Introduce tu teléfono"
+
+msgid "Website"
+msgstr "Página web"
+
+msgid "Enter your website"
+msgstr "Introduce tu página web"
+
+msgid "Enter your facebook page"
+msgstr "Introduce tu página de Facebook"
+
+msgid "Facebook page"
+msgstr "Página Facebook"
+
+msgid "Enter your email"
+msgstr "Introduce tu email"
+
+msgid "Comments"
+msgstr "Comentarios"
+
+msgid "Write your request here"
+msgstr "Escribe tu petición aquí"
+
+msgid "Send"
+msgstr "Enviar"
+
+msgid "send"
+msgstr "enviar"
+
+msgid "Name of responsible"
+msgstr "Nombre del responsable"
+
+msgid "Fields with * are required."
+msgstr "Los campos con * son obligatorios."
+
+msgid "business.category.8"
+msgstr "Hotel Nacional"
+
+msgid "business.category.12"
+msgstr "Hotel Internacional/Cadena"
+
+msgid "business.category.151"
+msgstr "Viajes"
+
+msgid "business.category.13"
+msgstr "Boutique de Productos"
+
+msgid "Don't forget to select the city that's your business. If more than one city, select the one you think is the main and when we contact you add the other"
+msgstr "No olvides seleccionar la ciudad en la que está tu negocio. Si está en más de una ciudad, selecciona la que consideres que es la principal y cuando nos pongamos en contacto contigo añadiremos las demás"
+
+msgid "Don't forget to select a category that describes your business"
+msgstr "No olvides seleccionar una categoría que describa tu negocio"
+
+msgid "A new business wants to contact"
+msgstr "Nuevo comercio quiere contactar"
+
+msgid "Thanks for contact with LetsBonus!"
+msgstr "Gracias por contactar con LetsBonus!"
+
+msgid "Business contact"
+msgstr "Contacto de comercio"
+
+msgid "We will study your request and if it fits with the interests of our users we will contact you as soon as possible for a possible collaboration."
+msgstr "Estudiaremos su petición y si encaja con los intereses de nuestros usuarios nos pondremos en contacto con Ud. lo antes posible para una posible colaboración."
+
+msgid "Otherwise, we save your data to contact with you in any future campaigns."
+msgstr "En caso contrario, guardaremos sus datos para ponernos en contacto con Ud. en posibles campañas futuras."
+
+msgid "Regards,"
+msgstr "Saludos cordiales,"
+
+msgid "LetsBonus team!"
+msgstr "Equipo de LetsBonus!"
+
+msgid "LetsBonus team"
+msgstr "Equipo LetsBonus"
+
+msgid "Complete the form with your details. Once the sales department has assessed whether your proposal fits like LetsBonus Plan, we will contact you."
+msgstr "Rellena el formulario con tus datos. Una vez el departamento comercial haya valorado si tu propuesta encaja como Plan LetsBonus, nos pondremos en contacto contigo."
+
+msgid "I wish all our advertising campaigns have a cost-benefit return as easy to measure and with a result as optimal."
+msgstr "Ojalá todas nuestras campañas de publicidad tuvieran un retorno coste-beneficio tan fácil de medir y con un resultado tan óptimo."
+
+msgid "Why LetsBonus is your ideal partner?"
+msgstr "¿Por qué LetsBonus es tu socio ideal?"
+
+msgid "Because we are the leading collective buying in Spain and a pioneer in Europe. An innovative platform for promoting your business where you have already committed thousands of businesses, among them big names like FNAC, Frank Provost or the Hotel Arts."
+msgstr "Porque somos la empresa líder en compra colectiva en España y pionera en Europa. Una innovadora plataforma de promoción para tu negocio en la que ya han confiado miles de comercios, entre los que destacan grandes marcas como FNAC, Frank Provost o el Hotel Arts."
+
+msgid "We have millions of users in Europe and Latin America, which invited each day to rediscover your city with our proposals. Add excitement to your life at the hands of local businesses. Trust and quality businesses we work with has made E-Commerce Spain we award prizes in 2011 with the special prize for the best online shop of the year."
+msgstr "Contamos con millones de usuarios en Europa y en América latina, a los que invitamos cada día a redescubrir su ciudad con nuestras propuestas. Añadimos emoción a su vida de la mano de los comercios locales. La confianza y calidad de los negocios con los que trabajamos ha hecho que E-Commerce España nos galardonara en 2011 con el premio especial a la Mejor tienda online del año."
+
+msgid "We are part of the international Social Living has the support of E-commerce company in the world over: Amazon."
+msgstr "Formamos parte del grupo internacional Living Social que cuenta con el apoyo de la empresa de E-commerce más importante del mundo: Amazon."
+
+msgid "Customized marketing campaigns"
+msgstr "Campañas comerciales a medida"
+
+msgid "Invest for results"
+msgstr "Inviertes por resultados"
+
+msgid "New customers in just 24h"
+msgstr "Nuevos clientes en tan sólo 24h"
+
+msgid "Advertising platform powerful and efficient"
+msgstr "Plataforma de publicidad potente y eficiente"
+
+msgid "Success cases"
+msgstr "Casos de éxito"
+
+msgid "We design a custom marketing for your business and, once set up, advise and accompany you throughout the process to address the needs and concerns that you may have."
+msgstr "Diseñamos una campaña comercial a medida para tu negocio y, una vez puesta en marcha, te asesoramos y acompañamos durante todo el proceso atendiendo las necesidades y dudas que te puedan surgir."
+
+msgid "LetsBonus is aligned with the objectives of your business and only earns commission based on sales made ​​without fixed promotion costs."
+msgstr "LetsBonus está alineado con los objetivos de tu negocio y únicamente obtiene comisión según las ventas realizadas, sin costes de promoción fijos."
+
+msgid "The results of selling one day become a steady stream of new clients during the following months."
+msgstr "Los resultados de venta de un sólo día se convierten en un constante flujo de nuevos clientes durante los siguientes meses."
+
+msgid "We present your business to millions of users and give it presence in social networks with large numbers of fans and major media in the country."
+msgstr "Damos a conocer tu negocio a millones de usuarios y le damos presencia en redes sociales con un gran volumen de fans y en los principales medios de comunicación del país."
+
+msgid "%1 tickets sold in<br /><span>%2 hours</span>"
+msgstr "%1 tickets vendidos en<br /><span>%2 horas</span>"
+
+msgid "Contact phone"
+msgstr "Teléfono de contacto"
+
+msgid "902 027 372"
+msgstr "902 027 372"
+
+msgid "Go to LetsBonus"
+msgstr "Ir a LetsBonus"

@@ -1,0 +1,41 @@
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2011-12-29 16:43+0100\n"
+"Last-Translator: . <.>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Daily Deals"
+msgstr "Planes del día"
+
+msgid "dailyDeal"
+msgstr "Planes del día"
+
+msgid "All, in dailyDeal, the best"
+msgstr "De todo, en planes del día, lo mejor"
+
+msgid "We are selecting restaurants with delicious menus, treatments that most benefit your body, the shows more interesting and more fun plans for you to enjoy during the week and weekend!"
+msgstr "Estamos seleccionando los restaurantes con los menús más deliciosos, los tratamientos que más benefician a tu cuerpo, los espectáculos más interesantes y los planes más divertidos ¡para que disfrutes durante la semana y el fin de semana!"
+
+msgid "From everything you want, we choose for you the best."
+msgstr "De todo lo que buscas, escogemos para ti lo mejor."
+
+msgid "View more deals"
+msgstr "Ver más planes"
+
+msgid "Check out our plans"
+msgstr "Echa un vistazo a nuestros planes"
+
+msgid "Closed offer"
+msgstr "plan cerrado"

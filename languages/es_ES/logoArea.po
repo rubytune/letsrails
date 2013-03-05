@@ -1,0 +1,32 @@
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2011-12-29 16:43+0100\n"
+"Last-Translator: . <.>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Change city"
+msgstr "Cambiar de ciudad"
+
+msgid "Sign up"
+msgstr "Suscríbete"
+
+msgid "Enter your e-mail address"
+msgstr "Introduce tu email"
+
+msgid "I agree to the <a href='%1' target='_blank'>Privacy policy</a>"
+msgstr "Acepto la <a href='%1' target='_blank'>Política de privacidad</a>"
+
+msgid "or access by"
+msgstr "o accede a través de"

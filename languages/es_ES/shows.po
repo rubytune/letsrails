@@ -1,0 +1,29 @@
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2011-12-29 16:43+0100\n"
+"Last-Translator: . <.>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "All, in shows, the best"
+msgstr "De todo, en espectáculos, lo mejor"
+
+msgid "Because we know you like to be the last, do not miss the best concert or the most interesting exhibitions... We are selecting the most exciting shows in your city."
+msgstr "Porque sabemos que te gusta estar a la última, no perderte los mejores conciertos o las exposiciones más interesantes... Estamos seleccionando los espectáculos más emocionantes de tu ciudad."
+
+msgid "Shows Deals"
+msgstr "Espectáculos"
+
+msgid "shows"
+msgstr "Espectáculos"

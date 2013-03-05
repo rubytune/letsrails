@@ -1,0 +1,183 @@
+# Spanish translations for METATAGS.
+# This translations are site-wide, and rlate to SEO and metatags in the HTML level.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2012-12-10 17:28+0100\n"
+"Last-Translator: Jessica <jessica.marin@letsbonus.com>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# %1 is the city name, %2 is the site name
+#: Daily deal tab
+msgid "Deals in %1 for up to 70% discount in leisure. Offers %1 - %2"
+msgstr "Descuentos en %1 del 70% en ocio. Ofertas %1 - %2 "
+
+# %1 is the city name
+msgid "Deals and offers in %1 for up to 70% in leisure: restaurants, spas, activities and much more. Join us!"
+msgstr "Descuentos y ofertas en %1 del 70% en ocio: restaurantes, spas, actividades, escapadas, aventura y mucho más. ¡Apúntate!"
+
+# %1 is the city name, %2 is the site name
+#: Travel tab
+msgid "Deals in travel for up to 70%. Destinations %1 - %2"
+msgstr "Descuentos en viajes de hasta el 70%. Destinos %1 - %2"
+
+msgid "The most amazing travel plans with discounts for up to 70%. Your trip starts here."
+msgstr "Los planes de viaje más increíbles con descuentos de hasta el 70% en %1. Tu viaje empieza aquí."
+
+# %1 is the city name, %2 is the site name
+#: Boutique tab
+msgid "Deals in products for up to 70% discount. Boutique %1 - %2"
+msgstr "Descuentos en productos de hasta el 70%. Boutique %1 - %2 "
+
+msgid "The most compelling offers in boutique products with discounts of up to 70%. Join us!"
+msgstr "Las ofertas más irresistibles en productos boutique con descuentos de hasta el 70% en %1. ¡Anímate!"
+
+# %1 is the city name, %2 is the site name
+#: Family & Kids tab
+msgid "Deals in Family & Kids %1 up to 70%. Deals Family - %2"
+msgstr "Descuentos en Family & Kids %1 del 70%. Ofertas Family & Kids - %2"
+
+msgid "Deals in %1 up to 70% in Family & Kids. Join us!"
+msgstr "Descuentos y ofertas en %1 del 70% en Family & Kids. ¡Anímate!"
+
+# %1 is the city name, %2 is the site name
+#: Shows tab
+msgid "Deals in Shows %1 up to 70%. Deals Shows - %2"
+msgstr "Descuentos en Espectáculos %1 del 70%. Ofertas Espectáculos - %2"
+
+msgid "Deals in %1 up to 70% in Shows. Join us!"
+msgstr "Descuentos y ofertas en %1 del 70% en Espectáculos. ¡Anímate!"
+
+# %1 is the city name, %2 is the site name
+#: Technology tab
+msgid "Deals in Technology %1 up to 70%. Deals Technology - %2"
+msgstr "Descuentos en Tecnología %1 del 70%. Ofertas Tecnología - %2"
+
+msgid "Deals in %1 up to 70% in Technology. Join us!"
+msgstr "Descuentos y ofertas en %1 del 70% en Tecnología. ¡Anímate!"
+
+# %1 is the city name, %2 is the site name
+#: SpecialBoutique tab
+msgid "Deals in SpecialBoutique %1 up to 70%. Deals SpecialBoutique - %2"
+msgstr "Descuentos en Complementos %1 del 70%. Ofertas Complementos - %2"
+
+msgid "Deals in %1 up to 70% in SpecialBoutique. Join us!"
+msgstr "Descuentos y ofertas en %1 del 70% en Complementos. ¡Anímate!"
+
+# %1 is the city name, %2 is the site name
+#: Escapes tab
+msgid "Deals in Escapes %1 up to 70%. Deals Escapes - %2"
+msgstr "Descuentos en Especial Escapadas %1 del 70%. Ofertas Especial Escapadas - %2"
+
+msgid "Deals in %1 up to 70% in Escapes. Join us!"
+msgstr "Descuentos y ofertas en %1 del 70% en Especial Escapadas. ¡Anímate!"
+
+#: Static pages
+msgid "Last opportunities - %2"
+msgstr "Últimas oportunidades - %2"
+
+msgid "How does it work? - %2"
+msgstr "¿Cómo funciona? - %2"
+
+msgid "FAQ - %2"
+msgstr "Preguntas frecuentes - %2"
+
+msgid "Promote your business - %2"
+msgstr "Promociona tu negocio - %2"
+
+msgid "Contact - %2"
+msgstr "Contacto - %2"
+
+msgid "Terms and conditions - %2"
+msgstr "Términos generales de uso - %2"
+
+msgid "Privacy Policy - %2"
+msgstr "Política de privacidad - %2"
+
+msgid "LetsCare - %2"
+msgstr "LetsCare - %2"
+
+msgid "Work with us - %2"
+msgstr "Trabaja con nosotros - %2"
+
+msgid "Past plans - %2"
+msgstr "Planes pasados - %2"
+
+msgid "Plans of dailyDeal in %1 past - %2"
+msgstr "Planes pasados de Ocio en %1 - %2"
+
+msgid "Plans of travel in %1 past - %2"
+msgstr "Planes pasados de Viajes en %1 - %2"
+
+msgid "Plans of boutique in %1 past - %2"
+msgstr "Productos ya publicados en Boutique en %1 - %2"
+
+msgid "Plans of family in %1 past - %2"
+msgstr "Planes pasados de Family & Kids en %1 - %2"
+
+msgid "Plans of shows in %1 past - %2"
+msgstr "Planes pasados de Espectáculos en %1 - %2"
+
+msgid "Plans of technology in %1 past - %2"
+msgstr "Productos ya publicados en Tecnología en %1 - %2"
+
+
+#: Static descriptions
+
+msgid "Last opportunities. %2 The most compelling offers in boutique products with discounts of up to 70%. Join us! "
+msgstr "Últimas oportunidades. %2  es líder en Descuentos de Ocio, Viajes y Boutique de hasta el 70%. ¡Apúntate!"
+
+msgid "How does it work? %2 The most compelling offers in boutique products with discounts of up to 70%. Join us! "
+msgstr "Como funciona? %2  es líder en Descuentos de Ocio, Viajes y Boutique de hasta el 70%. ¡Apúntate!"
+
+msgid "FAQ. %2 The most compelling offers in boutique products with discounts of up to 70%. Join us! "
+msgstr "Perguntas frequentes. %2  es líder en Descuentos de Ocio, Viajes y Boutique de hasta el 70%. ¡Apúntate!"
+
+msgid "Promote your business. %2 The most compelling offers in boutique products with discounts of up to 70%. Join us! "
+msgstr "Promociona tu negocio. %2  es líder en Descuentos de Ocio, Viajes y Boutique de hasta el 70%. ¡Apúntate!"
+
+msgid "Contact. %2 The most compelling offers in boutique products with discounts of up to 70%. Join us!"
+msgstr "Contacto. %2 es líder en Descuentos de Ocio, Viajes y Boutique de hasta el 70%. ¡Apúntate!"
+
+msgid "Terms and conditions. %2 The most compelling offers in boutique products with discounts of up to 70%. Join us! "
+msgstr "Términos generales de uso. %2  es líder en Descuentos de Ocio, Viajes y Boutique de hasta el 70%. ¡Apúntate!"
+
+msgid "Privacy Policy. %2 The most compelling offers in boutique products with discounts of up to 70%. Join us! "
+msgstr "Política de privacidad. %2 es líder en Descuentos de Ocio, Viajes y Boutique de hasta el 70%. ¡Apúntate!"
+
+msgid "LetsCare. %2 The most compelling offers in boutique products with discounts of up to 70%. Join us! "
+msgstr "LetsCare. %2 es líder en Descuentos de Ocio, Viajes y Boutique de hasta el 70%. ¡Apúntate!"
+
+msgid "Work with us. %2 The most compelling offers in boutique products with discounts of up to 70%. Join us! "
+msgstr "Trabaja con nosotros. %2 es líder en Descuentos de Ocio, Viajes y Boutique de hasta el 70%. ¡Apúntate!"
+
+msgid "%Past plans %2 The most compelling offers in boutique products with discounts of up to 70%. Join us! "
+msgstr "Planes pasados. %2 es líder en Descuentos de Ocio, Viajes y Boutique de hasta el 70%. ¡Apúntate!"
+
+msgid "Plans of dailyDeal in %1 past. %2 The most compelling offers in boutique products with discounts of up to 70%. Join us! "
+msgstr "Planes pasados de Ocio en %1. %2 es líder en Descuentos de Ocio, Viajes y Boutique de hasta el 70%. ¡Apúntate!"
+
+msgid "Plans of travel in %1 past. %2 The most compelling offers in boutique products with discounts of up to 70%. Join us! "
+msgstr "Planes pasados de Viajes en %1. %2 es líder en Descuentos de Ocio, Viajes y Boutique de hasta el 70%. ¡Apúntate!"
+
+msgid "Plans of boutique in %1 past. %2 The most compelling offers in boutique products with discounts of up to 70%. Join us! "
+msgstr "Productos ya publicados en Boutique en %1. %2 es líder en Descuentos de Ocio, Viajes y Boutique de hasta el 70%. ¡Apúntate!"
+
+msgid "Plans of family in %1 past. %2 The most compelling offers in boutique products with discounts of up to 70%. Join us! "
+msgstr "Planes pasados de Family & Kids en %1. %2 es líder en Descuentos de Ocio, Viajes y Boutique de hasta el 70%. ¡Apúntate!"
+
+msgid "Plans of shows in %1 past. %2 The most compelling offers in boutique products with discounts of up to 70%. Join us! "
+msgstr "Planes pasados de Espectáculos en %1. %2 es líder en Descuentos de Ocio, Viajes y Boutique de hasta el 70%. ¡Apúntate!"
+
+msgid "Plans of technology in %1 past. %2 The most compelling offers in boutique products with discounts of up to 70%. Join us! "
+msgstr "Productos ya publicados en Tecnología en %1. %2 es líder en Descuentos de Ocio, Viajes y Boutique de hasta el 70%. ¡Apúntate!"
+
+msgid "Contact us - %2"
+msgstr "Contacta con nosotros - %2"

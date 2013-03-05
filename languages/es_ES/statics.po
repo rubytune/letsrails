@@ -1,0 +1,165 @@
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2011-12-29 16:43+0100\n"
+"Last-Translator: . <.>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+
+msgid "How works?"
+msgstr "¿Cómo funciona?"
+
+msgid "All, the best"
+msgstr "De todo, lo mejor"
+
+msgid "Every day we select carefully the best plans, products, events and trips for you. The restaurants with the most delightful letters, treatments that most benefit your body, supplements that make you feel elegant, the most interesting shows and travel have always dreamed. We have the most knowledgeable and the result is thousands of satisfied users every day."
+msgstr "Cada día seleccionamos con esmero los mejores planes, productos, espectáculos y viajes para ti. Los restaurantes con las cartas más deliciosas, los tratamientos que más benefician a tu cuerpo, los complementos que te hacen sentir elegante, los espectáculos más interesantes y los viajes que siempre has soñado. Contamos con los que más saben y el resultado son miles de usuarios satisfechos cada día."
+
+msgid "24 six months to buy and to consume"
+msgstr "24h para comprar y seis meses para consumir"
+
+msgid "Purchase the plan that you like, the most exclusive, attractive, exciting, and choose when you want to enjoy it! You have 6 months experience to fit you bought your day to day and that of your family the best."
+msgstr "Compra el plan que más te apetezca, el más exclusivo, atractivo, emocionante y ¡elige cuando quieres disfrutarlo! Tienes 6 meses, para que la experiencia que has comprado encaje en tu día a día y en la de los tuyos de la mejor manera."
+
+msgid "The best, at unbelievable prices"
+msgstr "Lo mejor, a precios increíbles"
+
+msgid "We know the most exclusive and enjoyed the confidence of businesses who know they work well. All, allows us to offer the best plans and products at great prices for you."
+msgstr "Conocemos los locales más exclusivos y gozamos de la confianza de los comercios que saben que trabajamos bien. Todo, hace que podamos ofrecer los mejores planes y productos a precios increíbles para ti."
+
+msgid "How do we get discounts?"
+msgstr "¿Cómo conseguimos descuentos?"
+
+msgid "We get incredible discounts because many people buy together."
+msgstr "Conseguimos increíbles descuentos porque muchos compramos juntos."
+
+msgid "You can share the plan with friends or purchased individually joining the thousands of buyers in your city."
+msgstr "Puedes compartir el plan con tus amigos o comprar individualmente sumándote a los miles de compradores de tu ciudad."
+
+msgid "Join the daily plan now and enjoy it when you want."
+msgstr "Apúntate al plan del día ahora y disfrútalo cuando quieras."
+
+msgid "Subscribe and tell your friends."
+msgstr "Suscríbete y avisa a tus amigos."
+
+msgid "Subscribe to LetsBonus!"
+msgstr "¡Suscríbete a multiEstrella & LetsBonus!"
+
+msgid "Error 404"
+msgstr "Error 404"
+
+msgid "Error 500"
+msgstr "Error 500"
+
+# RECOMMEND.
+msgid "Your friends already know LetsBonus?"
+msgstr "¿Tus amigos aún no conocen LetsBonus?"
+
+msgid "Recommend Letsbonus to a friend and we'll <b>give you %1</b> each one."
+msgstr "Recomienda LetsBonus a un amigo y os <b>regalamos %1</b> a cada uno."
+
+msgid "%1 for you and %1 to your friend"
+msgstr "%1 para ti y %1 para tu amigo"
+
+msgid "With this recommendation you and your friend can enjoy %1, %2 for you and %2 for your friend. When your friend has done its first purchase, bout will receive credit for use in your subsequent purchases."
+msgstr "Con esta recomendación tú y tu amigo podréis disfrutar de %1 de crédito para utilizar en vuestras compras sucesivas, %2 para ti y %2 para tu amigo. Cuando tu amigo se inscriba a través de tu recomendación recibirá los %2 en su cuenta de manera automática, y tú cuando él realice la primera compra."
+
+msgid "How it works?"
+msgstr "¿Cómo funciona?"
+
+msgid "Very easy, sign in or activate your account LetsBonus to share it with your friends from “Win %1” link. You will receive the %2 when your friend makes his first purchase. You can check at any time the evolution of your friends recommended registering and logging in to your account."
+msgstr "Es muy fácil, inicia sesión y desde el enlace “Consigue %1” podrás enviar la recomendación a través de Facebook y Twitter o enviar el link de recomendación a través de correo electrónico. Te ingresaremos los %2 cuando tu amigo realice la primera compra. Podrás comprobarlo entrando en la pestaña “Mi Crédito” de tu cuenta LetsBonus."
+
+msgid "How I can spend the credit?"
+msgstr "¿Cómo gasto el crédito?"
+
+msgid "You can use it to buy any of our plans, with a maximum of %1 of credit for purchase and if the price of the plan is at least %2."
+msgstr "Puedes usarlo para comprar cualquiera de nuestros planes, con un máximo de aplicación de %1 de crédito por compra y siempre que el precio del plan elegido sea mínimo de %2."
+
+msgid "Still your are not a member?"
+msgstr "¿Todavía no eres usuario?"
+
+msgid "Sign up here is easy!"
+msgstr "Regístrate aquí ¡es muy fácil!"
+
+msgid "Recommend it"
+msgstr "Recomiéndalo"
+
+msgid "Are you an user?"
+msgstr "¿Eres usuario?"
+
+msgid "Through social networks..."
+msgstr "A través de redes sociales..."
+
+msgid "...or sending this link by email"
+msgstr "...o enviando este enlace por email"
+
+msgid "For you, the best-selling plans, the best almost finished! Do not hesitate and surprise your partner this evening with a romantic dinner or your parents with the trip you've always wanted. But why not for you? Treat yourself, there are few units of the finest products."
+msgstr "Para ti, los planes más vendidos, los mejores ¡a punto de terminarse! No lo pienses más y sorprende a tu pareja esta noche con una cena romántica o a tus padres con el viaje que siempre han querido. Pero, ¿por qué no para ti? Date un capricho, quedan pocas unidades de los productos más selectos."
+
+msgid "We are working to select the best plans and products for you. Soon you will find on this page. As you can see the other tabs on our website."
+msgstr "Estamos trabajando para seleccionar los mejores planes y productos para ti. En breve los encontrarás en esta página. Mientras, puedes consultar el resto de pestañas de nuestra web."
+
+msgid "active"
+msgstr "activo"
+
+# REGISTERED.
+msgid "Congratulations, your account is ready and running!"
+msgstr "Felicidades, ¡tu cuenta ya está activa!"
+
+msgid "From now on you will receive in your email the offers that we carefully select for you everyday!"
+msgstr "Gracias por completar tu registro. Esto nos ayuda a conocerte mejor para que podamos enviarte los mejores planes para ti. Cenas románticas con tu pareja, teatro, escapadas, centros de belleza, boutique de productos, planes en familia…."
+
+msgid "You will receive special promotions and enjoy Giveaway Checks!"
+msgstr "Recibirás promociones especiales y disfrutarás de Cheques Regalo."
+
+msgid "From your LetsBonus account you will be able to manage your credit"
+msgstr "Desde tu cuenta LetsBonus podrás gestionar tu crédito como más te convenga, gestionar las newsletters que quieres recibir e imprimir tus tickets."
+
+msgid "Recommend LetsBonus!"
+msgstr "¡Recomienda LetsBonus!"
+
+msgid "We give you %1"
+msgstr "Os regalamos %1"
+
+msgid "Recommend us to a friend and we will give away %1, %2 to you and %2 to your friend."
+msgstr "Recuerda que puedes recomendar LetsBonus a tus amigos. Por cada recomendación que hagas os regalamos %1, %2 para ti y %2 para tu amigo."
+
+msgid "Do you have children? Subscribe to Family Plans and enjoy the most exciting plans with your family."
+msgstr "¿Tienes hijos? ¿Sobrinos? Suscríbete a Planes en familia y disfruta de los planes más emocionantes con los tuyos. Te mandaremos los mejores productos y propuestas para divertiros en familia.  "
+
+msgid "Recommend LetsBonus to a friend and we'll give you %1 each."
+msgstr "Recomienda LetsBonus a un amigo y os regalamos %1 a cada uno."
+
+msgid "recommend LetsBonus"
+msgstr "recomienda"
+# /REGISTERED.
+
+msgid "The best plans, travel and exlusivos products with discounts of up to 70%"
+msgstr "Descuentos de hasta el 70% en los mejores planes de ocio de tu ciudad, viajes de película y productos exclusivos."
+
+msgid "Join for free!"
+msgstr "Regístrate gratis"
+
+msgid "I'm already registered"
+msgstr "Ya estoy registrado"
+
+msgid "The best of all you are looking for with discounts up to 70%"
+msgstr "De todo, lo que buscas, lo mejor con descuentos de hasta el 70%"
+
+msgid "We're sorry."
+msgstr "Lo sentimos."
+
+msgid "Of everything for what you look in LetsBonus we have the variety you deserve and the quality you demand. We want that you enjoy up to the last minute of your experiences."
+msgstr "De todo lo que busques en LetsBonus, tenemos la variedad y la calidad que te mereces. Queremos que disfrutes hasta el último minuto de tus experiencias."

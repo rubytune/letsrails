@@ -1,0 +1,110 @@
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2011-12-29 16:43+0100\n"
+"Last-Translator: . <.>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "detailBuynowParam"
+msgstr "¡Compra ya! %1"
+
+msgid "Detail Price"
+msgstr "precio"
+
+msgid "View all deal details"
+msgstr "Ver todo el plan"
+
+msgid "Detail Value"
+msgstr "Valor"
+
+msgid "Detail Discount Short"
+msgstr "Dto."
+
+msgid "Detail Saving"
+msgstr "Ahorro"
+
+msgid "Detail Time Left"
+msgstr "Tiempo restante"
+
+msgid "Detail Share"
+msgstr "Comparte este plan"
+
+msgid "Share in"
+msgstr "Comparte"
+
+msgid "Detail HighLights"
+msgstr "Destacamos"
+
+msgid "Detail Conditions"
+msgstr "Condiciones"
+
+msgid "Detail Ubication"
+msgstr "Ubicación"
+
+msgid "Detail Description"
+msgstr "Descripción"
+
+msgid "detailGoToWeb"
+msgstr "Ver web"
+
+msgid "ico-shippingfee"
+msgstr "Envío gratis"
+
+msgid "ico-shipping"
+msgstr "Envío gratis"
+
+msgid "%3 in %1 with the best discount. Join us!"
+msgstr "%3 en %1 con el mejor descuento. ¡Apúntate!"
+
+msgid "Buy now"
+msgstr "¡Compra ya!"
+
+msgid "ICON_AVION"
+msgstr "Vuelo incluido"
+
+msgid "ICON_CHILDCONDITIONS"
+msgstr "Viaje con niños"
+
+msgid "ICON_INSTALLMENT"
+msgstr "Pago fraccionado"
+
+msgid "ICON_SURPRISE"
+msgstr ""
+
+msgid "ICON_SHIPPINGFEE"
+msgstr "Envío gratis"
+
+msgid "ICON_SHIPPING"
+msgstr "Envío incluido"
+
+msgid "ICON_NOTICKET"
+msgstr "Móvil QR"
+
+msgid "ICON_SHOWCASE"
+msgstr "Kit de productos"
+
+msgid "ICON_2X1"
+msgstr "Ticket regalo"
+
+msgid "ICON_2X1CREDIT"
+msgstr "Cheque regalo"
+
+msgid "ICON_SHIPPINGINMEDIATE"
+msgstr "Entrega inmediata"
+
+msgid "ICON_BANKHOLIDAYSINCLUDED"
+msgstr "Incluye puentes"
+
+msgid "QR_TOOLTIP"
+msgstr "¡Ahórrate imprimir el ticket! Muestra el código QR con tu Smartphone"

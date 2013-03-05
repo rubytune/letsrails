@@ -1,0 +1,156 @@
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2012-12-03 18:17+0100\n"
+"Last-Translator: Ruben Moral <ruben.moral@letsbonus.com>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#Escapes
+msgid "escapes"
+msgstr "Escapadas"
+
+msgid "Escapes Deals"
+msgstr "Especial Escapadas"
+
+msgid "Plans of escapes in %1 past"
+msgstr "Planes pasados de Escapadas en %1"
+
+#Special Boutique
+msgid "specialboutique"
+msgstr "Complementos"
+
+msgid "SpecialBoutique Deals"
+msgstr "Complementos"
+
+msgid "Plans of specialBoutique in %1 past"
+msgstr "Productos ya publicados en Especial Boutique en %1"
+
+msgid "All, in specialboutique, the best"
+msgstr "De todo, en la boutique de accesorios, lo mejor"
+
+# Special Daily
+msgid "specialdaily"
+msgstr "Cursos Online"
+
+msgid "SpecialDaily Deals"
+msgstr "Cursos Online"
+
+msgid "Plans of specialDaily in %1 past"
+msgstr "Planes pasados en Especial Ocio en %1"
+
+msgid "All, in specialdaily, the best"
+msgstr "De todo, planes del día, lo mejor"
+
+#Special Christmas
+msgid "christmas"
+msgstr "Especial Reyes"
+
+msgid "Christmas"
+msgstr "Especial Reyes"
+
+msgid "Christmas gifts with discounts up to 70% in %1 - %2"
+msgstr "Regalos de Reyes con descuentos de hasta el 70% en %1 – %2"
+
+msgid "The most irresistible deals on Christmas gifts with discounts up to 70% in %1. Cheer up!"
+msgstr "Las ofertas más irresistibles en regalos de Reyes con descuentos de hasta el 70% en %1. ¡Anímate!"
+
+msgid "Find more gifts here!"
+msgstr "¡Encuentra más regalos aquí!"
+
+msgid "All gifts"
+msgstr "Todos"
+
+msgid "explorer"
+msgstr "Aventureros"
+
+msgid "explorer-hash"
+msgstr "aventureros"
+
+msgid "wellness"
+msgstr "Mimad@s"
+
+msgid "wellness-hash"
+msgstr "mimados"
+
+msgid "geeks"
+msgstr "Techies"
+
+msgid "geeks-hash"
+msgstr "techies"
+
+msgid "gourmets"
+msgstr "Gourmets"
+
+msgid "gourmets-hash"
+msgstr "gourmets"
+
+msgid "families"
+msgstr "Familias"
+
+msgid "families-hash"
+msgstr "familias"
+
+msgid "Plans of christmas in %1 past - %2"
+msgstr "Productos y planes pasados en Navidad en %1 - %2"
+
+msgid "Plans of christmas in %1 past"
+msgstr "Productos y planes pasados en Navidad en %1"
+
+msgid "Plans of christmas in %1 past. %2 The most compelling offers in boutique products with discounts of up to 70%. Join us!"
+msgstr "Productos y planes pasados en Navidad en %1. %2 es líder en Descuentos de Ocio, Viajes y Boutique de hasta el 70%. ¡Apúntate!"
+
+msgid "give it!"
+msgstr "¡regálalo!"
+
+#San Valentín
+msgid "valentine"
+msgstr "San Valentín"
+
+msgid "Valentine"
+msgstr "San Valentín"
+
+msgid "Valentine gifts with discounts up to 70% in %1 - %2"
+msgstr "Regalos de San Valentín con descuentos de hasta el 70% en %1 – %2"
+
+msgid "The most irresistible deals on Valentine gifts with discounts up to 70% in %1. Cheer up!"
+msgstr "Las ofertas más irresistibles en regalos de San Valentín con descuentos de hasta el 70% en %1. ¡Anímate!"
+
+msgid "for-he"
+msgstr "Para él"
+
+msgid "for-he-hash"
+msgstr "para-el"
+
+msgid "for-both"
+msgstr "Para compartir"
+
+msgid "for-both-hash"
+msgstr "para-compartir"
+
+msgid "for-she"
+msgstr "Para ella"
+
+msgid "for-she-hash"
+msgstr "para-ella"
+
+msgid "Plans of valentine in %1 past - %2"
+msgstr "Productos y planes pasados en San Valentín en %1 - %2"
+
+msgid "Plans of valentine in %1 past"
+msgstr "Productos y planes pasados en San Valentín en %1"
+
+msgid "Plans of valentine in %1 past. %2 The most compelling offers in boutique products with discounts of up to 70%. Join us!"
+msgstr "Productos y planes pasados en San Valentín en %1. %2 es líder en Descuentos de Ocio, Viajes y Boutique de hasta el 70%. ¡Apúntate!"
+

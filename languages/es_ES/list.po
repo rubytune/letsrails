@@ -1,0 +1,140 @@
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2011-12-29 16:43+0100\n"
+"Last-Translator: . <.>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "More plans near you"
+msgstr "Más planes cerca de ti"
+
+msgid "detailHighLightsParams"
+msgstr "Destacamos en %1"
+
+msgid "Sold out!"
+msgstr "¡todo vendido!"
+
+msgid "Sold out"
+msgstr "Todo vendido"
+
+msgid "This is JUST a PREVIEW !!!"
+msgstr "Esto es SOLAMENTE un PREVIEW !!!"
+
+msgid "Change:"
+msgstr "Cambiar:"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "Listing"
+msgstr "Listado"
+
+msgid "Detail"
+msgstr "Detalle"
+
+msgid "You may also like"
+msgstr "También te puede interesar"
+
+msgid "See more plans"
+msgstr "Ver más planes"
+
+msgid "There is no product for the selected category."
+msgstr "No hay productos para el filtro seleccionado."
+
+msgid "see"
+msgstr "ver"
+
+msgid "follow it"
+msgstr "síguela"
+
+#Labels
+msgid "Last units"
+msgstr "Quedan pocos"
+
+msgid "Last just %1 unit"
+msgid_plural "Last just %1 units"
+msgstr[0] "Queda sólo %1"
+msgstr[1] "Quedan sólo %1"
+
+msgid "Last %1 units"
+msgstr "Quedan menos de %1"
+
+msgid "Luxury cosmetics"
+msgstr "Cosmética de lujo"
+
+msgid "Luxury product"
+msgstr "Producto de lujo"
+
+msgid "Luxury perfumery"
+msgstr "Fragancia de lujo"
+
+msgid "Immediate shipping"
+msgstr "Entrega inmediata"
+
+msgid "Free shipping"
+msgstr "Envío gratuito "
+
+msgid "Shipping fee included"
+msgstr "Gastos de envío incluidos"
+
+msgid "Popular"
+msgstr "Popular"
+
+msgid "Include holidays"
+msgstr "Incluye puentes"
+
+msgid "Highlight"
+msgstr "Destacado"
+
+msgid "See all the daily deal plans"
+msgstr "Ver todos los planes del día"
+
+msgid "The bests daily deal plans in %1"
+msgstr "Los mejores planes del día en %1"
+
+msgid "The bests products"
+msgstr "Los mejores productos"
+
+msgid "See all the boutique products"
+msgstr "Ver todos los productos de boutique"
+
+msgid "See all technology products"
+msgstr "Ver todos los productos de tecnología"
+
+msgid "The bests trips"
+msgstr "Los mejores viajes"
+
+msgid "See all trips"
+msgstr "Ver todos los viajes"
+
+msgid "The bests shows in %1"
+msgstr "Los mejores espectáculos en %1"
+
+msgid "See all the shows"
+msgstr "Ver todos los espectáculos"
+
+msgid "Selection"
+msgstr "Selección"
+
+msgid "Selecting discount in %1 from 70%. Offers %1 - LetsBonus"
+msgstr "Selección de descuentos en %1 del 70%. Ofertas %1 - LetsBonus"
+
+msgid "The best selection of discounts and deals in %1 from 70% in leisure, trips, products and more. Sign up!"
+msgstr "La mejor selección de descuentos y ofertas en %1 del 70% en ocio, viajes, productos y mucho más. ¡Apúntate!"
+
+msgid "Discover the Special of the week"
+msgstr "Descubre el Especial de la semana"
+
+msgid "See all the special"
+msgstr "Ver todo el especial"

@@ -1,0 +1,62 @@
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2011-12-29 16:43+0100\n"
+"Last-Translator: . <.>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Last opportunities"
+msgstr "Últimas oportunidades"
+
+msgid "How does it work?"
+msgstr "¿Cómo funciona?"
+
+msgid "FAQ"
+msgstr "Preguntas frecuentes"
+
+msgid "Promote your business"
+msgstr "Promociona tu negocio"
+
+msgid "News"
+msgstr "Prensa"
+
+msgid "LetsBonus TV"
+msgstr "LetsBonus TV"
+
+msgid "Contact"
+msgstr "Contacto"
+
+msgid "Terms and conditions"
+msgstr "Términos generales de uso"
+
+msgid "Privacy Policy"
+msgstr "Política de privacidad"
+
+msgid "Follow us on:"
+msgstr "Síguenos en:"
+
+msgid "LetsCare"
+msgstr "LetsCare"
+
+msgid "Work with us"
+msgstr "Trabaja con nosotros"
+
+msgid "Past plans"
+msgstr "Planes pasados"
+
+msgid "Follow us in"
+msgstr "Síguenos en"
+
+msgid "Entity attached to Confianza Online"
+msgstr "Entidad adherida a Confianza Online"

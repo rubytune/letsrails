@@ -1,0 +1,263 @@
+# newsletter.po
+# newsletter.po
+# Spanish translations for letsbonus package.
+# Newsletter
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2012-04-02 12:58+0100\n"
+"Last-Translator: Alessio Mavica <alessio.mavica@letsbonus.com>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Daily Deal plans"
+msgstr "Planes del día"
+
+msgid "Travel plans"
+msgstr "Viajes"
+
+msgid "Product boutique"
+msgstr "Boutique de productos"
+
+msgid "Family & Kids"
+msgstr "Family & Kids"
+
+msgid "dailyDeal newsletter"
+msgstr "Planes del día"
+
+msgid "daily newsletter"
+msgstr "Planes del día"
+
+msgid "travel newsletter"
+msgstr "Viajes"
+
+msgid "boutique newsletter"
+msgstr "Boutique de productos"
+
+msgid "family newsletter"
+msgstr "Family & Kids"
+
+msgid "dailypick newsletter"
+msgstr "LetsBonus Selección"
+
+msgid "This mail is already in our database"
+msgstr "Este correo ya existe en nuestra base de datos"
+
+msgid "Would you like to subscribe to LetsBonus?"
+msgstr "¿Quieres suscribirte a LetsBonus?"
+
+msgid "I'm getting offers from other city other than my own."
+msgstr "Estoy recibiendo ofertas de otra ciudad diferente a la mía."
+
+msgid "I prefer other shopping sites than LetsBonus"
+msgstr "Prefiero otras páginas de compras diferentes a LetsBonus"
+
+msgid "I receive too many e-mails in my email."
+msgstr "Recibo demasiados e-mails en mi correo electrónico"
+
+msgid "There are too many offers in e-mails from LetsBonus."
+msgstr "Hay demasiadas ofertas en los e-mails de LetsBonus."
+
+msgid "There are few deals on the e-mails from LetsBonus."
+msgstr "Hay pocas ofertas en los e-mails de LetsBonus."
+
+msgid "I do not receive offers that interest me."
+msgstr "No recibo ofertas que me interesen"
+
+msgid "When I entered directly to the website of LetsBonus."
+msgstr "Cuando quiero entro directamente a la web de LetsBonus"
+
+msgid "Receipt LetsBonus deals too often."
+msgstr "Recibo ofertas de LetsBonus con demasiada frequencia"
+
+msgid "Other reasons."
+msgstr "Otras razones"
+
+msgid "Do you want to stop being the first one in finding out about the innovations in plans and acceding to incredible prices?"
+msgstr "¿Quieres dejar de ser el primero en enterarte de las novedades en planes y acceder a precios increíbles?"
+
+msgid "No, I still enjoy LetsBonus"
+msgstr "No, quiero seguir disfrutando de multiEstrella & LetsBonus"
+
+msgid "Yes, I want to unsubscribe"
+msgstr "Sí, quiero darme de baja"
+
+msgid "Help us to improve"
+msgstr "Ayúdanos a mejorar"
+
+msgid "Please tell us why you want to unsubscribe"
+msgstr "Por favor, indícanos el motivo por el que quieres darte de baja"
+
+msgid "Choose a reason"
+msgstr "Selecciona un motivo"
+
+msgid "Good Decision"
+msgstr "¡Buena decisión!"
+
+msgid "We're glad you decided to continue to enjoy incredible plans with us. You will do not regret it!"
+msgstr "Estamos contentos de que hayas decidido seguir disfrutando de planes increíbles con nosotros. ¡No te arrepentirás!"
+
+msgid "Thanks for trusting us."
+msgstr "Gracias por confiar en nosotros."
+
+msgid "You have completed the process of unsubscribe."
+msgstr "Has finalizado con el proceso de baja."
+
+msgid "Remember that you will be able to continue acceding to your account as always. In addition, choose the information of offers and"
+msgstr "Recuerda que podrás continuar accediendo a tu cuenta como siempre. Además, escoge la información de ofertas y"
+
+msgid "that you want to return to receive when you want and manages and consults all your purchases."
+msgstr "novedades que quieres volver a recibir cuando quieras y gestiona y consulta todas tus compras."
+
+#Newsletter Unsubscribe
+##Step 1 & Common
+msgid "Step 1"
+msgstr "Paso 1"
+
+msgid "Step 2"
+msgstr "Paso 2"
+
+msgid "Unsubscribe from newsletter"
+msgstr "Darse de baja de la newsletter"
+
+msgid "I want to unsubscribe from ALL the newsletters I receive"
+msgstr "Quiero darme de baja de TODAS las newsletter que recibo"
+
+msgid "I just want to unsubscribe from SOME of the newsletters I receive"
+msgstr "Sólo quiero darme de baja de ALGUNAS de las newsletter que recibo"
+
+msgid "Choose one of this two options"
+msgstr "Elige una de las dos opciones"
+
+msgid "confirm unsubscribe"
+msgstr "confirmar baja"
+
+msgid "Confirm unsubscribe"
+msgstr "Confirmar baja"
+
+##Step 2. Algunas
+msgid "Manage your newsletters. Choose the ones you want to receive"
+msgstr "Gestiona tus newsletters. Elige las que quieres seguir recibiendo"
+
+msgid "save changes"
+msgstr "guardar cambios"
+
+msgid "Receive"
+msgstr "Recibir"
+
+msgid "Not receive"
+msgstr "No Recibir"
+
+##Step 2. Todas
+msgid "Giving low of the newsletter will no longer receive ALL of our exclusive offers via email"
+msgstr "Dándote de baja de la newsletter dejarás de recibir TODAS nuestras ofertas exclusivas en tu correo"
+
+msgid "We feel your decision. Could you indicate why you want to unsubscribe? Knowing this will help us improve"
+msgstr "Sentimos tu decisión ¿Nos podrías indicar por qué quieres darte de baja? Saberlo nos ayudará a mejorar"
+
+msgid "Please tell us why"
+msgstr "Por favor indicanos el motivo"
+
+##Step 3
+msgid "We have received your application correctly"
+msgstr "Hemos recibido tu solicitud correctamente"
+
+msgid "Between 24h and 48h will be effective. You will only receive the newsletters you selected. If you have not selected any, and will not receive more. Whenever you wish, you can re-enable the newsletters you want from your personal area"
+msgstr "Entre 24h y 48h se hará efectiva. Sólo recibirás las newsletters que has seleccionado. Si no has selccionado ninguna, ya no recibirás más. Siempre que desees, puedes volver a activar las newsletters que quieras desde tu área personal"
+
+msgid "If you thought you better or you're wrong to unsubscribe"
+msgstr "Si te lo has pensado mejor o te has equivocado al darte de baja"
+
+msgid "click here"
+msgstr "haz clic aquí"
+
+## Sidebar register
+msgid "Well done!"
+msgstr "¡Bien hecho!"
+
+msgid "Since this moment you will get our plans in your inbox."
+msgstr "A partir de ahora recibirás nuestros planes en tu email."
+
+msgid "Subscribe to Family&Kids"
+msgstr "Suscríbete a Family&Kids"
+
+msgid "Would you like to recibe our Family&Kids plans?"
+msgstr "¿Quieres recibir nuestros planes Family&Kids?"
+
+msgid "What city do you like to susbcribe?"
+msgstr "¿De qué ciudad?"
+
+msgid "Need to provide an email."
+msgstr "Es necesario proporcionar un email."
+
+msgid "This string isn't an email"
+msgstr "Este string no es un email"
+
+msgid "Thanks for subscribing to our newsletter! We have sent you a confirmation email."
+msgstr "¡Muchas gracias por suscribirte a nuestros planes! Te hemos enviado un email para que confirmes tu suscripción."
+
+msgid "Remember that you can also create your account by completing the following form."
+msgstr "Recuerda que también puedes crear tu cuenta completando tu registro en el siguiente formulario."
+
+msgid "Thank you! Your subscription to our newsletter has been activated successfully! From now on you will receive our deals in your email."
+msgstr "¡Muchas gracias! ¡Tu suscripción a la newsletter ha sido activada correctamente! A partir de ahora recibirás nuestros planes en tu correo."
+
+#Fin de Newsletter Unsubscribe
+
+
+#Closed cities
+##Step 1 & Common
+
+msgid "Managing your newsletter"
+msgstr "Gestión de tus newsletters"
+
+msgid "Actual city"
+msgstr "Ciudad actual"
+
+msgid "Your Newsletters"
+msgstr "Tus Newsletters"
+
+msgid "Confirmation"
+msgstr "Confirmación"
+
+msgid "You are currently subscribed to newsletters from"
+msgstr "Actualmente estás suscrito a las newsletters de"
+
+msgid "Do you want to change city?"
+msgstr "¿Quieres cambiar de ciudad?"
+
+msgid "continue"
+msgstr "continúa"
+
+msgid "Select the new city"
+msgstr "Selecciona la nueva ciudad"
+
+msgid "save and continue"
+msgstr "guarda y continúa"
+
+
+##Step 2 
+
+msgid "These are the plans that currently receive. If you want to unsubscribe from any of the newsletters, uncheck the box."
+msgstr "Éstos son los planes que recibes actualmente. Si quieres darte de baja de alguna de las newsletters, desmarca la casilla."
+
+msgid "Select the newsletter"
+msgstr "Seleccione las newsletter"
+
+msgid "Coming soon"
+msgstr "Próximamente"
+
+##Step 3
+
+msgid "Alright! Your data has been successfully saved."
+msgstr "¡Muy bien! Tus datos se han guardado correctamente."
+
+msgid "Check out our plans and products today"
+msgstr "Echa un vistazo a nuestros planes y productos de hoy"
+

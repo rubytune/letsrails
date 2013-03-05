@@ -1,0 +1,5023 @@
+# #-#-#-#-#  account.po (Core v2.5)  #-#-#-#-#
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+# #-#-#-#-#  boutique.po (Core v2.5)  #-#-#-#-#
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+# #-#-#-#-#  calendar.po (Core v2.5)  #-#-#-#-#
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+# #-#-#-#-#  campaigns.po (Core v2.5)  #-#-#-#-#
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+# #-#-#-#-#  client.po (Core v2.5)  #-#-#-#-#
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+# #-#-#-#-#  customSendTickets.po (Core v2.5)  #-#-#-#-#
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+# #-#-#-#-#  dailyDeal.po (Core v2.5)  #-#-#-#-#
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+# #-#-#-#-#  detail.po (Core v2.5)  #-#-#-#-#
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+# #-#-#-#-#  family.po (Core v2.5)  #-#-#-#-#
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+# #-#-#-#-#  footer.po (Core v2.5)  #-#-#-#-#
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+# #-#-#-#-#  forms.po (Core v2.5)  #-#-#-#-#
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+# #-#-#-#-#  letsbonus.po (Core v2.5)  #-#-#-#-#
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+# #-#-#-#-#  list.po (Core v2.5)  #-#-#-#-#
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+# #-#-#-#-#  logoArea.po (Core v2.5)  #-#-#-#-#
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+# #-#-#-#-#  metatags.po (Core v2.5)  #-#-#-#-#
+# Spanish translations for METATAGS.
+# This translations are site-wide, and rlate to SEO and metatags in the HTML level.
+#
+# #-#-#-#-#  newsletter.po (Core v2.5)  #-#-#-#-#
+# newsletter.po
+# newsletter.po
+# Spanish translations for letsbonus package.
+# Newsletter
+#
+# #-#-#-#-#  pastPlans.po (Core v2.5)  #-#-#-#-#
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+# #-#-#-#-#  promotebusiness.po (Core v2.5)  #-#-#-#-#
+# promotebusiness.po
+# Spanish translations for letsbonus package.
+# Recent page
+#
+# #-#-#-#-#  recommend.po (Core v2.5)  #-#-#-#-#
+# recommend.po
+# Portuguese translations for letsbonus package.
+# Recommend page
+#
+# #-#-#-#-#  shop.po (Core v2.5)  #-#-#-#-#
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+# #-#-#-#-#  shows.po (Core v2.5)  #-#-#-#-#
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+# #-#-#-#-#  sidebar.po (Core v2.5)  #-#-#-#-#
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+# #-#-#-#-#  specialVerticals.po (Core v2.5)  #-#-#-#-#
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+# #-#-#-#-#  statics.po (Core v2.5)  #-#-#-#-#
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+# #-#-#-#-#  technology.po (Core v2.5)  #-#-#-#-#
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+# #-#-#-#-#  tickets.po (Core v2.5)  #-#-#-#-#
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+# #-#-#-#-#  travel.po (Core v2.5)  #-#-#-#-#
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+# #-#-#-#-#  welcome.po (Core v2.5)  #-#-#-#-#
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"#-#-#-#-#  account.po (Core v2.5)  #-#-#-#-#\n"
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2012-04-17 17:17+0100\n"
+"Last-Translator: didac Pedra <didac.pedra@letsbonus.com>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  boutique.po (Core v2.5)  #-#-#-#-#\n"
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2013-01-07 11:14+0100\n"
+"Last-Translator: Ruben Moral <ruben.moral@letsbonus.com>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  calendar.po (Core v2.5)  #-#-#-#-#\n"
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2011-12-29 16:43+0100\n"
+"Last-Translator: . <.>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  campaigns.po (Core v2.5)  #-#-#-#-#\n"
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2012-04-17 17:17+0100\n"
+"Last-Translator: didac Pedra <didac.pedra@letsbonus.com>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  client.po (Core v2.5)  #-#-#-#-#\n"
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2012-11-13 17:19+0100\n"
+"Last-Translator: Jessica <jessica.marin@letsbonus.com>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  customSendTickets.po (Core v2.5)  #-#-#-#-#\n"
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2011-12-29 16:43+0100\n"
+"Last-Translator: . <.>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  dailyDeal.po (Core v2.5)  #-#-#-#-#\n"
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2011-12-29 16:43+0100\n"
+"Last-Translator: . <.>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  detail.po (Core v2.5)  #-#-#-#-#\n"
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2011-12-29 16:43+0100\n"
+"Last-Translator: . <.>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  family.po (Core v2.5)  #-#-#-#-#\n"
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2011-12-29 16:43+0100\n"
+"Last-Translator: . <.>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  footer.po (Core v2.5)  #-#-#-#-#\n"
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2011-12-29 16:43+0100\n"
+"Last-Translator: . <.>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  forms.po (Core v2.5)  #-#-#-#-#\n"
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2012-11-05 12:24+0100\n"
+"Last-Translator: \n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+"#-#-#-#-#  letsbonus.po (Core v2.5)  #-#-#-#-#\n"
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2011-12-29 16:43+0100\n"
+"Last-Translator: . <.>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  list.po (Core v2.5)  #-#-#-#-#\n"
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2011-12-29 16:43+0100\n"
+"Last-Translator: . <.>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  logoArea.po (Core v2.5)  #-#-#-#-#\n"
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2011-12-29 16:43+0100\n"
+"Last-Translator: . <.>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  metatags.po (Core v2.5)  #-#-#-#-#\n"
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2012-12-10 17:28+0100\n"
+"Last-Translator: Jessica <jessica.marin@letsbonus.com>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  newsletter.po (Core v2.5)  #-#-#-#-#\n"
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2012-04-02 12:58+0100\n"
+"Last-Translator: Alessio Mavica <alessio.mavica@letsbonus.com>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  pastPlans.po (Core v2.5)  #-#-#-#-#\n"
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2011-12-29 16:43+0100\n"
+"Last-Translator: . <.>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  promotebusiness.po (Core v2.5)  #-#-#-#-#\n"
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2012-05-07 16:33+0100\n"
+"PO-Revision-Date: 2012-05-07 12:58+0100\n"
+"Last-Translator: Alessio Mavica <alessio.mavica@letsbonus.com>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  recommend.po (Core v2.5)  #-#-#-#-#\n"
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2012-04-02 12:58+0100\n"
+"Last-Translator: Alessio Mavica <alessio.mavica@letsbonus.com>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  shop.po (Core v2.5)  #-#-#-#-#\n"
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2011-12-29 16:43+0100\n"
+"Last-Translator: . <.>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  shows.po (Core v2.5)  #-#-#-#-#\n"
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2011-12-29 16:43+0100\n"
+"Last-Translator: . <.>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  sidebar.po (Core v2.5)  #-#-#-#-#\n"
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2011-12-29 16:43+0100\n"
+"Last-Translator: . <.>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  specialVerticals.po (Core v2.5)  #-#-#-#-#\n"
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2012-12-03 18:17+0100\n"
+"Last-Translator: Ruben Moral <ruben.moral@letsbonus.com>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+"#-#-#-#-#  statics.po (Core v2.5)  #-#-#-#-#\n"
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2011-12-29 16:43+0100\n"
+"Last-Translator: . <.>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  technology.po (Core v2.5)  #-#-#-#-#\n"
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2012-07-20 23:41+0100\n"
+"Last-Translator: Helena Costa Pereira <helena.costa@letsbonus.com>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  tickets.po (Core v2.5)  #-#-#-#-#\n"
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2011-12-29 16:43+0100\n"
+"Last-Translator: . <.>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  travel.po (Core v2.5)  #-#-#-#-#\n"
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2012-06-22 09:32+0100\n"
+"Last-Translator: \n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  welcome.po (Core v2.5)  #-#-#-#-#\n"
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2012-04-17 17:17+0100\n"
+"Last-Translator: didac Pedra <didac.pedra@letsbonus.com>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Login to my account %1"
+msgstr "Accede a tu cuenta %1"
+
+msgid "Login to my account"
+msgstr "Accede a tu cuenta"
+
+msgid "Forgot your password?"
+msgstr "¿Olvidaste tu contraseña?"
+
+msgid "Your account"
+msgstr "Tu cuenta"
+
+msgid "Win %1"
+msgstr "Consigue %1"
+
+msgid "Register"
+msgstr "Regístrate"
+
+msgid "See my account"
+msgstr "Ver mi cuenta"
+
+msgid "Logout"
+msgstr "Salir"
+
+msgid "Welcome"
+msgstr "Bienvenido"
+
+msgid "recoverySubjectMail"
+msgstr "Recupera tu contraseña"
+
+msgid "newPasswordLink"
+msgstr "Recuperar contraseña!"
+
+msgid "Recover the password!"
+msgstr "Recuperar contraseña!"
+
+msgid "Reset Password"
+msgstr "Restablecer contraseña"
+
+msgid "Create your LetsBonus account"
+msgstr "Crea tu cuenta"
+
+msgid "There is already an account using the same email"
+msgstr "Ya existe una cuenta usando el mismo correo electrónico"
+
+msgid "Enter your login data"
+msgstr "Introduce tus datos de acceso"
+
+msgid "Activate your LetsBonus account"
+msgstr "Activa tu cuenta"
+
+msgid "Insert your data"
+msgstr "Introduce tus datos"
+
+msgid "The email does not exist"
+msgstr "El correo no existe"
+
+msgid "There is a system error, try again"
+msgstr "Ha habido un error en el sistema, intentelo denuevo"
+
+msgid "Your account is disabled, please contact us to know more"
+msgstr "Su cuenta ha sido deshabilitada, por favor contactenos para saber más"
+
+msgid "The password is wrong"
+msgstr "La contraseña es incorrecta"
+
+msgid "Select a gender"
+msgstr "Elige un género"
+
+msgid "You must be 18 years old to register"
+msgstr "Debes tener 18 años para registrarte"
+
+msgid "Passwords do not match"
+msgstr "Los passwords no coinciden"
+
+msgid "ID must be numeric"
+msgstr "El ID tiene que ser numérico"
+
+msgid "Your data has been succefuly updated"
+msgstr "Tus datos han sido modificados correctamente"
+
+msgid "Wrong user/password"
+msgstr "El usuario/contraseña no son correctos"
+
+msgid "Unable to change the password, make sure that passwords are the same."
+msgstr ""
+"No se ha podido cambiar la contraseña, asegúrate que las contraseñas sean "
+"iguales."
+
+msgid "Recover your password"
+msgstr "Recupera tu contraseña"
+
+msgid "We send you an email with a link to create your new password and go!"
+msgstr ""
+"Te mandamos un email con un enlace para crear tu nueva contraseña y ¡listo!"
+
+msgid ""
+"* Under the provisions of Law 15/1999 of December 13, Protection of Personal "
+"Data, we inform you that the personal information you provide will be stored "
+"and processed in files owned by LetsBonus, SL , in order to fulfill your "
+"request and provide the requested service, and to keep you informed, "
+"including by electronic means, on issues related to the activity of the "
+"company and its services."
+msgstr ""
+"* En virtud de lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, "
+"de Protección de Datos de Carácter Personal y la LSSICE 34/2002, de 11 de "
+"julio, de la Sociedad de la Información y de Comercio Electrónico, le "
+"informamos que los datos de carácter personal que usted nos facilite "
+"quedarán incorporados y serán tratados en los ficheros titularidad de "
+"LetsBonus, S.L., con el fin de poder atender su petición y prestarle el "
+"servicio solicitado, así como para mantenerle informado, incluso por medios "
+"electrónicos, sobre cuestiones relativas a la actividad de la empresa y sus "
+"servicios."
+
+msgid ""
+"Also advised of the possibility of exercising, at any time, access rights, "
+"rectification, cancellation and opposition of your personal data by means of "
+"out <a title='Contact form' href='%1'>contact form</a>"
+msgstr ""
+"Asimismo le informamos de la posibilidad de ejercer en cualquier momento, "
+"los derechos de acceso, rectificación, cancelación y oposición de sus datos "
+"de carácter personal mediante solicitud a través del <a title='Formulario de "
+"contacto' href='%1'>formulario de contacto</a> o llamando al 902 027 372"
+
+msgid ""
+"Although you are subscribed and receive our email offers, create your "
+"account with your name and password. So you can manage your credit, your "
+"purchases and direct access to your tickets. If you have any questions "
+"please contact us at <a href='%1'>%1</a>"
+msgstr ""
+"Aunque ya estés apuntado y recibas nuestras ofertas por email, crea tu "
+"cuenta con tu nombre y contraseña. Así podrás gestionar tu crédito, tus "
+"compras y acceder directamente a tus tickets. Si tienes cualquier duda "
+"contacta con nosotros en <a href='%1'>%1</a>"
+
+msgid "Email sent"
+msgstr "Mail enviado"
+
+msgid "You will receive an email to retrieve your password."
+msgstr "Recibirás un correo para recuperar tu contraseña."
+
+msgid ""
+"There was an error while sending your new password. Please try again by "
+"clicking <a href='%1' title='Recover your password'>here</a>."
+msgstr ""
+"Ha ocurrido un error durante el envío de tu nueva contraseña. Por favor, "
+"inténtalo de nuevo haciendo click <a href='%1' title='Recupera tu "
+"contraseña'>aquí</a>."
+
+msgid "Change your password"
+msgstr "Modifica tu contraseña"
+
+msgid "Enter your password"
+msgstr "Introduce tu contraseña"
+
+# %1 is the email of the client
+msgid "For the account %1"
+msgstr "Para la cuenta %1"
+
+msgid "Create new password"
+msgstr "Crear nueva contraseña"
+
+msgid "Password changed"
+msgstr "Contraseña modificada"
+
+msgid "Your password has been changed successfully."
+msgstr "Tu contraseña ha sido modificada correctamente."
+
+msgid "Thanks for subscribing to LetsBonus!"
+msgstr "¡Gracias por suscribirte a LetsBonus!"
+
+msgid "Welcome to the fun of collective buying."
+msgstr "Bienvenido a la diversión de la compra colectiva."
+
+msgid ""
+"Thanks to your participation, we are revolutionizing the way we shop in your "
+"city! We get incredible discounts because many bought together!"
+msgstr ""
+"¡Gracias a tu participación estamos revolucionando la manera de comprar en "
+"tu ciudad! ¡Conseguimos increíbles descuentos porque muchos compramos juntos!"
+
+msgid "Restaurants"
+msgstr "Restaurantes"
+
+msgid "Escapes"
+msgstr "Escapadas"
+
+msgid "Spas"
+msgstr "Spas"
+
+msgid "Beauty"
+msgstr "Belleza"
+
+msgid "Shows"
+msgstr "Espectáculos"
+
+msgid "Adventure"
+msgstr "Aventura"
+
+msgid "LetsBonus in your city"
+msgstr "LetsBonus en tu ciudad"
+
+msgid ""
+"LetsBonus allows you to enjoy a fun and innovative way to buy entertainment, "
+"personal care and fashion products at amazing discounts."
+msgstr ""
+"LetsBonus te permite disfrutar de una innovadora y divertida forma de "
+"comprar ocio, cuidado personal y productos de moda a descuentos increíbles."
+
+msgid ""
+"Every day we offer something fun to do, eat or shop in your city, at "
+"unbelievable prices: art, restaurants and bars, spas and beauty centers, "
+"concerts, theater, fashion, health clubs, hotels and all kinds of fun "
+"activities."
+msgstr ""
+"Cada día te ofrecemos algo divertido que hacer, comer o comprar en tu "
+"ciudad, a precios increíbles: arte, restaurantes y bares, spas y centros de "
+"belleza, conciertos, teatros, artículos de moda, gimnasios, hoteles y todo "
+"tipo de actividades divertidas."
+
+msgid "Password's change"
+msgstr "Cambio de contraseña"
+
+msgid "Click on the link below and you will be able to change your password:"
+msgstr "Haz clic en el siguiente enlace y podrás cambiar tu contraseña:"
+
+msgid "If you didn't ask for the password, please delete this e-mail. Thanks."
+msgstr "Si no has solicitado tu contraseña, por favor elimina este email."
+
+msgid ""
+"Please, do not reply to this mail: If you have any questions or suggestions "
+"go to"
+msgstr ""
+"Por favor, no respondas a este e-mail: Si tienes cualquier pregunta o "
+"sugerencia dirígete al"
+
+msgid "Help Center"
+msgstr "Centro de Ayuda"
+
+msgid "City"
+msgstr "Ciudad"
+
+msgid "Select a city"
+msgstr "Selecciona una ciudad"
+
+msgid "Accept the"
+msgstr "Acepto la"
+
+msgid "Privacy policy"
+msgstr "Política de privacidad"
+
+msgid ""
+"Sorry, but you can't change your password from here (you maybe dit it "
+"before). To change your password, you need to ask again by clicking on the "
+"link below:"
+msgstr ""
+"Lo sentimos, pero no puedes cambiar tu contraseña desde esta página (quizás "
+"ya lo hiciste antes). Para cambiar tu contraseña, tienes que solicitarlo de "
+"nuevo haciendo click en el siguiente enlace:"
+
+msgid "All inputs are obligatories"
+msgstr "Todos los campos son obligatorios"
+
+# MRW sale postal tracking
+msgid "delivered"
+msgstr "Entregado"
+
+msgid "We have already provided your order"
+msgstr "Ya hemos entregado tu pedido."
+
+msgid "absent"
+msgstr "Ausente"
+
+msgid "MRW has passed through his home and there was nobody in the house"
+msgstr ""
+"MRW ha pasado por su domicilio y no había nadie en casa, por favor llama al "
+"902 300 400  indicando el número de envío para que vuelva a estar reparto. "
+"El pedido sólo se guardará dos semanas, pasado este tiempo se devolverá a "
+"LetsBonus."
+
+msgid "Incorrect delivery data"
+msgstr "Datos de entrega incorrectos"
+
+msgid "The delivery data is incorrect"
+msgstr ""
+"Los datos postales para la entrega son incorrectos, por favor llama al 902 "
+"30 400  indicando el número de envío y los datos para la entrega. El pedido "
+"sólo se guardará dos semanas, pasado este tiempo se devolverá a LetsBonus."
+
+msgid "Incidence in the delivery"
+msgstr "Incidencia en la entrega"
+
+msgid "an incidence has courred in the delivery"
+msgstr ""
+"Se ha producido una incidencia en la entrega, por favor llama a atención al "
+"cliente de LetsBonus para mas información."
+
+msgid "waiting to be picked up in office"
+msgstr "Pendiente recogida en franquicia"
+
+msgid "The order is waiting to be picked up in office"
+msgstr ""
+"El pedido está pendiente de recoger en franquicia, llama al 902 300 400  "
+"para mas información. El pedido sólo se guardará dos semanas, pasado este "
+"tiempo se devolverá a LetsBonus."
+
+msgid "In delivery"
+msgstr "En reparto"
+
+msgid "Your order is in delivery"
+msgstr ""
+"Su pedido está en reparto, para mas información por favor llame al 902 300 "
+"400 indicando el número de envío."
+
+msgid "In transit"
+msgstr "En tránsito"
+
+msgid "your order is in transit"
+msgstr ""
+"Su pedido está en preparación, en un plazo de 24 a 48h estará en reparto."
+
+msgid "Order waiting for the customer"
+msgstr "Pendiente proveedor"
+
+msgid "Your order is watting to delivery from the customer."
+msgstr "Su pedido está pendiente de entrega por parte del proveedor."
+
+msgid "Service temporary not available."
+msgstr "Servicio temporalmente no disponible."
+
+msgid "Sorry, MRW still do not provide your order infromation."
+msgstr "Disculpa,, MRW no nos ha proporcionado información sobre tu pedido."
+
+msgid "Sale Postal Tracking"
+msgstr "Ver estado de pedido"
+
+msgid "Something went wrong"
+msgstr "Ha ocurrido un error inesperado"
+
+msgid "Order number"
+msgstr "Número de envío"
+
+msgid "Receiver name"
+msgstr "Nombre receptor"
+
+msgid "Update date"
+msgstr "Fecha actualización"
+
+msgid "Order status"
+msgstr "Estado de envío"
+
+msgid "Order provider"
+msgstr "Proveedor de envío"
+
+# Postal Data
+msgid "Insert a title of postal data"
+msgstr "Introduce un título a la dirección postal"
+
+msgid "Insert an address"
+msgstr "Introduce la dirección"
+
+msgid "Insert a Postal Code"
+msgstr "Introduce el código postal"
+
+msgid "Insert a town"
+msgstr "Introduce la población"
+
+msgid "Insert a province"
+msgstr "Introduce la provincia"
+
+msgid "Insert a phone number"
+msgstr "Introduce el número de teléfono"
+
+msgid "Please insert only numbers"
+msgstr "Por favor introduce solo números"
+
+msgid "Login to your account and Send it to your friends"
+msgstr "Accede a tu cuenta y recomienda LetsBonus a tus amigos"
+
+# Credits
+msgid "Crédito Letsbonus"
+msgstr "Crédito Letsbonus"
+
+msgid "Crédito Devolución"
+msgstr "Crédito Devolución"
+
+msgid "Crédito Regalo"
+msgstr "Cheque Regalo"
+
+msgid "Letscard"
+msgstr "Letscard"
+
+msgid "Crédito Inicial"
+msgstr "El crédito que tenías en tu cuenta antes de Marzo 2012."
+
+msgid "Boutique Deals"
+msgstr "Boutique"
+
+msgid "boutiqueHeading"
+msgstr "Boutique"
+
+msgid "boutique"
+msgstr "Boutique"
+
+msgid "View more details"
+msgstr "ver más detalles"
+
+msgid "The specified amount exceeds the stock."
+msgstr "La cantidad especificada supera el stock."
+
+msgid ""
+"You've purchased %1 time/times this product, and with the specified amount "
+"exceeds the maximum amount allowed per user."
+msgstr ""
+"Ya has comprado %1 vez/veces este producto, y junto a la cantidad "
+"especificada supera la cantidad máxima permitida por usuario."
+
+msgid "Product Kit"
+msgstr "Kit de productos"
+
+msgid "Free Ticket"
+msgstr "Ticket regalo"
+
+msgid "You can only purchase a maximum of %1 tickets for this product."
+msgstr "Sólo puedes comprar un máximo de %1 tickets de este producto."
+
+msgid ""
+"Requested quantities are not available on all of your chosen items and have "
+"been adjusted. Quantities that have been reduced are shown in red."
+msgstr ""
+"Las cantidades solicitadas no están disponibles para todos los artículos y "
+"se han aplicado algunas limitaciones. Las cantidades que han sido limitadas "
+"están en color rojo."
+
+msgid "Requested quantities are not available and have been adjusted."
+msgstr ""
+"Las cantidades solicitadas no están disponibles y se han aplicado algunas "
+"limitaciones."
+
+msgid ""
+"Sorry, the requested items are no more available. The purchase process "
+"cannot go on."
+msgstr ""
+"Las cantidades solicitadas no están disponibles. No será posible continuar "
+"con el proceso de compra."
+
+msgid "All, in boutique, the best"
+msgstr "De todo, en la boutique de productos, lo mejor"
+
+msgid ""
+"We are selecting the most exclusive products from the brands you love "
+"surround you, chic accessories, perfumes better you feel, the design details "
+"you love the most for your home ... and more!"
+msgstr ""
+"Estamos seleccionando los productos más exclusivos de las marcas de las que "
+"te gusta rodearte, los complementos más chic, los perfumes que mejor te "
+"sientan, los detalles de diseño que más te agradan para tu hogar... ¡y mucho "
+"más!"
+
+msgid "Select the products you'd like to add to your kit"
+msgstr "Selecciona los productos que quieras añadir al kit"
+
+msgid "Your selection boutique"
+msgstr "Tu Selección de Boutique"
+
+msgid "Show product"
+msgstr "Mostrar producto"
+
+msgid "See product"
+msgstr "Ver producto"
+
+msgid "add"
+msgstr "añadir"
+
+msgid "Select the products you wish to add to your pack"
+msgstr "Selecciona los productos que quieras añadir al pack"
+
+msgid ""
+"You've purchased %1 time/times this item, and with the specified amount "
+"exceeds the maximum amount allowed per user."
+msgstr ""
+"Ya has comprado %1 unidades de este artículo, y junto a la cantidad "
+"solicitada excede el máximo permitido por usuario."
+
+msgid "You can only purchase a maximum of %1 units for this item."
+msgstr "Sólo puedes comprar un máximo de %1 unidades de este artículo."
+
+msgid "See all details of %1"
+msgstr "Ver detalles de %1"
+
+msgid "Choose an option"
+msgstr "Elige una opción"
+
+msgid "Look at other plans"
+msgstr "Ver más planes"
+
+msgid "Item out of stock"
+msgstr "Artículo agotado"
+
+msgid "You do not have even any product in your shopping cart"
+msgstr "No tienes ningún artículo en tu carrito de la compra"
+
+msgid "add product"
+msgstr "añadir producto"
+
+msgid "January"
+msgstr "Enero"
+
+msgid "February"
+msgstr "Febrero"
+
+msgid "March"
+msgstr "Marzo"
+
+msgid "April"
+msgstr "Abril"
+
+msgid "May"
+msgstr "Mayo"
+
+msgid "June"
+msgstr "Junio"
+
+msgid "July"
+msgstr "Julio"
+
+msgid "August"
+msgstr "Agosto"
+
+msgid "September"
+msgstr "Septiembre"
+
+msgid "October"
+msgstr "Octubre"
+
+msgid "November"
+msgstr "Noviembre"
+
+msgid "December"
+msgstr "Diciembre"
+
+msgid "Jan"
+msgstr "Ene"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "Mar"
+msgstr "Mar"
+
+msgid "Apr"
+msgstr "Abr"
+
+msgid "Ma"
+msgstr "May"
+
+msgid "Jun"
+msgstr "Jun"
+
+msgid "Jul"
+msgstr "Jul"
+
+msgid "Aug"
+msgstr "Ago"
+
+msgid "Sep"
+msgstr "Sep"
+
+msgid "Oct"
+msgstr "Oct"
+
+msgid "Nov"
+msgstr "Nov"
+
+msgid "Dec"
+msgstr "Dic"
+
+msgid "Sunday"
+msgstr "Domingo"
+
+msgid "Monday"
+msgstr "Lunes"
+
+msgid "Tuesday"
+msgstr "Martes"
+
+msgid "Wednesday"
+msgstr "Miércoles"
+
+msgid "Thursday"
+msgstr "Jueves"
+
+msgid "Friday"
+msgstr "Viernes"
+
+msgid "Saturday"
+msgstr "Sábado"
+
+msgid "Sun"
+msgstr "Dom"
+
+msgid "Mon"
+msgstr "Lun"
+
+msgid "Tue"
+msgstr "Mar"
+
+msgid "Wed"
+msgstr "Mié"
+
+msgid "Thu"
+msgstr "Jue"
+
+msgid "Fri"
+msgstr "Vie"
+
+msgid "Sat"
+msgstr "Sáb"
+
+msgid "Su"
+msgstr "Do"
+
+msgid "Mo"
+msgstr "Lu"
+
+msgid "Tu"
+msgstr "Ma"
+
+msgid "We"
+msgstr "Mi"
+
+msgid "Th"
+msgstr "Ju"
+
+msgid "Fr"
+msgstr "Vi"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "See all"
+msgstr "Ver todos"
+
+msgid "See More"
+msgstr "Ver más"
+
+msgid "Legal bases"
+msgstr "Bases legales"
+
+msgid "!Find out!"
+msgstr "Descúbrelo"
+
+msgid "Get your 2x1"
+msgstr "Consigue tu 2x1"
+
+msgid "Get it"
+msgstr "Consíguelo"
+
+msgid "Become a fan!"
+msgstr "Hazte fan!"
+
+msgid "Code not found"
+msgstr "El código no existe"
+
+msgid "These are some examples of plans you can enjoy:"
+msgstr "Estos son algunos de los ejemplos de planes que puedes disfrutar:"
+
+msgid "Access your account (<a href='%1'>Still not registered?</a>)"
+msgstr "Accede a tu cuenta (<a href='%1'>¿Todavía no estás registrado?</a>)"
+
+msgid "We have many experiences to enjoy throughout the year."
+msgstr "Tenemos muchas experiencias para disfrutar durante todo el año."
+
+msgid "Validate"
+msgstr "Validar"
+
+msgid "Insert here your code:"
+msgstr "Introduce el código aquí:"
+
+msgid "LetsSurprise Emotion"
+msgstr "LetsSurprise Emoción"
+
+msgid ""
+"With this LetsCard enjoying plans, and the latest travel products you choose."
+"<p>We have over 10 daily plans, products and destinations to enjoy "
+"throughout the year.</p>"
+msgstr ""
+"Con esta LetsCard disfruta de planes, viajes y lo último en productos que tú "
+"elijas.<p>Tenemos más de 10 planes diarios, productos y destinos para "
+"disfrutar todo el año.</p>"
+
+msgid ""
+"With this LetsCard enjoy unforgettable experiences to a maximum of € 29.00 "
+"will be charged to your \"My credit\" for you to use as you wish. To get:"
+msgstr ""
+"Con este LetsCard disfrutarás de experiencias inolvidables hasta un máximo "
+"de 29.00€ que se cargarán en tu sección \"Mi crédito\" para que los utilices "
+"como quieras. Para obtenerlos:"
+
+msgid ""
+"With this %1 enjoy unforgettable experiences to a maximum of € 30 will be "
+"charged to your \"My credit\" for you to use as you wish. To get:"
+msgstr ""
+"Con este %1 disfrutarás de experiencias inolvidables hasta un máximo de 30€ "
+"que se cargarán en tu sección \"Mi crédito\" para que los utilices como "
+"quieras. Para obtenerlos:"
+
+msgid "With %1 enjoy exclusive experiences."
+msgstr "Con %1 disfruta de exclusivas experiencias."
+
+msgid "LetsSurprise Escapes"
+msgstr "LetsSurprise Escapadas"
+
+msgid "LetsSurprise Restaurants Deluxe"
+msgstr "LetsSurprise Restaurantes Deluxe"
+
+msgid "LetsSurprise Shows"
+msgstr "LetsSurprise Espectáculos"
+
+msgid "LetsSurprise Travells"
+msgstr "LetsSurprise Viajes"
+
+msgid "LetsSurprise Family Plans"
+msgstr "LetsSurprise Family Plans"
+
+msgid "EVERY DAY UNFORGETTABLE EXPERIENCES IN YOUR CITY"
+msgstr "CADA DIA EXPERIENCIAS INOLVIDABLES EN TU CIUDAD"
+
+msgid "Each day, a plan in your city at discounts of up to 70%"
+msgstr "Cada día, un plan en tu ciudad con descuentos de hasta el 70%"
+
+msgid "!Participate!"
+msgstr "¡Participa!"
+
+# %1 is the name of the website (e.g. LetsBonus, Multiestrella, etc.).
+msgid "My account"
+msgstr "Mi cuenta"
+
+msgid "My purchases"
+msgstr "Mis compras"
+
+msgid "No purchases found."
+msgstr "No has realizado ninguna compra."
+
+msgid "Expiration"
+msgstr "Caducidad"
+
+msgid "Date"
+msgstr "Fecha"
+
+msgid "Saved"
+msgstr "Ahorrado"
+
+msgid "Total saved"
+msgstr "Total ahorrado"
+
+# %1 is the page number, %2 is the section being paged.
+msgid "Page %1 of '%2'"
+msgstr "Página %1 de '%2'"
+
+msgid "Go to the first page of '%1'"
+msgstr "Ir a la primera página de '%1'"
+
+msgid "Go to the last page of '%1'"
+msgstr "Ir a la última página de '%1'"
+
+msgid "Go to the next page of '%1'"
+msgstr "Ir a la siguiente página de '%1'"
+
+msgid "Go to the previous page of '%1'"
+msgstr "Ir a la página anterior de '%1'"
+
+msgid "Previous"
+msgstr "Anterior"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "First"
+msgstr "Primera"
+
+msgid "Last"
+msgstr "Última"
+
+msgid "Oferta"
+msgstr "Oferta"
+
+msgid "Fecha"
+msgstr "Fecha"
+
+msgid "Caduca"
+msgstr "Caduca"
+
+msgid "Ahorrados"
+msgstr "Ahorrados"
+
+msgid "Download ticket"
+msgstr "descarga tu ticket"
+
+msgid "Download ticket bonus"
+msgstr "descarga tu ticket bonus"
+
+msgid "Download invoice"
+msgstr "descarga tu factura"
+
+msgid "Consumed ticket"
+msgstr "Ticket consumido"
+
+msgid "The ticket was consumed on %1"
+msgstr "El ticket fue consumido el %1"
+
+msgid "Expired ticket"
+msgstr "Ticket caducado"
+
+msgid "My data"
+msgstr "Mis datos"
+
+msgid "Postal data"
+msgstr "Datos de envío"
+
+msgid "Required fields"
+msgstr "Campos obligatorios"
+
+msgid "Address"
+msgstr "Dirección"
+
+msgid "Address name"
+msgstr "Nombre dirección"
+
+msgid "Town"
+msgstr "Población"
+
+msgid "Province"
+msgstr "Provincia"
+
+msgid "This will be my usual address"
+msgstr "Ésta será mi dirección habitual"
+
+msgid "My personal data"
+msgstr "Datos personales"
+
+msgid "Modify my data"
+msgstr "Modificar mis datos"
+
+msgid "Save"
+msgstr "guardar"
+
+msgid "Cancel"
+msgstr "cancelar"
+
+msgid "Newsletter"
+msgstr "Newsletter"
+
+msgid "Modify"
+msgstr "modificar"
+
+msgid "Delete"
+msgstr "borrar"
+
+msgid "New address"
+msgstr "Nueva dirección"
+
+msgid "Subscribe to daily newsletter"
+msgstr "Suscripción a la newsletter diaria"
+
+msgid "Alternative address %1"
+msgstr "Dirección alternativa %1"
+
+msgid "Save my preferences"
+msgstr "Guardar mis preferencias"
+
+msgid "Daily Newsletter"
+msgstr "Newsletter diaria"
+
+msgid "My Credit"
+msgstr "Mi crédito"
+
+msgid "Payment Data"
+msgstr "Datos de pago"
+
+msgid "Create"
+msgstr "crear"
+
+msgid "Purchase"
+msgstr "Compra"
+
+msgid "Value"
+msgstr "Valor"
+
+msgid "Credit Card data"
+msgstr "Mis tarjetas"
+
+msgid "Invoice data"
+msgstr "Datos de facturación"
+
+msgid "Name / Company"
+msgstr "Nombre / Razón social"
+
+msgid "My addresses"
+msgstr "Mis direcciones"
+
+msgid "Enter your shipping information"
+msgstr "Introduce tus datos de envío"
+
+msgid "Add new address"
+msgstr "Añadir una nueva dirección"
+
+msgid "Existing password"
+msgstr "Contraseña actual"
+
+msgid "New password"
+msgstr "Nueva contraseña"
+
+msgid "Enter the new password"
+msgstr "Introduzca nueva contraseña"
+
+msgid "Repeat new password"
+msgstr "Repetir nueva contraseña"
+
+msgid "Concept"
+msgstr "Concepto"
+
+msgid "Credit type"
+msgstr "Tipo de crédito"
+
+msgid "default credit card"
+msgstr "predeterminada"
+
+msgid "No credit Cards"
+msgstr "No tienes tarjetas de crédito"
+
+msgid "Set default"
+msgstr "Establecer como predeterminada"
+
+msgid "My newsletters"
+msgstr "Mis newsletters"
+
+msgid "City newsletter"
+msgstr "Ciudad newsletter"
+
+msgid "Newsletter available"
+msgstr "Newsletters disponibles"
+
+msgid "Enter the city you want to receive the newsletter"
+msgstr "Indica de qué ciudad quieres recibir la newsletter"
+
+msgid "Insert a name"
+msgstr "Introduce un nombre"
+
+msgid "Insert your name"
+msgstr "Introduce tu nombre"
+
+msgid "Insert a surname"
+msgstr "Introduce un apellido"
+
+msgid "Insert your surname"
+msgstr "Introduce tu apellido"
+
+msgid "Insert a password"
+msgstr "Introduce una contraseña"
+
+msgid "Insert your current password"
+msgstr "Introduce tu contraseña actual"
+
+msgid "Gender is required"
+msgstr "El sexo es obligatorio"
+
+msgid "Insert a valid date"
+msgstr "Introduce una fecha válida"
+
+msgid "Insert a valid postal code"
+msgstr "Introduce un código postal válido"
+
+msgid "Insert a valid phone number"
+msgstr "Introduce un número de teléfono válido"
+
+msgid "This field must be a string"
+msgstr "Este campo tiene que ser una cadena de texto"
+
+msgid "Invalid password"
+msgstr "La contraseña no es correcta"
+
+msgid "You must accept the Privacy policy & Terms"
+msgstr "Debes aceptar la Política de privacidad y los Términos de uso"
+
+# My Credit Tooltips
+msgid ""
+"What you win Recommending to your friends or what you can recived in your "
+"registry or for compensation."
+msgstr ""
+"Lo que ganas Recomendando a tus amigos o que puedes haber recibido en tu "
+"proceso de registro o por compensación."
+
+msgid "Purchase returns."
+msgstr "Devoluciones de compra."
+
+msgid "LetsBonus present."
+msgstr "Obsequio de LetsBonus."
+
+msgid "LetsBonus credit cards purchases."
+msgstr "Compras de Tarjetas de Crédito LetsBonus."
+
+msgid "The credit you had in your account before March 2012."
+msgstr "El crédito que tenías en tu cuenta antes de Marzo 2012."
+
+msgid "You have no saved card"
+msgstr "No tienes ninguna tarjeta guardada"
+
+msgid "You have no purchases."
+msgstr "No tienes ninguna compra."
+
+# %1 is a link to the recommendation page
+# %2 is the recommendation credit amount
+msgid ""
+"Stay tuned to news from our website! because anytime you can get credit "
+"through special promotions."
+msgstr ""
+"Estate atento a las noticias de nuestra web! porque en cualquier momento "
+"podrías obtener crédito gracias a promociones especiales."
+
+msgid "Access Data"
+msgstr "Datos de acceso"
+
+msgid "Invalid Credentials"
+msgstr "Credenciales inválidas"
+
+msgid "Home delivery with %1"
+msgstr "Envío a domicilio con %1"
+
+msgid "Home delivery"
+msgstr "Envío a domicilio"
+
+msgid "Sorry your postal data have not modfied. Try it later"
+msgstr ""
+"Lo sentimos, tus datos postales no se han guardado. Vuelve a intentarlo más "
+"tarde"
+
+msgid "The credit you had in your account before March 2012"
+msgstr "El crédito que tenías en tu cuenta antes de Marzo del 2012"
+
+msgid "Welcome to LetsBonus"
+msgstr "Bienvenido/a a LetsBonus"
+
+msgid "New to LetsBonus or already have some LetsBonus account created?"
+msgstr "¿Nuevo/a en LetsBonus o ya tienes cuenta con nosotros?"
+
+msgid "I have no account in LetsBonus, I want to create one."
+msgstr "No tengo cuenta en LetsBonus, me gustaría crear una."
+
+msgid "If you already have LetsBonus account."
+msgstr "Sí, ya tengo una cuenta en LetsBonus."
+
+msgid "See more"
+msgstr "Ver más"
+
+msgid ""
+"You can get it upon registration, or through recommending friends, or as a "
+"compensation. Usage conditions: Can be used once and as long as the purchase "
+"value is at least three times the amount of the credit used, and will expire "
+"in 30 days."
+msgstr ""
+"El Crédito LetsBonus. Lo consigues cuando te registras, a través de "
+"recomendaciones de amigos y por compensaciones. Condiciones de uso: Son de "
+"un solo uso, tienen una caducidad inferior a 30 días y se pueden utilizar en "
+"compras superiores al cuádruple del valor del crédito utilizado salvo en "
+"promociones específicas."
+
+msgid ""
+"You get it as a refund, the ammount of the purchase or plan that you are "
+"returning is added to your account. Usage conditions: you can use it in more "
+"than one purchase, until the whole credit is consumed, it does not require a "
+"minimum purchase value and it will expire in 1 month."
+msgstr ""
+"Crédito por Devoluciones. Con una devolución de compra, se añade a tu cuenta "
+"el importe de la compra o del plan que has devuelto. Condiciones de uso: "
+"siempre que la devolución no contenga como origen de compra otro crédito (es "
+"decir, “Crédito LetsBonus”, “Crédito de Cheque Regalo” o “LetsCard”) puedes "
+"utilizar el crédito devolución en más de una compra hasta que gastes todo el "
+"crédito, no requieren un importe mínimo de compra y tienen caducidad de 1 "
+"año. En caso contrario, deberás consultar las condiciones específicas del "
+"crédito utilizado en Términos generales de uso."
+
+msgid ""
+"You get it as a refund, the ammount of the purchase or plan that you are "
+"returning is added to your account. Usage conditions: you can use it in more "
+"than one purchase, until the whole credit is consumed, it does not require a "
+"minimum purchase value and it will expire in 1 year."
+msgstr ""
+"Crédito por Devoluciones. Con una devolución de compra, se añade a tu cuenta "
+"el importe de la compra o del plan que has devuelto. Condiciones de uso: "
+"siempre que la devolución no contenga como origen de compra otro crédito (es "
+"decir, “Crédito LetsBonus”, “Crédito de Cheque Regalo” o “LetsCard”) puedes "
+"utilizar el crédito devolución en más de una compra hasta que gastes todo el "
+"crédito, no requieren un importe mínimo de compra y tienen caducidad de 1 "
+"año. En caso contrario, deberás consultar las condiciones específicas del "
+"crédito utilizado en Términos generales de uso."
+
+msgid ""
+"You can earn it from LetsBonus rewarding you with an special check because "
+"of you participating in a promotion. Usage conditions: It can be used once "
+"and as long as the value of your purchase is at least three times the "
+"ammount of the credit used. The expiry date will depend on the special "
+"conditions of the given promo with a maximum of 30 days. (Shipping cost "
+"excluded from purchase value)."
+msgstr ""
+"Crédito de Cheque Regalo. Es el que consigues cuando LetsBonus te obsequia "
+"voluntariamente con un cheque de crédito. Condiciones de uso: Son de un solo "
+"uso, tienen una caducidad inferior a 30 días y se pueden utilizar en compras "
+"superiores al cuádruple del valor del crédito utilizado salvo en promociones "
+"específicas."
+
+msgid ""
+"You get it when you buy LetsBonus Credit Cards or LetsSurprise Cards. Usage "
+"conditions: you can use it in more than one purchase, until the whole credit "
+"is consumed, it does not require a minimum purchase value and the expiry "
+"date will depend on the particular conditions of the given offer."
+msgstr ""
+"LetsCard. Lo consigues cuando compras Tarjetas de Crédito LetsBonus o "
+"Tarjetas LetsSurprise. Condiciones de uso: puedes utilizarlo en más de una "
+"compra hasta que gastes todo el crédito, no requiere un importe mínimo de "
+"compra, y tendrá una caducidad que se ajustará a las condiciones "
+"particulares de esa oferta."
+
+msgid ""
+"Is the one you had in your account before the new credit system became "
+"available (March 2012). Usage conditions: you can use it in more than one "
+"purchase until the whole credit is consumed and it does not require a "
+"minimum purchase value. The expiry date is subject to the terms determined "
+"by LetsBonus that you will find in your personal account."
+msgstr ""
+"Crédito Acumulado Marzo 2012. Es el que tenías en tu cuenta antes de que el "
+"nuevo sistema de crédito estuviera disponible (Marzo 2012). Condiciones de "
+"uso: puedes utilizarlos en más de una compra hasta que gastes todo el "
+"crédito y no requieren un importe mínimo de compra. La caducidad está sujeta "
+"a los plazos establecidos por LetsBonus especificados en tu cuenta personal."
+
+msgid ""
+"You can change your newsletters via the website of the country in which you "
+"are subscribed."
+msgstr ""
+"Puedes acceder al cambio de ciudad de tus newsletters a través de la web del "
+"país en el que estás suscrito."
+
+msgid "Coming soon"
+msgstr "Próximamente"
+
+msgid "Congratulations, you have your gift. Now personalize it and send!"
+msgstr "Enhorabuena, ya tienes tu regalo. ¡Ahora personalízalo y envíalo!"
+
+msgid ""
+"Check your inbox. You will receive an email with the details of your "
+"purchase."
+msgstr ""
+"Revisa tu buzón de entrada. Recibirás un email con los datos de tu compra."
+
+msgid "Send it by mail"
+msgstr "Envíalo por email"
+
+msgid "Give it yourself"
+msgstr "Entrégalo en persona"
+
+msgid ""
+"Just indicate the email of the person you want to give her the plan. Receive "
+"an instant personalized gift ticket by email!"
+msgstr ""
+"Sólo tienes que indicar el correo electrónico de la persona a la que quieres "
+"regalarle el plan. ¡Recibirá al instante un ticket regalo personalizado en "
+"su email!"
+
+msgid ""
+"Once you've made ​​the purchase, you will receive an original gift voucher in "
+"the inbox of your email. Want not only to give it print in hand!"
+msgstr ""
+"En cuanto hayas realizado la compra, recibirás un original ticket regalo en "
+"la bandeja de entrada de tu email. ¡Sólo te faltará imprimirlo para darlo en "
+"mano!"
+
+msgid "I want to use this data for other gifts"
+msgstr "Quiero utilizar estos datos para el resto de regalos."
+
+msgid ""
+"Check this box if you want to use the same settings for the remaining "
+"shipping gifts"
+msgstr ""
+"Marca esta casilla si deseas utilizar la misma configuración de envío para "
+"el resto de regalos."
+
+msgid "Who do you want to send?"
+msgstr "¿A quién se lo quieres enviar?"
+
+msgid "Write the recipient name"
+msgstr "Escribe el nombre del destinatario"
+
+msgid "Write it's email"
+msgstr "Escribe su email"
+
+msgid "When you want to send?"
+msgstr "¿Cuándo quieres enviarlo?"
+
+msgid "Text that will appear on your gift"
+msgstr "Texto que aparecerá en tu regalo."
+
+msgid "Remember that the ship date must be before the expiration date"
+msgstr ""
+"Recuerda que la fecha de envío debe ser anterior a la fecha de caducidad"
+
+msgid "Write some words for your gift"
+msgstr "Acompaña tu regalo con unas palabras"
+
+msgid ""
+"Write here the message that appears on your ticket gift (max. 150 "
+"characters)..."
+msgstr ""
+"Escribe aquí el mensaje que aparecerá en tu ticket regalo (máx. 150 "
+"caracteres)…"
+
+msgid ""
+"Pick a topic and remain with the postcard that you like.There are many "
+"different!"
+msgstr ""
+"Elige un tema y quédate con la postal que más te guste. ¡Hay muchas "
+"diferentes!"
+
+msgid "Gift"
+msgstr "Regalo"
+
+msgid "Thanks for giving LetsBonus!"
+msgstr "¡Gracias por regalar LetsBonus!"
+
+msgid "Thanks for trust in LetsBonus and to gift the best plans!"
+msgstr "¡Gracias por confiar en LetsBonus y regalar los mejores planes!"
+
+msgid "Here's your gift ticket, download it now to give it yourself."
+msgstr ""
+"Aquí tienes el ticket regalo, ya puedes descargarlo para entregarlo en mano."
+
+msgid "We hope that the destinatary enjoy the experience."
+msgstr "Esperamos que quien reciba el regalo disfrute de la experiencia."
+
+msgid "Your present is it's way. Will be sent to the direction"
+msgstr "Tu regalo ya está en camino. Se enviará a esta dirección"
+
+msgid "the day"
+msgstr "el día"
+
+msgid "Every ticket has "
+msgstr "Cada ticket tiene "
+
+msgid "a different locator"
+msgstr "un localizador distinto"
+
+msgid "So, if you've bought more than one,"
+msgstr "Por eso, si has comprado más de uno"
+
+msgid "you have to print all them"
+msgstr "deberás imprimirlos todos para disfrutar del plan"
+
+msgid "Check your tickets"
+msgstr "Consulta tus tickets"
+
+msgid "when and where you want"
+msgstr "cuando y donde quieras desde"
+
+msgid "your LetsBonus account"
+msgstr "tu cuenta LetsBonus"
+
+msgid "Download your PDF ticket"
+msgstr "Descarga tu ticket en PDF"
+
+msgid "Do you want more information?"
+msgstr "¿Quieres más información?"
+
+msgid ""
+"Remember! If you have more than one ticket, you must print all of them to "
+"enjoi it because every one has a different locator code."
+msgstr ""
+"¡Recuerda! Si tienes más de un ticket, para poder disfrutar el plan deberás "
+"utilizarlos todos porque cada uno tiene un localizador distinto."
+
+msgid "Here"
+msgstr "Aquí"
+
+msgid "Remember!"
+msgstr "¡Recuerda!"
+
+msgid "Personalize"
+msgstr "Personaliza"
+
+msgid "You can do it at the 'My Purchases' at your LetsBonus account."
+msgstr ""
+"También puedes hacerlo desde el apartado 'Mis Compras' de tu cuenta "
+"LetsBonus."
+
+msgid "Once done, you will recive a mail with your gift data."
+msgstr "Una vez hecho, recibirás un email con los datos de tu regalo."
+
+msgid "Gift options"
+msgstr "Opciones de regalo"
+
+msgid "Your gifts"
+msgstr "Tus regalos"
+
+msgid "Your purchases"
+msgstr "Tus compras"
+
+msgid "To"
+msgstr "Para"
+
+msgid "Give"
+msgstr "Entrega"
+
+msgid "Print"
+msgstr "Imprime"
+
+msgid "¡Congratulations! You have personalized your gifts."
+msgstr "¡Felicidades! Ya has personalizado tus regalos."
+
+msgid ""
+"If email delivery will be sent on the date you indicated. If you give it in "
+"hand, you've got it in your inbox."
+msgstr ""
+"Si lo entregas por email, se enviará en la fecha que nos has indicado. Si lo "
+"entregas en mano, ya lo tienes en tu correo electrónico."
+
+msgid "You have decided personalize your gift later."
+msgstr "Has decidido aplazar la personalización de tu regalo."
+
+msgid "You can personalize it in the area 'My Purchases' of your personal area"
+msgstr "Puedes personalizarlo en el apartado 'Mis Compras' de tu area personal"
+
+msgid "Skip this step"
+msgstr "Saltarse este paso"
+
+msgid "Download your gift voucher"
+msgstr "Descarga tu ticket regalo"
+
+msgid "Your gift is ready to deliver!"
+msgstr "¡Tu regalo ya está listo para entregar!"
+
+msgid "Surprise! A friend gives you a plan LetsBonus"
+msgstr "¡Sorpresa! Un amigo te regala un plan LetsBonus"
+
+msgid "You received this great plan"
+msgstr "Te han regalado este fantástico plan"
+
+msgid ""
+"If you received this, it is because they think no one would enjoy it more. "
+"Find out!"
+msgstr ""
+"Si te lo han querido regalar a ti, es porque han pensado que nadie sabría "
+"disfrutarlo mejor que tú. ¡Descúbrelo!"
+
+msgid "Now you can enjoy your plan."
+msgstr "Ya puedes disfrutar de tu plan."
+
+msgid "Your gift, in process!"
+msgstr "¡Tu regalo, en camino!"
+
+msgid "Yes, that's a good present!"
+msgstr "¡Sí, este sí es un buen regalo!"
+
+msgid "download gift ticket"
+msgstr "descarga el ticket regalo"
+
+msgid "Here you have the gift ticket!"
+msgstr "¡Aquí tienes el ticket regalo!"
+
+msgid ""
+"If you fold it in half you will have a nice card to hand deliver to the "
+"person you want to surprise."
+msgstr ""
+"Si lo doblas por la mitad tendrás una bonita tarjeta para entregar en mano a "
+"la persona que quieres sorprender."
+
+msgid ""
+"Write a few words on the front of the gift ticket to customize it. Will love "
+"it!"
+msgstr ""
+"Escribe unas palabras en la parte delantera del ticket regalo para "
+"personalizarlo. ¡Le encantará!"
+
+msgid "Thanks for trusting us"
+msgstr "Gracias por confiar en nosotros"
+
+msgid "Your present is on its way!"
+msgstr "¡Tu regalo ya está en camino!"
+
+msgid "It will be sent to the direction %1, the day %2"
+msgstr "Se enviará a la dirección %1, el día %2"
+
+msgid ""
+"Each ticket has a different locator. So if you buy more than one, you must "
+"print them all to enjoy the plan."
+msgstr ""
+"Cada ticket tiene un localizador distinto. Por eso, si has comprado más de "
+"uno, deberás imprimirlos todos para disfrutar del plan."
+
+msgid "Check your tickets where and when you want from"
+msgstr "Consulta tus tickets cuando y donde quieras desde"
+
+msgid "Do you want your ticket in PDF?"
+msgstr "¿Quieres tu ticket en PDF?"
+
+msgid "download it here"
+msgstr "descárgalo aquí"
+
+msgid "If you can't read the PDF"
+msgstr "Si no puedes leer el PDF"
+
+msgid "download Adobe Reader"
+msgstr "descarga Adobe Reader"
+
+msgid ""
+"Discounts of up to 70% on the best daily plans in your city, movie trips and "
+"exclusive products."
+msgstr ""
+"Descuentos de hasta el 70% en los mejores planes del día en tu ciudad, "
+"viajes de película y productos exclusivos."
+
+msgid "Daily Deals"
+msgstr "Planes del día"
+
+msgid "dailyDeal"
+msgstr "Planes del día"
+
+msgid "All, in dailyDeal, the best"
+msgstr "De todo, en planes del día, lo mejor"
+
+msgid ""
+"We are selecting restaurants with delicious menus, treatments that most "
+"benefit your body, the shows more interesting and more fun plans for you to "
+"enjoy during the week and weekend!"
+msgstr ""
+"Estamos seleccionando los restaurantes con los menús más deliciosos, los "
+"tratamientos que más benefician a tu cuerpo, los espectáculos más "
+"interesantes y los planes más divertidos ¡para que disfrutes durante la "
+"semana y el fin de semana!"
+
+msgid "From everything you want, we choose for you the best."
+msgstr "De todo lo que buscas, escogemos para ti lo mejor."
+
+msgid "View more deals"
+msgstr "Ver más planes"
+
+msgid "Check out our plans"
+msgstr "Echa un vistazo a nuestros planes"
+
+msgid "Closed offer"
+msgstr "plan cerrado"
+
+msgid "detailBuynowParam"
+msgstr "¡Compra ya! %1"
+
+msgid "Detail Price"
+msgstr "precio"
+
+msgid "View all deal details"
+msgstr "Ver todo el plan"
+
+msgid "Detail Value"
+msgstr "Valor"
+
+msgid "Detail Discount Short"
+msgstr "Dto."
+
+msgid "Detail Saving"
+msgstr "Ahorro"
+
+msgid "Detail Time Left"
+msgstr "Tiempo restante"
+
+msgid "Detail Share"
+msgstr "Comparte este plan"
+
+msgid "Share in"
+msgstr "Comparte"
+
+msgid "Detail HighLights"
+msgstr "Destacamos"
+
+msgid "Detail Conditions"
+msgstr "Condiciones"
+
+msgid "Detail Ubication"
+msgstr "Ubicación"
+
+msgid "Detail Description"
+msgstr "Descripción"
+
+msgid "detailGoToWeb"
+msgstr "Ver web"
+
+msgid "ico-shippingfee"
+msgstr "Envío gratis"
+
+msgid "ico-shipping"
+msgstr "Envío gratis"
+
+msgid "%3 in %1 with the best discount. Join us!"
+msgstr "%3 en %1 con el mejor descuento. ¡Apúntate!"
+
+msgid "Buy now"
+msgstr "¡Compra ya!"
+
+msgid "ICON_AVION"
+msgstr "Vuelo incluido"
+
+msgid "ICON_CHILDCONDITIONS"
+msgstr "Viaje con niños"
+
+msgid "ICON_INSTALLMENT"
+msgstr "Pago fraccionado"
+
+msgid "ICON_SURPRISE"
+msgstr ""
+
+msgid "ICON_SHIPPINGFEE"
+msgstr "Envío gratis"
+
+msgid "ICON_SHIPPING"
+msgstr "Envío incluido"
+
+msgid "ICON_NOTICKET"
+msgstr "Móvil QR"
+
+msgid "ICON_SHOWCASE"
+msgstr "Kit de productos"
+
+msgid "ICON_2X1"
+msgstr "Ticket regalo"
+
+msgid "ICON_2X1CREDIT"
+msgstr "Cheque regalo"
+
+msgid "ICON_SHIPPINGINMEDIATE"
+msgstr "Entrega inmediata"
+
+msgid "ICON_BANKHOLIDAYSINCLUDED"
+msgstr "Incluye puentes"
+
+msgid "QR_TOOLTIP"
+msgstr "¡Ahórrate imprimir el ticket! Muestra el código QR con tu Smartphone"
+
+msgid "family"
+msgstr "Family & Kids"
+
+msgid "familyHeading"
+msgstr "Family & Kids"
+
+msgid "All, in family, the best"
+msgstr "De todo, en planes en familia, lo mejor"
+
+msgid ""
+"We are selecting the best plans for your children to have fun and enjoy your "
+"family, plays, amusement parks, trips, toys that are more fun ... and more!"
+msgstr ""
+"Estamos seleccionando los mejores planes para que tus hijos se diviertan y "
+"que disfrutéis en familia; obras de teatro, parques de atracciones, "
+"escapadas, los juguetes que más les divierten... ¡y mucho más!"
+
+msgid "From everything you want, we choose for you and yours the best."
+msgstr "De todo lo que buscas, escogemos para ti y para los tuyos lo mejor."
+
+msgid "Want to continue to enjoy the best family experiences?"
+msgstr ""
+"¿Te gustaría continuar disfrutando de las mejores experiencias en familia?"
+
+msgid ""
+"Discover Family & Kids, the section with the most original proposals to take "
+"advantage with little ones!"
+msgstr ""
+"Descubre Family & Kids, la sección con las propuestas más originales para "
+"compartir con los más pequeños!"
+
+msgid ""
+"Breaks, shows, latest in product and much more, so that passen unforgettable "
+"moments together."
+msgstr ""
+"Escapadas, espectáculos, últimas novedades en productos y mucho más, para "
+"que paséis momentos inolvidables juntos."
+
+msgid "Go to Family & Kids"
+msgstr "Ir a Family & Kids"
+
+msgid "Would you like to receive offers and products from Family & Kids?"
+msgstr "¿Te gustaría recibir ofertas y productos de Family & Kids?"
+
+msgid "Complete the fields with your data"
+msgstr "Completa los campos con tus datos"
+
+msgid "Your Email"
+msgstr "Tu Email"
+
+msgid "Indicate which city you want to receive them"
+msgstr "Indica de qué ciudad te gustaría recibirlas"
+
+msgid "Receive offers"
+msgstr "Recibir ofertas"
+
+msgid "Last opportunities"
+msgstr "Últimas oportunidades"
+
+msgid "How does it work?"
+msgstr "¿Cómo funciona?"
+
+msgid "FAQ"
+msgstr "Preguntas frecuentes"
+
+msgid "Promote your business"
+msgstr "Promociona tu negocio"
+
+msgid "News"
+msgstr "Prensa"
+
+msgid "LetsBonus TV"
+msgstr "LetsBonus TV"
+
+msgid "Contact"
+msgstr "Contacto"
+
+msgid "Terms and conditions"
+msgstr "Términos generales de uso"
+
+msgid "Privacy Policy"
+msgstr "Política de privacidad"
+
+msgid "Follow us on:"
+msgstr "Síguenos en:"
+
+msgid "LetsCare"
+msgstr "LetsCare"
+
+msgid "Work with us"
+msgstr "Trabaja con nosotros"
+
+msgid "Past plans"
+msgstr "Planes pasados"
+
+msgid "Follow us in"
+msgstr "Síguenos en"
+
+msgid "Entity attached to Confianza Online"
+msgstr "Entidad adherida a Confianza Online"
+
+msgid "Contact us"
+msgstr "Contacta con nosotros"
+
+msgid "Fill out the form below to send us your request."
+msgstr "Rellena el siguiente formulario para hacernos llegar tu consulta."
+
+msgid ""
+"Sorry, there has been an error sending your request. Please try it again."
+msgstr ""
+"Lo sentimos, ha ocurrido un error al enviar tu consulta. Por favor inténtalo "
+"de nuevo."
+
+msgid ""
+"Thank you very much for contacting us, your question will be answered as "
+"soon as possible."
+msgstr ""
+"Muchas gracias por contactar con nosotros, tu consulta será atendida lo "
+"antes posible."
+
+msgid "Question type"
+msgstr "Tipo de consulta"
+
+msgid "Newsletter / LetsBonus account"
+msgstr "Newsletter / Cuenta LetsBonus"
+
+msgid "Payment methods / Billing"
+msgstr "Métodos de pago / Facturación"
+
+msgid "Doubt / Incidence with a plan"
+msgstr "Duda / Incidencia con un plan"
+
+msgid "LetsBonus credit"
+msgstr "Crédito LetsBonus"
+
+msgid "Generic question"
+msgstr "Consulta general"
+
+msgid "Choose the type of the plan"
+msgstr "Elige el tipo de plan"
+
+msgid "dailyDealContactForm"
+msgstr "Planes del día"
+
+msgid "travelContactForm"
+msgstr "Ofertas de viaje y escapadas"
+
+msgid "boutiqueContactForm"
+msgstr "Boutique de productos"
+
+msgid "familyContactForm"
+msgstr "Family & Kids"
+
+msgid "flashContactForm"
+msgstr "Planes flash"
+
+msgid "showsContactForm"
+msgstr "Espectáculos"
+
+msgid "Your name"
+msgstr "Tu nombre"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Repeat your email"
+msgstr "Repite tu email"
+
+msgid "Enter your email again"
+msgstr "Vuelve a escribir tu email"
+
+msgid "Not valid email format"
+msgstr "Formato de email no válido"
+
+msgid "Enter your phone number"
+msgstr "Escribe tu teléfono"
+
+msgid "Comment"
+msgstr "Comentario"
+
+msgid "SAC contact"
+msgstr "Contacto SAC"
+
+msgid "Surname"
+msgstr "Apellidos"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "Repeat password"
+msgstr "Repetir contraseña"
+
+msgid "Birth's date"
+msgstr "Fecha de nacimiento"
+
+msgid "Gender"
+msgstr "Sexo"
+
+msgid "Male"
+msgstr "Hombre"
+
+msgid "Female"
+msgstr "Mujer"
+
+msgid "Newsletter's city"
+msgstr "Ciudad newsletter"
+
+msgid ""
+"Indicates what city you wish to receive the newsletter with the day's plans."
+msgstr ""
+"Indica de qué ciudad deseas recibir la newsletter con los planes del día."
+
+msgid "Agree with the Privacy policy"
+msgstr "Acepto la Política de privacidad"
+
+msgid "Terms of Service"
+msgstr "Términos generales de uso"
+
+msgid "Register Facebook"
+msgstr "Regístrate con Facebook"
+
+msgid "Login Facebook"
+msgstr "Accede con Facebook"
+
+msgid ""
+"Although you are subscribed and receive our email offers, create your "
+"account with your name and password. So you can manage your credit, your "
+"purchases and direct access to your tickets. If you have any questions "
+"please <a href='%1'>contact us.</a>"
+msgstr ""
+"Aunque ya estés suscrito a la newsletter y recibas nuestros planes y "
+"productos por email, puedes crear tu cuenta LetsBonus.  A través de la "
+"cuenta podrás gestionar tu crédito, tus compras y acceder directamente a tus "
+"tickets. Si tienes alguna duda comunícanosla a través del formulario de "
+"contacto que encontrarás <a href='%1'>aquí</a> o llámanos al 902 027 372"
+
+msgid "First surname"
+msgstr "Primer apellido"
+
+msgid "Second surname"
+msgstr "Segundo apellido"
+
+msgid "Postal code"
+msgstr "Código postal"
+
+# Postal code in invoice-form
+msgid "PC"
+msgstr "CP"
+
+msgid "Main phone"
+msgstr "Teléfono principal"
+
+msgid "Second phone"
+msgstr "Teléfono secundario"
+
+msgid "first payment step"
+msgstr "1"
+
+msgid "second payment step"
+msgstr "2"
+
+msgid "third payment step"
+msgstr "3"
+
+msgid "Your password"
+msgstr "Contraseña"
+
+msgid "Message sent from the website"
+msgstr "Mensaje enviado desde la web"
+
+msgid "enter"
+msgstr "entrar"
+
+msgid "Enter your contact information"
+msgstr "Introduce tus datos de contacto"
+
+msgid "Insert an email"
+msgstr "Introduce un email"
+
+msgid "Continue"
+msgstr "continuar"
+
+msgid "Your request has been sent successfully"
+msgstr "Tu solicitud ha sido enviada con éxito"
+
+msgid "The answer as soon as possible."
+msgstr "Responderemos a la mayor brevedad posible."
+
+msgid "Thank you for contacting us."
+msgstr "Muchas gracias por ponerte en contacto con nosotros"
+
+msgid "Details"
+msgstr "Detalles"
+
+msgid "Select an option"
+msgstr "Selecciona una opción"
+
+msgid "I've bought already"
+msgstr "Ya he comprado"
+
+msgid "I want to buy and I have a doubt"
+msgstr "Quiero comprar y tengo una duda"
+
+msgid "I'm a merchant"
+msgstr "Soy un comercio"
+
+msgid "Other requests"
+msgstr "Otras consultas"
+
+msgid "Questions about a Plan"
+msgstr "Consultas sobre un plan"
+
+msgid "Documentation/ticket reception"
+msgstr "Recepción de documentación/tickets"
+
+msgid "Credit question"
+msgstr "Consulta sobre el crédito"
+
+msgid "Problems using my ticket"
+msgstr "Problemas para utilizar mi ticket"
+
+msgid "I want to request a change"
+msgstr "Quiero solicitar un cambio"
+
+msgid "I want to request a devolution"
+msgstr "Quiero solicitar una devolución"
+
+msgid "I want to know the status of my order"
+msgstr "Quiero conocer el estado de mi pedido"
+
+msgid "Problems with the website"
+msgstr "Incicidencias con la Web"
+
+msgid "I have a doubt with the purchase process"
+msgstr "Tengo una duda relacionada con el proceso de compra"
+
+msgid "I have problems to make the payment"
+msgstr "Tengo problemas para hacer el pago"
+
+msgid "No credit is deducted"
+msgstr "No se descuenta el crédito"
+
+msgid "User sign up"
+msgstr "Alta usuario"
+
+msgid "User unsubscribe"
+msgstr "Baja usuario"
+
+msgid "Data modification in My account"
+msgstr "Modificación de datos en Mi cuenta"
+
+msgid "I can't enter into My account"
+msgstr "No puedo entrar en Mi cuenta"
+
+msgid "Privacy policies"
+msgstr "Políticas de privacidad"
+
+msgid "How do I get My credit?"
+msgstr "¿Cómo obtengo Mi crédito?"
+
+msgid "Problems with My credit"
+msgstr "Problemas con Mi crédito"
+
+msgid "Extranet"
+msgstr "Extranet"
+
+msgid "New merchant"
+msgstr "Nuevo comercio"
+
+msgid "Doubt"
+msgstr "Duda"
+
+msgid "QR code"
+msgstr "Código QR"
+
+msgid "Opinions and suggestions"
+msgstr "Opiniones y sugerencias"
+
+msgid "Curriculum Vitae"
+msgstr "Currículum Vitae"
+
+msgid "Marketing Proposals"
+msgstr "Propuestas de Marketing"
+
+msgid "Other Plans"
+msgstr "Resto de Planes"
+
+msgid "Travel"
+msgstr "Viajes"
+
+msgid "You have to choose a question type."
+msgstr "Debes seleccionar un tipo de consulta."
+
+msgid "You have to choose the question details."
+msgstr "Debes seleccionar el detalle de tu consulta."
+
+msgid "You must select the type of plan you want to perform the request."
+msgstr ""
+"Debes seleccionar el tipo de plan sobre el que deseas realizar la consulta."
+
+msgid "Don't forget to write your name correctly."
+msgstr "No olvides escribir tu nombre correctamente."
+
+msgid "Make sure your email is correct."
+msgstr "Comprueba que tu correo electrónico sea correcto."
+
+msgid "Email fields do not match."
+msgstr "Los campos de email no coinciden."
+
+msgid "Phone number can only contain numbers."
+msgstr "El teléfono sólo puede contener números."
+
+msgid "Don't forget to write a comment."
+msgstr "No olvides escribirnos un comentario."
+
+msgid "Maximum comment length is 1000 characters."
+msgstr "La longitud máxima del comentario es de 1000 caracteres."
+
+msgid "activate your LetsBonus account"
+msgstr "activa tu cuenta LetsBonus"
+
+msgid "Travel and hotels"
+msgstr "Viajes y hoteles"
+
+msgid "Products"
+msgstr "Productos"
+
+msgid "Services and other Plans"
+msgstr "Servicios y resto de planes"
+
+# %1 is the City name.
+msgid "SiteName %1"
+msgstr "LetsBonus %1"
+
+msgid "Deals for up to 70% discount"
+msgstr "Descuentos del 70%"
+
+msgid "Deals for up to 70% discount in %1"
+msgstr "Descuentos del 70% en %"
+
+msgid "Sorry page not found"
+msgstr "La página que buscas no existe"
+
+msgid "Maybe it have expired or you have not written well"
+msgstr "Puede que haya caducado o que no la hayas escrito bien"
+
+msgid "Back to home page"
+msgstr "Vuelve a la página de inicio"
+
+msgid "www.letsbonus.com"
+msgstr "www.letsbonus.com"
+
+msgid "¡Register and enjoy!"
+msgstr "¡Regístrate y disfruta!"
+
+msgid "Discounts till 70% in your city"
+msgstr "Descuentos de hasta el 70% en ocio en tu ciudad"
+
+msgid "LetsBonus"
+msgstr "LetsBonus"
+
+msgid "Just today in %1! 24 hours to buy and 6 months to consume"
+msgstr "Sólo hoy en %1! 24 horas para comprar y 6 meses para consumir"
+
+msgid "%1 in %2 - %3"
+msgstr "%1 en %2 - %3"
+
+msgid "in"
+msgstr "en"
+
+msgid "This email was sent by [companyName] established in [companyAddress]"
+msgstr ""
+"Este email ha sido enviado por LET'S BONUS, S.L. con domicilio social en "
+"Plaça Gal·la Placídia 1-3, 2ª planta, 08006 Barcelona, España"
+
+msgid "More plans near you"
+msgstr "Más planes cerca de ti"
+
+msgid "detailHighLightsParams"
+msgstr "Destacamos en %1"
+
+msgid "Sold out!"
+msgstr "¡todo vendido!"
+
+msgid "Sold out"
+msgstr "Todo vendido"
+
+msgid "This is JUST a PREVIEW !!!"
+msgstr "Esto es SOLAMENTE un PREVIEW !!!"
+
+msgid "Change:"
+msgstr "Cambiar:"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "Listing"
+msgstr "Listado"
+
+msgid "Detail"
+msgstr "Detalle"
+
+msgid "You may also like"
+msgstr "También te puede interesar"
+
+msgid "See more plans"
+msgstr "Ver más planes"
+
+msgid "There is no product for the selected category."
+msgstr "No hay productos para el filtro seleccionado."
+
+msgid "see"
+msgstr "ver"
+
+msgid "follow it"
+msgstr "síguela"
+
+# Labels
+msgid "Last units"
+msgstr "Quedan pocos"
+
+msgid "Last just %1 unit"
+msgid_plural "Last just %1 units"
+msgstr[0] "Queda sólo %1"
+msgstr[1] "Quedan sólo %1"
+
+msgid "Last %1 units"
+msgstr "Quedan menos de %1"
+
+msgid "Luxury cosmetics"
+msgstr "Cosmética de lujo"
+
+msgid "Luxury product"
+msgstr "Producto de lujo"
+
+msgid "Luxury perfumery"
+msgstr "Fragancia de lujo"
+
+msgid "Immediate shipping"
+msgstr "Entrega inmediata"
+
+msgid "Free shipping"
+msgstr "Envío gratuito "
+
+msgid "Shipping fee included"
+msgstr "Gastos de envío incluidos"
+
+msgid "Popular"
+msgstr "Popular"
+
+msgid "Include holidays"
+msgstr "Incluye puentes"
+
+msgid "Highlight"
+msgstr "Destacado"
+
+msgid "See all the daily deal plans"
+msgstr "Ver todos los planes del día"
+
+msgid "The bests daily deal plans in %1"
+msgstr "Los mejores planes del día en %1"
+
+msgid "The bests products"
+msgstr "Los mejores productos"
+
+msgid "See all the boutique products"
+msgstr "Ver todos los productos de boutique"
+
+msgid "See all technology products"
+msgstr "Ver todos los productos de tecnología"
+
+msgid "The bests trips"
+msgstr "Los mejores viajes"
+
+msgid "See all trips"
+msgstr "Ver todos los viajes"
+
+msgid "The bests shows in %1"
+msgstr "Los mejores espectáculos en %1"
+
+msgid "See all the shows"
+msgstr "Ver todos los espectáculos"
+
+msgid "Selection"
+msgstr "Selección"
+
+msgid "Selecting discount in %1 from 70%. Offers %1 - LetsBonus"
+msgstr "Selección de descuentos en %1 del 70%. Ofertas %1 - LetsBonus"
+
+msgid ""
+"The best selection of discounts and deals in %1 from 70% in leisure, trips, "
+"products and more. Sign up!"
+msgstr ""
+"La mejor selección de descuentos y ofertas en %1 del 70% en ocio, viajes, "
+"productos y mucho más. ¡Apúntate!"
+
+msgid "Discover the Special of the week"
+msgstr "Descubre el Especial de la semana"
+
+msgid "See all the special"
+msgstr "Ver todo el especial"
+
+msgid "Change city"
+msgstr "Cambiar de ciudad"
+
+msgid "Sign up"
+msgstr "Suscríbete"
+
+msgid "Enter your e-mail address"
+msgstr "Introduce tu email"
+
+msgid "I agree to the <a href='%1' target='_blank'>Privacy policy</a>"
+msgstr "Acepto la <a href='%1' target='_blank'>Política de privacidad</a>"
+
+msgid "or access by"
+msgstr "o accede a través de"
+
+# %1 is the city name, %2 is the site name
+#: Daily deal tab
+msgid "Deals in %1 for up to 70% discount in leisure. Offers %1 - %2"
+msgstr "Descuentos en %1 del 70% en ocio. Ofertas %1 - %2 "
+
+# %1 is the city name
+msgid ""
+"Deals and offers in %1 for up to 70% in leisure: restaurants, spas, "
+"activities and much more. Join us!"
+msgstr ""
+"Descuentos y ofertas en %1 del 70% en ocio: restaurantes, spas, actividades, "
+"escapadas, aventura y mucho más. ¡Apúntate!"
+
+# %1 is the city name, %2 is the site name
+#: Travel tab
+msgid "Deals in travel for up to 70%. Destinations %1 - %2"
+msgstr "Descuentos en viajes de hasta el 70%. Destinos %1 - %2"
+
+msgid ""
+"The most amazing travel plans with discounts for up to 70%. Your trip starts "
+"here."
+msgstr ""
+"Los planes de viaje más increíbles con descuentos de hasta el 70% en %1. Tu "
+"viaje empieza aquí."
+
+# %1 is the city name, %2 is the site name
+#: Boutique tab
+msgid "Deals in products for up to 70% discount. Boutique %1 - %2"
+msgstr "Descuentos en productos de hasta el 70%. Boutique %1 - %2 "
+
+msgid ""
+"The most compelling offers in boutique products with discounts of up to 70%. "
+"Join us!"
+msgstr ""
+"Las ofertas más irresistibles en productos boutique con descuentos de hasta "
+"el 70% en %1. ¡Anímate!"
+
+# %1 is the city name, %2 is the site name
+#: Family & Kids tab
+msgid "Deals in Family & Kids %1 up to 70%. Deals Family - %2"
+msgstr "Descuentos en Family & Kids %1 del 70%. Ofertas Family & Kids - %2"
+
+msgid "Deals in %1 up to 70% in Family & Kids. Join us!"
+msgstr "Descuentos y ofertas en %1 del 70% en Family & Kids. ¡Anímate!"
+
+# %1 is the city name, %2 is the site name
+#: Shows tab
+msgid "Deals in Shows %1 up to 70%. Deals Shows - %2"
+msgstr "Descuentos en Espectáculos %1 del 70%. Ofertas Espectáculos - %2"
+
+msgid "Deals in %1 up to 70% in Shows. Join us!"
+msgstr "Descuentos y ofertas en %1 del 70% en Espectáculos. ¡Anímate!"
+
+# %1 is the city name, %2 is the site name
+#: Technology tab
+msgid "Deals in Technology %1 up to 70%. Deals Technology - %2"
+msgstr "Descuentos en Tecnología %1 del 70%. Ofertas Tecnología - %2"
+
+msgid "Deals in %1 up to 70% in Technology. Join us!"
+msgstr "Descuentos y ofertas en %1 del 70% en Tecnología. ¡Anímate!"
+
+# %1 is the city name, %2 is the site name
+#: SpecialBoutique tab
+msgid "Deals in SpecialBoutique %1 up to 70%. Deals SpecialBoutique - %2"
+msgstr "Descuentos en Complementos %1 del 70%. Ofertas Complementos - %2"
+
+msgid "Deals in %1 up to 70% in SpecialBoutique. Join us!"
+msgstr "Descuentos y ofertas en %1 del 70% en Complementos. ¡Anímate!"
+
+# %1 is the city name, %2 is the site name
+#: Escapes tab
+msgid "Deals in Escapes %1 up to 70%. Deals Escapes - %2"
+msgstr ""
+"Descuentos en Especial Escapadas %1 del 70%. Ofertas Especial Escapadas - %2"
+
+msgid "Deals in %1 up to 70% in Escapes. Join us!"
+msgstr "Descuentos y ofertas en %1 del 70% en Especial Escapadas. ¡Anímate!"
+
+#: Static pages
+msgid "Last opportunities - %2"
+msgstr "Últimas oportunidades - %2"
+
+msgid "How does it work? - %2"
+msgstr "¿Cómo funciona? - %2"
+
+msgid "FAQ - %2"
+msgstr "Preguntas frecuentes - %2"
+
+msgid "Promote your business - %2"
+msgstr "Promociona tu negocio - %2"
+
+msgid "Contact - %2"
+msgstr "Contacto - %2"
+
+msgid "Terms and conditions - %2"
+msgstr "Términos generales de uso - %2"
+
+msgid "Privacy Policy - %2"
+msgstr "Política de privacidad - %2"
+
+msgid "LetsCare - %2"
+msgstr "LetsCare - %2"
+
+msgid "Work with us - %2"
+msgstr "Trabaja con nosotros - %2"
+
+msgid "Past plans - %2"
+msgstr "Planes pasados - %2"
+
+msgid "Plans of dailyDeal in %1 past - %2"
+msgstr "Planes pasados de Ocio en %1 - %2"
+
+msgid "Plans of travel in %1 past - %2"
+msgstr "Planes pasados de Viajes en %1 - %2"
+
+msgid "Plans of boutique in %1 past - %2"
+msgstr "Productos ya publicados en Boutique en %1 - %2"
+
+msgid "Plans of family in %1 past - %2"
+msgstr "Planes pasados de Family & Kids en %1 - %2"
+
+msgid "Plans of shows in %1 past - %2"
+msgstr "Planes pasados de Espectáculos en %1 - %2"
+
+msgid "Plans of technology in %1 past - %2"
+msgstr "Productos ya publicados en Tecnología en %1 - %2"
+
+#: Static descriptions
+msgid ""
+"Last opportunities. %2 The most compelling offers in boutique products with "
+"discounts of up to 70%. Join us! "
+msgstr ""
+"Últimas oportunidades. %2  es líder en Descuentos de Ocio, Viajes y Boutique "
+"de hasta el 70%. ¡Apúntate!"
+
+msgid ""
+"How does it work? %2 The most compelling offers in boutique products with "
+"discounts of up to 70%. Join us! "
+msgstr ""
+"Como funciona? %2  es líder en Descuentos de Ocio, Viajes y Boutique de "
+"hasta el 70%. ¡Apúntate!"
+
+msgid ""
+"FAQ. %2 The most compelling offers in boutique products with discounts of up "
+"to 70%. Join us! "
+msgstr ""
+"Perguntas frequentes. %2  es líder en Descuentos de Ocio, Viajes y Boutique "
+"de hasta el 70%. ¡Apúntate!"
+
+msgid ""
+"Promote your business. %2 The most compelling offers in boutique products "
+"with discounts of up to 70%. Join us! "
+msgstr ""
+"Promociona tu negocio. %2  es líder en Descuentos de Ocio, Viajes y Boutique "
+"de hasta el 70%. ¡Apúntate!"
+
+msgid ""
+"Contact. %2 The most compelling offers in boutique products with discounts "
+"of up to 70%. Join us!"
+msgstr ""
+"Contacto. %2 es líder en Descuentos de Ocio, Viajes y Boutique de hasta el "
+"70%. ¡Apúntate!"
+
+msgid ""
+"Terms and conditions. %2 The most compelling offers in boutique products "
+"with discounts of up to 70%. Join us! "
+msgstr ""
+"Términos generales de uso. %2  es líder en Descuentos de Ocio, Viajes y "
+"Boutique de hasta el 70%. ¡Apúntate!"
+
+msgid ""
+"Privacy Policy. %2 The most compelling offers in boutique products with "
+"discounts of up to 70%. Join us! "
+msgstr ""
+"Política de privacidad. %2 es líder en Descuentos de Ocio, Viajes y Boutique "
+"de hasta el 70%. ¡Apúntate!"
+
+msgid ""
+"LetsCare. %2 The most compelling offers in boutique products with discounts "
+"of up to 70%. Join us! "
+msgstr ""
+"LetsCare. %2 es líder en Descuentos de Ocio, Viajes y Boutique de hasta el "
+"70%. ¡Apúntate!"
+
+msgid ""
+"Work with us. %2 The most compelling offers in boutique products with "
+"discounts of up to 70%. Join us! "
+msgstr ""
+"Trabaja con nosotros. %2 es líder en Descuentos de Ocio, Viajes y Boutique "
+"de hasta el 70%. ¡Apúntate!"
+
+msgid ""
+"%Past plans %2 The most compelling offers in boutique products with "
+"discounts of up to 70%. Join us! "
+msgstr ""
+"Planes pasados. %2 es líder en Descuentos de Ocio, Viajes y Boutique de "
+"hasta el 70%. ¡Apúntate!"
+
+msgid ""
+"Plans of dailyDeal in %1 past. %2 The most compelling offers in boutique "
+"products with discounts of up to 70%. Join us! "
+msgstr ""
+"Planes pasados de Ocio en %1. %2 es líder en Descuentos de Ocio, Viajes y "
+"Boutique de hasta el 70%. ¡Apúntate!"
+
+msgid ""
+"Plans of travel in %1 past. %2 The most compelling offers in boutique "
+"products with discounts of up to 70%. Join us! "
+msgstr ""
+"Planes pasados de Viajes en %1. %2 es líder en Descuentos de Ocio, Viajes y "
+"Boutique de hasta el 70%. ¡Apúntate!"
+
+msgid ""
+"Plans of boutique in %1 past. %2 The most compelling offers in boutique "
+"products with discounts of up to 70%. Join us! "
+msgstr ""
+"Productos ya publicados en Boutique en %1. %2 es líder en Descuentos de "
+"Ocio, Viajes y Boutique de hasta el 70%. ¡Apúntate!"
+
+msgid ""
+"Plans of family in %1 past. %2 The most compelling offers in boutique "
+"products with discounts of up to 70%. Join us! "
+msgstr ""
+"Planes pasados de Family & Kids en %1. %2 es líder en Descuentos de Ocio, "
+"Viajes y Boutique de hasta el 70%. ¡Apúntate!"
+
+msgid ""
+"Plans of shows in %1 past. %2 The most compelling offers in boutique "
+"products with discounts of up to 70%. Join us! "
+msgstr ""
+"Planes pasados de Espectáculos en %1. %2 es líder en Descuentos de Ocio, "
+"Viajes y Boutique de hasta el 70%. ¡Apúntate!"
+
+msgid ""
+"Plans of technology in %1 past. %2 The most compelling offers in boutique "
+"products with discounts of up to 70%. Join us! "
+msgstr ""
+"Productos ya publicados en Tecnología en %1. %2 es líder en Descuentos de "
+"Ocio, Viajes y Boutique de hasta el 70%. ¡Apúntate!"
+
+msgid "Contact us - %2"
+msgstr "Contacta con nosotros - %2"
+
+msgid "Daily Deal plans"
+msgstr "Planes del día"
+
+msgid "Travel plans"
+msgstr "Viajes"
+
+msgid "Product boutique"
+msgstr "Boutique de productos"
+
+msgid "Family & Kids"
+msgstr "Family & Kids"
+
+msgid "dailyDeal newsletter"
+msgstr "Planes del día"
+
+msgid "daily newsletter"
+msgstr "Planes del día"
+
+msgid "travel newsletter"
+msgstr "Viajes"
+
+msgid "boutique newsletter"
+msgstr "Boutique de productos"
+
+msgid "family newsletter"
+msgstr "Family & Kids"
+
+msgid "dailypick newsletter"
+msgstr "LetsBonus Selección"
+
+msgid "This mail is already in our database"
+msgstr "Este correo ya existe en nuestra base de datos"
+
+msgid "Would you like to subscribe to LetsBonus?"
+msgstr "¿Quieres suscribirte a LetsBonus?"
+
+msgid "I'm getting offers from other city other than my own."
+msgstr "Estoy recibiendo ofertas de otra ciudad diferente a la mía."
+
+msgid "I prefer other shopping sites than LetsBonus"
+msgstr "Prefiero otras páginas de compras diferentes a LetsBonus"
+
+msgid "I receive too many e-mails in my email."
+msgstr "Recibo demasiados e-mails en mi correo electrónico"
+
+msgid "There are too many offers in e-mails from LetsBonus."
+msgstr "Hay demasiadas ofertas en los e-mails de LetsBonus."
+
+msgid "There are few deals on the e-mails from LetsBonus."
+msgstr "Hay pocas ofertas en los e-mails de LetsBonus."
+
+msgid "I do not receive offers that interest me."
+msgstr "No recibo ofertas que me interesen"
+
+msgid "When I entered directly to the website of LetsBonus."
+msgstr "Cuando quiero entro directamente a la web de LetsBonus"
+
+msgid "Receipt LetsBonus deals too often."
+msgstr "Recibo ofertas de LetsBonus con demasiada frequencia"
+
+msgid "Other reasons."
+msgstr "Otras razones"
+
+msgid ""
+"Do you want to stop being the first one in finding out about the innovations "
+"in plans and acceding to incredible prices?"
+msgstr ""
+"¿Quieres dejar de ser el primero en enterarte de las novedades en planes y "
+"acceder a precios increíbles?"
+
+msgid "No, I still enjoy LetsBonus"
+msgstr "No, quiero seguir disfrutando de multiEstrella & LetsBonus"
+
+msgid "Yes, I want to unsubscribe"
+msgstr "Sí, quiero darme de baja"
+
+msgid "Help us to improve"
+msgstr "Ayúdanos a mejorar"
+
+msgid "Please tell us why you want to unsubscribe"
+msgstr "Por favor, indícanos el motivo por el que quieres darte de baja"
+
+msgid "Choose a reason"
+msgstr "Selecciona un motivo"
+
+msgid "Good Decision"
+msgstr "¡Buena decisión!"
+
+msgid ""
+"We're glad you decided to continue to enjoy incredible plans with us. You "
+"will do not regret it!"
+msgstr ""
+"Estamos contentos de que hayas decidido seguir disfrutando de planes "
+"increíbles con nosotros. ¡No te arrepentirás!"
+
+msgid "Thanks for trusting us."
+msgstr "Gracias por confiar en nosotros."
+
+msgid "You have completed the process of unsubscribe."
+msgstr "Has finalizado con el proceso de baja."
+
+msgid ""
+"Remember that you will be able to continue acceding to your account as "
+"always. In addition, choose the information of offers and"
+msgstr ""
+"Recuerda que podrás continuar accediendo a tu cuenta como siempre. Además, "
+"escoge la información de ofertas y"
+
+msgid ""
+"that you want to return to receive when you want and manages and consults "
+"all your purchases."
+msgstr ""
+"novedades que quieres volver a recibir cuando quieras y gestiona y consulta "
+"todas tus compras."
+
+# Newsletter Unsubscribe
+# #Step 1 & Common
+msgid "Step 1"
+msgstr "Paso 1"
+
+msgid "Step 2"
+msgstr "Paso 2"
+
+msgid "Unsubscribe from newsletter"
+msgstr "Darse de baja de la newsletter"
+
+msgid "I want to unsubscribe from ALL the newsletters I receive"
+msgstr "Quiero darme de baja de TODAS las newsletter que recibo"
+
+msgid "I just want to unsubscribe from SOME of the newsletters I receive"
+msgstr "Sólo quiero darme de baja de ALGUNAS de las newsletter que recibo"
+
+msgid "Choose one of this two options"
+msgstr "Elige una de las dos opciones"
+
+msgid "confirm unsubscribe"
+msgstr "confirmar baja"
+
+msgid "Confirm unsubscribe"
+msgstr "Confirmar baja"
+
+# #Step 2. Algunas
+msgid "Manage your newsletters. Choose the ones you want to receive"
+msgstr "Gestiona tus newsletters. Elige las que quieres seguir recibiendo"
+
+msgid "save changes"
+msgstr "guardar cambios"
+
+msgid "Receive"
+msgstr "Recibir"
+
+msgid "Not receive"
+msgstr "No Recibir"
+
+# #Step 2. Todas
+msgid ""
+"Giving low of the newsletter will no longer receive ALL of our exclusive "
+"offers via email"
+msgstr ""
+"Dándote de baja de la newsletter dejarás de recibir TODAS nuestras ofertas "
+"exclusivas en tu correo"
+
+msgid ""
+"We feel your decision. Could you indicate why you want to unsubscribe? "
+"Knowing this will help us improve"
+msgstr ""
+"Sentimos tu decisión ¿Nos podrías indicar por qué quieres darte de baja? "
+"Saberlo nos ayudará a mejorar"
+
+msgid "Please tell us why"
+msgstr "Por favor indicanos el motivo"
+
+# #Step 3
+msgid "We have received your application correctly"
+msgstr "Hemos recibido tu solicitud correctamente"
+
+msgid ""
+"Between 24h and 48h will be effective. You will only receive the newsletters "
+"you selected. If you have not selected any, and will not receive more. "
+"Whenever you wish, you can re-enable the newsletters you want from your "
+"personal area"
+msgstr ""
+"Entre 24h y 48h se hará efectiva. Sólo recibirás las newsletters que has "
+"seleccionado. Si no has selccionado ninguna, ya no recibirás más. Siempre "
+"que desees, puedes volver a activar las newsletters que quieras desde tu "
+"área personal"
+
+msgid "If you thought you better or you're wrong to unsubscribe"
+msgstr "Si te lo has pensado mejor o te has equivocado al darte de baja"
+
+msgid "click here"
+msgstr "haz clic aquí"
+
+# # Sidebar register
+msgid "Well done!"
+msgstr "¡Bien hecho!"
+
+msgid "Since this moment you will get our plans in your inbox."
+msgstr "A partir de ahora recibirás nuestros planes en tu email."
+
+msgid "Subscribe to Family&Kids"
+msgstr "Suscríbete a Family&Kids"
+
+msgid "Would you like to recibe our Family&Kids plans?"
+msgstr "¿Quieres recibir nuestros planes Family&Kids?"
+
+msgid "What city do you like to susbcribe?"
+msgstr "¿De qué ciudad?"
+
+msgid "Need to provide an email."
+msgstr "Es necesario proporcionar un email."
+
+msgid "This string isn't an email"
+msgstr "Este string no es un email"
+
+msgid ""
+"Thanks for subscribing to our newsletter! We have sent you a confirmation "
+"email."
+msgstr ""
+"¡Muchas gracias por suscribirte a nuestros planes! Te hemos enviado un email "
+"para que confirmes tu suscripción."
+
+msgid ""
+"Remember that you can also create your account by completing the following "
+"form."
+msgstr ""
+"Recuerda que también puedes crear tu cuenta completando tu registro en el "
+"siguiente formulario."
+
+msgid ""
+"Thank you! Your subscription to our newsletter has been activated "
+"successfully! From now on you will receive our deals in your email."
+msgstr ""
+"¡Muchas gracias! ¡Tu suscripción a la newsletter ha sido activada "
+"correctamente! A partir de ahora recibirás nuestros planes en tu correo."
+
+# Fin de Newsletter Unsubscribe
+# Closed cities
+# #Step 1 & Common
+msgid "Managing your newsletter"
+msgstr "Gestión de tus newsletters"
+
+msgid "Actual city"
+msgstr "Ciudad actual"
+
+msgid "Your Newsletters"
+msgstr "Tus Newsletters"
+
+msgid "Confirmation"
+msgstr "Confirmación"
+
+msgid "You are currently subscribed to newsletters from"
+msgstr "Actualmente estás suscrito a las newsletters de"
+
+msgid "Do you want to change city?"
+msgstr "¿Quieres cambiar de ciudad?"
+
+msgid "continue"
+msgstr "continúa"
+
+msgid "Select the new city"
+msgstr "Selecciona la nueva ciudad"
+
+msgid "save and continue"
+msgstr "guarda y continúa"
+
+# #Step 2 
+msgid ""
+"These are the plans that currently receive. If you want to unsubscribe from "
+"any of the newsletters, uncheck the box."
+msgstr ""
+"Éstos son los planes que recibes actualmente. Si quieres darte de baja de "
+"alguna de las newsletters, desmarca la casilla."
+
+msgid "Select the newsletter"
+msgstr "Seleccione las newsletter"
+
+# #Step 3
+msgid "Alright! Your data has been successfully saved."
+msgstr "¡Muy bien! Tus datos se han guardado correctamente."
+
+msgid "Check out our plans and products today"
+msgstr "Echa un vistazo a nuestros planes y productos de hoy"
+
+msgid "Check the quality our offers"
+msgstr "Comprueba la calidad de nuestras ofertas"
+
+msgid "These are some of the latest plans of those who have enjoyed our users."
+msgstr ""
+"Estos son algunos de los últimos planes de los que han disfrutado nuestros "
+"usuarios."
+
+msgid ""
+"Of all the options market, we selected the best for them at incredible "
+"prices."
+msgstr ""
+"De todas las opciones del mercado, hemos seleccionado las mejores para ellos "
+"a precios increíbles."
+
+msgid "Plans of dailyDeal in %1 past"
+msgstr "Planes pasados de Ocio en %1"
+
+msgid "Plans of travel in %1 past"
+msgstr "Planes pasados de Viajes en %1"
+
+msgid "Plans of boutique in %1 past"
+msgstr "Productos ya publicados en Boutique en %1"
+
+msgid "Plans of family in %1 past"
+msgstr "Planes pasados de Family & Kids en %1"
+
+msgid "Plans of shows in %1 past"
+msgstr "Planes pasados de Espectáculos en %1"
+
+msgid "Plans of technology in %1 past"
+msgstr "Productos ya publicados en Tecnología en %1"
+
+msgid "%1 in %2"
+msgstr "%1 en %2"
+
+msgid "Join us!"
+msgstr "¡Únete a nosotros!"
+
+msgid "Enter your name"
+msgstr "Introduce tu nombre"
+
+msgid "Business name"
+msgstr "Nombre del comercio"
+
+msgid "Enter your business name"
+msgstr "Introduce el nombre de tu comercio"
+
+msgid "National"
+msgstr "Nacional"
+
+msgid "Category"
+msgstr "Categoría"
+
+msgid "Choose a category"
+msgstr "Elige una categoría"
+
+msgid "Enter your phone"
+msgstr "Introduce tu teléfono"
+
+msgid "Website"
+msgstr "Página web"
+
+msgid "Enter your website"
+msgstr "Introduce tu página web"
+
+msgid "Enter your facebook page"
+msgstr "Introduce tu página de Facebook"
+
+msgid "Facebook page"
+msgstr "Página Facebook"
+
+msgid "Enter your email"
+msgstr "Introduce tu email"
+
+msgid "Comments"
+msgstr "Comentarios"
+
+msgid "Write your request here"
+msgstr "Escribe tu petición aquí"
+
+msgid "Send"
+msgstr "Enviar"
+
+msgid "send"
+msgstr "enviar"
+
+msgid "Name of responsible"
+msgstr "Nombre del responsable"
+
+msgid "Fields with * are required."
+msgstr "Los campos con * son obligatorios."
+
+msgid "business.category.8"
+msgstr "Hotel Nacional"
+
+msgid "business.category.12"
+msgstr "Hotel Internacional/Cadena"
+
+msgid "business.category.151"
+msgstr "Viajes"
+
+msgid "business.category.13"
+msgstr "Boutique de Productos"
+
+msgid ""
+"Don't forget to select the city that's your business. If more than one city, "
+"select the one you think is the main and when we contact you add the other"
+msgstr ""
+"No olvides seleccionar la ciudad en la que está tu negocio. Si está en más "
+"de una ciudad, selecciona la que consideres que es la principal y cuando nos "
+"pongamos en contacto contigo añadiremos las demás"
+
+msgid "Don't forget to select a category that describes your business"
+msgstr "No olvides seleccionar una categoría que describa tu negocio"
+
+msgid "A new business wants to contact"
+msgstr "Nuevo comercio quiere contactar"
+
+msgid "Thanks for contact with LetsBonus!"
+msgstr "Gracias por contactar con LetsBonus!"
+
+msgid "Business contact"
+msgstr "Contacto de comercio"
+
+msgid ""
+"We will study your request and if it fits with the interests of our users we "
+"will contact you as soon as possible for a possible collaboration."
+msgstr ""
+"Estudiaremos su petición y si encaja con los intereses de nuestros usuarios "
+"nos pondremos en contacto con Ud. lo antes posible para una posible "
+"colaboración."
+
+msgid ""
+"Otherwise, we save your data to contact with you in any future campaigns."
+msgstr ""
+"En caso contrario, guardaremos sus datos para ponernos en contacto con Ud. "
+"en posibles campañas futuras."
+
+msgid "Regards,"
+msgstr "Saludos cordiales,"
+
+msgid "LetsBonus team!"
+msgstr "Equipo de LetsBonus!"
+
+msgid "LetsBonus team"
+msgstr "Equipo LetsBonus"
+
+msgid ""
+"Complete the form with your details. Once the sales department has assessed "
+"whether your proposal fits like LetsBonus Plan, we will contact you."
+msgstr ""
+"Rellena el formulario con tus datos. Una vez el departamento comercial haya "
+"valorado si tu propuesta encaja como Plan LetsBonus, nos pondremos en "
+"contacto contigo."
+
+msgid ""
+"I wish all our advertising campaigns have a cost-benefit return as easy to "
+"measure and with a result as optimal."
+msgstr ""
+"Ojalá todas nuestras campañas de publicidad tuvieran un retorno coste-"
+"beneficio tan fácil de medir y con un resultado tan óptimo."
+
+msgid "Why LetsBonus is your ideal partner?"
+msgstr "¿Por qué LetsBonus es tu socio ideal?"
+
+msgid ""
+"Because we are the leading collective buying in Spain and a pioneer in "
+"Europe. An innovative platform for promoting your business where you have "
+"already committed thousands of businesses, among them big names like FNAC, "
+"Frank Provost or the Hotel Arts."
+msgstr ""
+"Porque somos la empresa líder en compra colectiva en España y pionera en "
+"Europa. Una innovadora plataforma de promoción para tu negocio en la que ya "
+"han confiado miles de comercios, entre los que destacan grandes marcas como "
+"FNAC, Frank Provost o el Hotel Arts."
+
+msgid ""
+"We have millions of users in Europe and Latin America, which invited each "
+"day to rediscover your city with our proposals. Add excitement to your life "
+"at the hands of local businesses. Trust and quality businesses we work with "
+"has made E-Commerce Spain we award prizes in 2011 with the special prize for "
+"the best online shop of the year."
+msgstr ""
+"Contamos con millones de usuarios en Europa y en América latina, a los que "
+"invitamos cada día a redescubrir su ciudad con nuestras propuestas. Añadimos "
+"emoción a su vida de la mano de los comercios locales. La confianza y "
+"calidad de los negocios con los que trabajamos ha hecho que E-Commerce "
+"España nos galardonara en 2011 con el premio especial a la Mejor tienda "
+"online del año."
+
+msgid ""
+"We are part of the international Social Living has the support of E-commerce "
+"company in the world over: Amazon."
+msgstr ""
+"Formamos parte del grupo internacional Living Social que cuenta con el apoyo "
+"de la empresa de E-commerce más importante del mundo: Amazon."
+
+msgid "Customized marketing campaigns"
+msgstr "Campañas comerciales a medida"
+
+msgid "Invest for results"
+msgstr "Inviertes por resultados"
+
+msgid "New customers in just 24h"
+msgstr "Nuevos clientes en tan sólo 24h"
+
+msgid "Advertising platform powerful and efficient"
+msgstr "Plataforma de publicidad potente y eficiente"
+
+msgid "Success cases"
+msgstr "Casos de éxito"
+
+msgid ""
+"We design a custom marketing for your business and, once set up, advise and "
+"accompany you throughout the process to address the needs and concerns that "
+"you may have."
+msgstr ""
+"Diseñamos una campaña comercial a medida para tu negocio y, una vez puesta "
+"en marcha, te asesoramos y acompañamos durante todo el proceso atendiendo "
+"las necesidades y dudas que te puedan surgir."
+
+msgid ""
+"LetsBonus is aligned with the objectives of your business and only earns "
+"commission based on sales made ​​without fixed promotion costs."
+msgstr ""
+"LetsBonus está alineado con los objetivos de tu negocio y únicamente obtiene "
+"comisión según las ventas realizadas, sin costes de promoción fijos."
+
+msgid ""
+"The results of selling one day become a steady stream of new clients during "
+"the following months."
+msgstr ""
+"Los resultados de venta de un sólo día se convierten en un constante flujo "
+"de nuevos clientes durante los siguientes meses."
+
+msgid ""
+"We present your business to millions of users and give it presence in social "
+"networks with large numbers of fans and major media in the country."
+msgstr ""
+"Damos a conocer tu negocio a millones de usuarios y le damos presencia en "
+"redes sociales con un gran volumen de fans y en los principales medios de "
+"comunicación del país."
+
+msgid "%1 tickets sold in<br /><span>%2 hours</span>"
+msgstr "%1 tickets vendidos en<br /><span>%2 horas</span>"
+
+msgid "Contact phone"
+msgstr "Teléfono de contacto"
+
+msgid "902 027 372"
+msgstr "902 027 372"
+
+msgid "Go to LetsBonus"
+msgstr "Ir a LetsBonus"
+
+msgid "Discount still 70% in your city"
+msgstr "Descuentos del 70% en tu ciudad"
+
+msgid "Hi"
+msgstr "Hola"
+
+msgid "A friend wants to share a link with you:"
+msgstr "Un amigo, quiere compartir este enlace contigo:"
+
+msgid "Also wrote you this message:"
+msgstr "Además te ha escrito este mensaje:"
+
+msgid ""
+"Please do not respond to this e-mail: If you have any questions or "
+"suggestions go to"
+msgstr ""
+"Por favor, no respondas a ese e-mail: Si tienes cualquier pregunta o "
+"sugerencia dirígete al"
+
+msgid "Help Center."
+msgstr "Centro de Ayuda."
+
+msgid "Share to a friend"
+msgstr "Compartir a amigo"
+
+msgid ""
+"%1 recommends you LetsBonus and gives you %2. Deals for up to 70% discount "
+"in your city!"
+msgstr ""
+"%1 recomienda LetsBonus y te regala %2. ¡Planes de hasta el 70% de descuento "
+"en tu ciudad!"
+
+msgid "Select a valid payment method"
+msgstr "Selecciona un método de pago apropiado"
+
+msgid "There is a TPV error"
+msgstr "Hubo un error con el TPV"
+
+msgid "My cards"
+msgstr "Mis tarjetas"
+
+msgid "Enter your payment details"
+msgstr "Introduce los detalles de pago"
+
+msgid "Payment methods"
+msgstr "Métodos de pago"
+
+msgid "CVC/CVV"
+msgstr "CVC/CVV"
+
+msgid "What is CVC/CVV?"
+msgstr "¿Qué es CVC/CVV?"
+
+msgid "Name and surname"
+msgstr "Nombre y apellidos"
+
+msgid "Card Number"
+msgstr "Número de tarjeta"
+
+msgid "Card Caducity"
+msgstr "Caducidad de la tarjeta"
+
+msgid "Year"
+msgstr "Año"
+
+msgid "Month"
+msgstr "Mes"
+
+msgid " Save my credi card for features buys "
+msgstr "Guardar mi tarjeta de crédito para futuras compras"
+
+msgid "( %1 last digits on the back )"
+msgstr "( %1 últimas cifras del reverso )"
+
+msgid ""
+"( %1 digits above and either at the right or left side of the card number )"
+msgstr ""
+"( %1 cifras encima y a la derecha o a la izquierda del número de tarjeta )"
+
+msgid "Modify invoice data"
+msgstr "modificar datos de facturación"
+
+msgid "Name and surname / Company name"
+msgstr "Nombre y apellidos / Nombre fiscal Empresa"
+
+msgid "Number"
+msgstr "Número"
+
+msgid "Floor"
+msgstr "Piso"
+
+msgid "Door"
+msgstr "Puerta"
+
+msgid "Your buy"
+msgstr "Tu compra"
+
+msgid "Your buy: %1"
+msgstr "Tu compra: %1"
+
+msgid "Price"
+msgstr "Precio"
+
+msgid "Available credit"
+msgstr "Crédito disponible"
+
+msgid "No Credits found."
+msgstr "No se ha encontrado crédito"
+
+msgid "Modify postal data"
+msgstr "modificar datos postales"
+
+msgid "Purchase completed successfully"
+msgstr "La compra se ha completado con éxito"
+
+msgid "Check your e-mail"
+msgstr "Comprueba tu correo electrónico"
+
+msgid ""
+"Thank you for your purchase, you will receive an e-mail with the details of "
+"your purchase."
+msgstr ""
+"Gracias por tu compra, recibirás un email con los detalles de tu compra."
+
+msgid "If you want you can"
+msgstr "Si quieres puedes"
+
+msgid "Recommend this offer to your friends"
+msgstr "Recomendar esta oferta a tus amigos"
+
+msgid "Back to home"
+msgstr "Volver a la Home"
+
+msgid "Do you need invoice?"
+msgstr "¿Necesitas una factura?"
+
+msgid "Yes, I want an invoice"
+msgstr "Sí, quiero una factura"
+
+msgid "Copy shipping data"
+msgstr "Copiar información de Datos de Envío"
+
+msgid "All fields are required"
+msgstr "Todos los campos son obligatorios"
+
+msgid "taxId"
+msgstr "NIF / CIF"
+
+msgid "nif"
+msgstr "NIF"
+
+msgid "cif"
+msgstr "CIF"
+
+msgid "nie"
+msgstr "NIE"
+
+msgid "other"
+msgstr "Otro"
+
+msgid "Other"
+msgstr "Otra"
+
+msgid "Select"
+msgstr "Seleccionar"
+
+msgid "Save this information for future purchases"
+msgstr "Guardar estos datos para futuras compras"
+
+msgid ""
+"Travel with everything under control: LetsBonus provides you with the "
+"Cancellation Insurance Plus, it will refund 100% of costs in case you have "
+"to cancel for any of the reasons guaranteed. (Price for the total amount)"
+msgstr ""
+"Viaja con todo bajo control: LetsBonus pone a tu disposición el Seguro "
+"Anulación Plus, que reembolsará el 100% de los gastos en caso de que tengas "
+"que cancelar por cualquiera de las causas garantizadas. (Precio por el total "
+"de la reserva)"
+
+msgid ""
+"Shipping charges are calculated based on the number of units and delivery "
+"address. To know the amount you need to register and fill in the form of "
+"delivery address. If you already have stored in your user area, the address "
+"will appear automatically when you register"
+msgstr ""
+"Los gastos de envío se calculan en base al número de unidades y a la "
+"dirección de entrega. Para saber cuales son estos gastos, tienes que acceder "
+"con tu cuenta y rellenar el formulario con tu dirección de envío. Si tus "
+"datos ya están guardados, aparecerán automáticamente."
+
+msgid "Units"
+msgstr "Unidades"
+
+msgid "Your payment details"
+msgstr "Tu información de pago"
+
+msgid "New card / Paypal"
+msgstr "Tarjeta nueva / PayPal"
+
+msgid "Information"
+msgstr "Información"
+
+msgid "Congratulations, using your credit this purchase is free!"
+msgstr "¡Felicidades, usando tu crédito esta compra te sale gratis!"
+
+msgid "Congratulations, this purchase is free!"
+msgstr "¡Felicidades, esta compra te sale gratis!"
+
+msgid "How do you want to share it?"
+msgstr "¿Cómo quieres compartirlo?"
+
+msgid "Amex"
+msgstr "American Express"
+
+msgid "Paypal"
+msgstr "PayPal"
+
+msgid "Mastercard"
+msgstr "MasterCard"
+
+msgid "Adyen-visa"
+msgstr "Visa"
+
+msgid "Adyen-mastercard"
+msgstr "Mastercard"
+
+msgid "Adyen-amex"
+msgstr "American Express"
+
+msgid "Saving"
+msgstr "Ahorro"
+
+msgid "Login"
+msgstr "Identifícate"
+
+msgid "You must accept the conditions of travel"
+msgstr "Debe aceptar las condiciones de viaje"
+
+msgid "You must purchase a minimum of %1 tickets for this product."
+msgstr "Debe adquirir un minimo de %1 unidades de este producto."
+
+msgid "Your buy:"
+msgstr "Tu compra:"
+
+msgid "Your selection"
+msgstr "Tu selección"
+
+msgid "Shipping info"
+msgstr "Información de envío"
+
+msgid "Travellers info"
+msgstr "Información de viajeros"
+
+msgid "Payment info"
+msgstr "Información de pago"
+
+msgid "Error AJAX"
+msgstr "Error AJAX"
+
+msgid ""
+"I agree that LetsBonus process my purchases without requiring the CVV code."
+msgstr ""
+"Acepto que LetsBonus procese mis compras sin necesidad de introducir el "
+"código CVV."
+
+msgid ""
+"Although you are subscribed and receive our email offers, create your "
+"account with your name and password. So you can manage your credit, your "
+"purchases and direct access to your tickets. If you have any questions "
+"please contact us at <a href='%1'>our contact form</a>"
+msgstr ""
+"Aunque estés suscrito y recibas nuestra newsletter, crea tu cuenta con tu "
+"nombre y contraseña! De esta manera podrás gestionar tu crédito y tener "
+"acceso directo a tus tickets comprados. Si tienes alguna duda por favor "
+"ponte en contacto con nosotros a través de nuestro <a href='%1'>formulario "
+"de contacto</a>"
+
+msgid ""
+"The user is responsible for the veracity of the data provided in the "
+"shipping form"
+msgstr ""
+"El usuario se hace responsable de la veracidad de los datos suministrados en "
+"el formulario de entrega"
+
+msgid ""
+"The user is responsible for the veracity of the data provided in the invoice "
+"form"
+msgstr ""
+"El usuario se hace responsable de la veracidad de los datos suministrados en "
+"el formulario de facturación"
+
+msgid "There is another shopping process active, only one is allowed."
+msgstr "Existe otro proceso de compra activo, sólo se permite uno a la vez."
+
+msgid ""
+"Something wrong happened at the shopping process, please refresh the page"
+msgstr "Hubo un error en el proceso de compra, por favor, actualice la página"
+
+msgid "Expiry Date: %1 - %2 - %3"
+msgstr "Fecha de caducidad: %1 - %2 - %3"
+
+msgid "There was an error"
+msgstr "Hubo un error"
+
+msgid "Unknown error with payment API"
+msgstr "No se puede completar su compra, por favor, inténtelo de nuevo"
+
+msgid "Gift check"
+msgstr "Crédito Regalo"
+
+msgid "Total Cost"
+msgstr "Importe total"
+
+msgid "Subtotal"
+msgstr "Subtotal"
+
+msgid "This is your choice"
+msgstr "Esta es tu selección"
+
+msgid "Select an option and the number of plans or products"
+msgstr "Selecciona una opción y la cantidad de planes o productos"
+
+msgid "More plans and products"
+msgstr "Más planes y productos"
+
+msgid "PayPal cannot process this sale in this moment"
+msgstr "PayPal no puede procesar la venta en este momento"
+
+msgid ""
+"Because of an incident outside, right now you can make purchases directly on "
+"the site LetsBonus."
+msgstr ""
+"Por causas ajenas a LetsBonus, en estos momentos no se pueden realizar "
+"compras directamente en la web."
+
+msgid "Meanwhile the problem is being solved, you can pay using PayPal."
+msgstr ""
+"Mientras se soluciona el problema, puedes realizar el pago a través de "
+"PayPal."
+
+msgid "Thanks and sorry for the inconvenience"
+msgstr "Gracias y disculpa las molestias"
+
+msgid "Make your choice"
+msgstr "Selecciona una opción"
+
+# Installment Payments.
+msgid "Installment payment"
+msgstr "Pago fraccionado"
+
+msgid ""
+"You pay the 50% of this travel now and the rest %1 days before the departure."
+msgstr ""
+"Paga el 50% cuando compras el viaje y el resto %1 días antes de la salida."
+
+msgid "Remember that"
+msgstr "Recuerda que"
+
+msgid "Select installments"
+msgstr "Selecciona cuotas"
+
+msgid "1 payment of %2"
+msgid_plural "%1 payments of %2"
+msgstr[0] "1 pago de %2"
+msgstr[1] "%1 pagos de %2"
+
+msgid "You can pay in two parts"
+msgstr "Podrás pagarlo en dos partes"
+
+msgid ""
+"The second half of the fee %1 will be charged %2 days before departure of "
+"your trip"
+msgstr ""
+"La segunda mitad del cobro de %1 se te cargará %2 días antes de la salida de "
+"tu viaje"
+
+msgid "Quantity for me"
+msgstr "Cantidad para mi"
+
+msgid "Quantity to gift"
+msgstr "Cantidad para regalo"
+
+msgid "After the buy you will be able to personalize your gifts"
+msgstr ""
+"Después de la compra, podrás personalizar tus regalos con los diseños y "
+"textos que más te gusten."
+
+msgid "Travel safe - your insurance contract calling to 902 027 327"
+msgstr "Viaja seguro - contrata tu seguro llamando al 902 027 327"
+
+msgid "Remember that you can only buy or gift %1 unit"
+msgid_plural "Remember that you can only buy or gift %1 unit"
+msgstr[0] "Recuerda que puedes comprar o regalar sólo %1 unidad"
+msgstr[1] "Recuerda que puedes comprar o regalar sólo %1 unidades"
+
+msgid "Your present will be sent the day"
+msgstr "Tu regalo se enviará el día"
+
+msgid "to the next mail address:"
+msgstr "a la siguiente dirección de correo electrónico:"
+
+msgid "All, in shows, the best"
+msgstr "De todo, en espectáculos, lo mejor"
+
+msgid ""
+"Because we know you like to be the last, do not miss the best concert or the "
+"most interesting exhibitions... We are selecting the most exciting shows in "
+"your city."
+msgstr ""
+"Porque sabemos que te gusta estar a la última, no perderte los mejores "
+"conciertos o las exposiciones más interesantes... Estamos seleccionando los "
+"espectáculos más emocionantes de tu ciudad."
+
+msgid "Shows Deals"
+msgstr "Espectáculos"
+
+msgid "shows"
+msgstr "Espectáculos"
+
+msgid "Delivery time"
+msgstr ""
+"Plazo \n"
+" de entrega"
+
+msgid "between 2 and 3 weeks"
+msgstr "entre 2 y 3 semanas"
+
+msgid "Logistics partner"
+msgstr "Partner logístico"
+
+msgid "Partner Support"
+msgstr "Atención al comercio"
+
+msgid "Customer Support"
+msgstr "Atención al cliente"
+
+msgid "We are travel agency"
+msgstr "Somos agencia de viajes"
+
+msgid "associated with"
+msgstr "asociados a"
+
+msgid "All"
+msgstr "Todas"
+
+msgid "Filter by category:"
+msgstr "Filtrar por categoría:"
+
+# Escapes
+msgid "escapes"
+msgstr "Escapadas"
+
+msgid "Escapes Deals"
+msgstr "Especial Escapadas"
+
+msgid "Plans of escapes in %1 past"
+msgstr "Planes pasados de Escapadas en %1"
+
+# Special Boutique
+msgid "specialboutique"
+msgstr "Complementos"
+
+msgid "SpecialBoutique Deals"
+msgstr "Complementos"
+
+msgid "Plans of specialBoutique in %1 past"
+msgstr "Productos ya publicados en Especial Boutique en %1"
+
+msgid "All, in specialboutique, the best"
+msgstr "De todo, en la boutique de accesorios, lo mejor"
+
+# Special Daily
+msgid "specialdaily"
+msgstr "Cursos Online"
+
+msgid "SpecialDaily Deals"
+msgstr "Cursos Online"
+
+msgid "Plans of specialDaily in %1 past"
+msgstr "Planes pasados en Especial Ocio en %1"
+
+msgid "All, in specialdaily, the best"
+msgstr "De todo, planes del día, lo mejor"
+
+# Special Christmas
+msgid "christmas"
+msgstr "Especial Reyes"
+
+msgid "Christmas"
+msgstr "Especial Reyes"
+
+msgid "Christmas gifts with discounts up to 70% in %1 - %2"
+msgstr "Regalos de Reyes con descuentos de hasta el 70% en %1 – %2"
+
+msgid ""
+"The most irresistible deals on Christmas gifts with discounts up to 70% in "
+"%1. Cheer up!"
+msgstr ""
+"Las ofertas más irresistibles en regalos de Reyes con descuentos de hasta el "
+"70% en %1. ¡Anímate!"
+
+msgid "Find more gifts here!"
+msgstr "¡Encuentra más regalos aquí!"
+
+msgid "All gifts"
+msgstr "Todos"
+
+msgid "explorer"
+msgstr "Aventureros"
+
+msgid "explorer-hash"
+msgstr "aventureros"
+
+msgid "wellness"
+msgstr "Mimad@s"
+
+msgid "wellness-hash"
+msgstr "mimados"
+
+msgid "geeks"
+msgstr "Techies"
+
+msgid "geeks-hash"
+msgstr "techies"
+
+msgid "gourmets"
+msgstr "Gourmets"
+
+msgid "gourmets-hash"
+msgstr "gourmets"
+
+msgid "families"
+msgstr "Familias"
+
+msgid "families-hash"
+msgstr "familias"
+
+msgid "Plans of christmas in %1 past - %2"
+msgstr "Productos y planes pasados en Navidad en %1 - %2"
+
+msgid "Plans of christmas in %1 past"
+msgstr "Productos y planes pasados en Navidad en %1"
+
+msgid ""
+"Plans of christmas in %1 past. %2 The most compelling offers in boutique "
+"products with discounts of up to 70%. Join us!"
+msgstr ""
+"Productos y planes pasados en Navidad en %1. %2 es líder en Descuentos de "
+"Ocio, Viajes y Boutique de hasta el 70%. ¡Apúntate!"
+
+msgid "give it!"
+msgstr "¡regálalo!"
+
+# San Valentín
+msgid "valentine"
+msgstr "San Valentín"
+
+msgid "Valentine"
+msgstr "San Valentín"
+
+msgid "Valentine gifts with discounts up to 70% in %1 - %2"
+msgstr "Regalos de San Valentín con descuentos de hasta el 70% en %1 – %2"
+
+msgid ""
+"The most irresistible deals on Valentine gifts with discounts up to 70% in "
+"%1. Cheer up!"
+msgstr ""
+"Las ofertas más irresistibles en regalos de San Valentín con descuentos de "
+"hasta el 70% en %1. ¡Anímate!"
+
+msgid "for-he"
+msgstr "Para él"
+
+msgid "for-he-hash"
+msgstr "para-el"
+
+msgid "for-both"
+msgstr "Para compartir"
+
+msgid "for-both-hash"
+msgstr "para-compartir"
+
+msgid "for-she"
+msgstr "Para ella"
+
+msgid "for-she-hash"
+msgstr "para-ella"
+
+msgid "Plans of valentine in %1 past - %2"
+msgstr "Productos y planes pasados en San Valentín en %1 - %2"
+
+msgid "Plans of valentine in %1 past"
+msgstr "Productos y planes pasados en San Valentín en %1"
+
+msgid ""
+"Plans of valentine in %1 past. %2 The most compelling offers in boutique "
+"products with discounts of up to 70%. Join us!"
+msgstr ""
+"Productos y planes pasados en San Valentín en %1. %2 es líder en Descuentos "
+"de Ocio, Viajes y Boutique de hasta el 70%. ¡Apúntate!"
+
+msgid "How works?"
+msgstr "¿Cómo funciona?"
+
+msgid "All, the best"
+msgstr "De todo, lo mejor"
+
+msgid ""
+"Every day we select carefully the best plans, products, events and trips for "
+"you. The restaurants with the most delightful letters, treatments that most "
+"benefit your body, supplements that make you feel elegant, the most "
+"interesting shows and travel have always dreamed. We have the most "
+"knowledgeable and the result is thousands of satisfied users every day."
+msgstr ""
+"Cada día seleccionamos con esmero los mejores planes, productos, "
+"espectáculos y viajes para ti. Los restaurantes con las cartas más "
+"deliciosas, los tratamientos que más benefician a tu cuerpo, los "
+"complementos que te hacen sentir elegante, los espectáculos más interesantes "
+"y los viajes que siempre has soñado. Contamos con los que más saben y el "
+"resultado son miles de usuarios satisfechos cada día."
+
+msgid "24 six months to buy and to consume"
+msgstr "24h para comprar y seis meses para consumir"
+
+msgid ""
+"Purchase the plan that you like, the most exclusive, attractive, exciting, "
+"and choose when you want to enjoy it! You have 6 months experience to fit "
+"you bought your day to day and that of your family the best."
+msgstr ""
+"Compra el plan que más te apetezca, el más exclusivo, atractivo, emocionante "
+"y ¡elige cuando quieres disfrutarlo! Tienes 6 meses, para que la experiencia "
+"que has comprado encaje en tu día a día y en la de los tuyos de la mejor "
+"manera."
+
+msgid "The best, at unbelievable prices"
+msgstr "Lo mejor, a precios increíbles"
+
+msgid ""
+"We know the most exclusive and enjoyed the confidence of businesses who know "
+"they work well. All, allows us to offer the best plans and products at great "
+"prices for you."
+msgstr ""
+"Conocemos los locales más exclusivos y gozamos de la confianza de los "
+"comercios que saben que trabajamos bien. Todo, hace que podamos ofrecer los "
+"mejores planes y productos a precios increíbles para ti."
+
+msgid "How do we get discounts?"
+msgstr "¿Cómo conseguimos descuentos?"
+
+msgid "We get incredible discounts because many people buy together."
+msgstr "Conseguimos increíbles descuentos porque muchos compramos juntos."
+
+msgid ""
+"You can share the plan with friends or purchased individually joining the "
+"thousands of buyers in your city."
+msgstr ""
+"Puedes compartir el plan con tus amigos o comprar individualmente sumándote "
+"a los miles de compradores de tu ciudad."
+
+msgid "Join the daily plan now and enjoy it when you want."
+msgstr "Apúntate al plan del día ahora y disfrútalo cuando quieras."
+
+msgid "Subscribe and tell your friends."
+msgstr "Suscríbete y avisa a tus amigos."
+
+msgid "Subscribe to LetsBonus!"
+msgstr "¡Suscríbete a multiEstrella & LetsBonus!"
+
+msgid "Error 404"
+msgstr "Error 404"
+
+msgid "Error 500"
+msgstr "Error 500"
+
+# RECOMMEND.
+msgid "Your friends already know LetsBonus?"
+msgstr "¿Tus amigos aún no conocen LetsBonus?"
+
+msgid "Recommend Letsbonus to a friend and we'll <b>give you %1</b> each one."
+msgstr "Recomienda LetsBonus a un amigo y os <b>regalamos %1</b> a cada uno."
+
+msgid "%1 for you and %1 to your friend"
+msgstr "%1 para ti y %1 para tu amigo"
+
+msgid ""
+"With this recommendation you and your friend can enjoy %1, %2 for you and %2 "
+"for your friend. When your friend has done its first purchase, bout will "
+"receive credit for use in your subsequent purchases."
+msgstr ""
+"Con esta recomendación tú y tu amigo podréis disfrutar de %1 de crédito para "
+"utilizar en vuestras compras sucesivas, %2 para ti y %2 para tu amigo. "
+"Cuando tu amigo se inscriba a través de tu recomendación recibirá los %2 en "
+"su cuenta de manera automática, y tú cuando él realice la primera compra."
+
+msgid "How it works?"
+msgstr "¿Cómo funciona?"
+
+msgid ""
+"Very easy, sign in or activate your account LetsBonus to share it with your "
+"friends from “Win %1” link. You will receive the %2 when your friend makes "
+"his first purchase. You can check at any time the evolution of your friends "
+"recommended registering and logging in to your account."
+msgstr ""
+"Es muy fácil, inicia sesión y desde el enlace “Consigue %1” podrás enviar la "
+"recomendación a través de Facebook y Twitter o enviar el link de "
+"recomendación a través de correo electrónico. Te ingresaremos los %2 cuando "
+"tu amigo realice la primera compra. Podrás comprobarlo entrando en la "
+"pestaña “Mi Crédito” de tu cuenta LetsBonus."
+
+msgid "How I can spend the credit?"
+msgstr "¿Cómo gasto el crédito?"
+
+msgid ""
+"You can use it to buy any of our plans, with a maximum of %1 of credit for "
+"purchase and if the price of the plan is at least %2."
+msgstr ""
+"Puedes usarlo para comprar cualquiera de nuestros planes, con un máximo de "
+"aplicación de %1 de crédito por compra y siempre que el precio del plan "
+"elegido sea mínimo de %2."
+
+msgid "Still your are not a member?"
+msgstr "¿Todavía no eres usuario?"
+
+msgid "Sign up here is easy!"
+msgstr "Regístrate aquí ¡es muy fácil!"
+
+msgid "Recommend it"
+msgstr "Recomiéndalo"
+
+msgid "Are you an user?"
+msgstr "¿Eres usuario?"
+
+msgid "Through social networks..."
+msgstr "A través de redes sociales..."
+
+msgid "...or sending this link by email"
+msgstr "...o enviando este enlace por email"
+
+msgid ""
+"For you, the best-selling plans, the best almost finished! Do not hesitate "
+"and surprise your partner this evening with a romantic dinner or your "
+"parents with the trip you've always wanted. But why not for you? Treat "
+"yourself, there are few units of the finest products."
+msgstr ""
+"Para ti, los planes más vendidos, los mejores ¡a punto de terminarse! No lo "
+"pienses más y sorprende a tu pareja esta noche con una cena romántica o a "
+"tus padres con el viaje que siempre han querido. Pero, ¿por qué no para ti? "
+"Date un capricho, quedan pocas unidades de los productos más selectos."
+
+msgid ""
+"We are working to select the best plans and products for you. Soon you will "
+"find on this page. As you can see the other tabs on our website."
+msgstr ""
+"Estamos trabajando para seleccionar los mejores planes y productos para ti. "
+"En breve los encontrarás en esta página. Mientras, puedes consultar el resto "
+"de pestañas de nuestra web."
+
+msgid "active"
+msgstr "activo"
+
+# REGISTERED.
+msgid "Congratulations, your account is ready and running!"
+msgstr "Felicidades, ¡tu cuenta ya está activa!"
+
+msgid ""
+"From now on you will receive in your email the offers that we carefully "
+"select for you everyday!"
+msgstr ""
+"Gracias por completar tu registro. Esto nos ayuda a conocerte mejor para que "
+"podamos enviarte los mejores planes para ti. Cenas románticas con tu pareja, "
+"teatro, escapadas, centros de belleza, boutique de productos, planes en "
+"familia…."
+
+msgid "You will receive special promotions and enjoy Giveaway Checks!"
+msgstr "Recibirás promociones especiales y disfrutarás de Cheques Regalo."
+
+msgid "From your LetsBonus account you will be able to manage your credit"
+msgstr ""
+"Desde tu cuenta LetsBonus podrás gestionar tu crédito como más te convenga, "
+"gestionar las newsletters que quieres recibir e imprimir tus tickets."
+
+msgid "Recommend LetsBonus!"
+msgstr "¡Recomienda LetsBonus!"
+
+msgid "We give you %1"
+msgstr "Os regalamos %1"
+
+msgid ""
+"Recommend us to a friend and we will give away %1, %2 to you and %2 to your "
+"friend."
+msgstr ""
+"Recuerda que puedes recomendar LetsBonus a tus amigos. Por cada "
+"recomendación que hagas os regalamos %1, %2 para ti y %2 para tu amigo."
+
+msgid ""
+"Do you have children? Subscribe to Family Plans and enjoy the most exciting "
+"plans with your family."
+msgstr ""
+"¿Tienes hijos? ¿Sobrinos? Suscríbete a Planes en familia y disfruta de los "
+"planes más emocionantes con los tuyos. Te mandaremos los mejores productos y "
+"propuestas para divertiros en familia.  "
+
+msgid "Recommend LetsBonus to a friend and we'll give you %1 each."
+msgstr "Recomienda LetsBonus a un amigo y os regalamos %1 a cada uno."
+
+msgid "recommend LetsBonus"
+msgstr "recomienda"
+
+# /REGISTERED.
+msgid ""
+"The best plans, travel and exlusivos products with discounts of up to 70%"
+msgstr ""
+"Descuentos de hasta el 70% en los mejores planes de ocio de tu ciudad, "
+"viajes de película y productos exclusivos."
+
+msgid "Join for free!"
+msgstr "Regístrate gratis"
+
+msgid "I'm already registered"
+msgstr "Ya estoy registrado"
+
+msgid "The best of all you are looking for with discounts up to 70%"
+msgstr "De todo, lo que buscas, lo mejor con descuentos de hasta el 70%"
+
+msgid "We're sorry."
+msgstr "Lo sentimos."
+
+msgid ""
+"Of everything for what you look in LetsBonus we have the variety you deserve "
+"and the quality you demand. We want that you enjoy up to the last minute of "
+"your experiences."
+msgstr ""
+"De todo lo que busques en LetsBonus, tenemos la variedad y la calidad que te "
+"mereces. Queremos que disfrutes hasta el último minuto de tus experiencias."
+
+msgid "technology"
+msgstr "Tecnología"
+
+msgid "Technology Deals"
+msgstr "Tecnología"
+
+msgid "All, in technology, the best"
+msgstr "De todo, en tecnología, lo mejor"
+
+msgid "Tel."
+msgstr "Tel."
+
+msgid "Telephone"
+msgstr "Teléfono"
+
+msgid "Web"
+msgstr "Web"
+
+msgid "Reference Number"
+msgstr "Número de Referencia"
+
+msgid "GIFT TICKET"
+msgstr "TICKET REGALO"
+
+msgid "Ticket locator code"
+msgstr "Número localizador Ticket"
+
+msgid "Locator code"
+msgstr "Número localizador"
+
+msgid "Consumer code"
+msgstr "Código consumo"
+
+msgid "External code"
+msgstr "Código de canjeo"
+
+msgid "Code"
+msgstr "Código"
+
+msgid "Sale date"
+msgstr "Fecha compra"
+
+msgid "Expiry date"
+msgstr "Fecha de caducidad"
+
+msgid "Congratulations!"
+msgstr "Felicidades!"
+
+msgid "You just received a gift from %1. Enjoy it!"
+msgstr "Acabas de recibir un regalo de %1. ¡Que lo disfrutes!"
+
+msgid "Discounts up to"
+msgstr "Descuentos de hasta el"
+
+msgid "70% in your city"
+msgstr "70% en ocio en tu ciudad"
+
+msgid "Ubication"
+msgstr "Ubicación"
+
+msgid "Conditions"
+msgstr "Condiciones"
+
+msgid "How to use the ticket"
+msgstr "Cómo usar el ticket"
+
+msgid "Flash Plans Logo"
+msgstr "Logo Planes flash"
+
+msgid "Bought"
+msgstr "Comprado"
+
+msgid ""
+"is a portal for sales and promotion and is exempt from any liability arising "
+"from the contracted services by the client."
+msgstr ""
+"es un portal de venta y promoción y queda exenta de cualquier "
+"responsabilidad derivada de la prestación del servicio contratado por el "
+"cliente al comercio."
+
+msgid "Pick up in trade directly"
+msgstr "Recogida en el comercio directamente"
+
+msgid "Shipping Fee"
+msgstr "Gastos de envío"
+
+msgid "taxName"
+msgstr "IVA"
+
+msgid "companyName"
+msgstr "LET'S BONUS, S.L."
+
+msgid "companyNIF"
+msgstr "NIF: B-65187593"
+
+msgid "companyAddress"
+msgstr "Gala Placidia 1-3, Planta 2"
+
+msgid "companyPostalCode"
+msgstr "08006, Barcelona"
+
+msgid "Ticket Number"
+msgstr "Nº de Ticket"
+
+msgid "Invoice Number"
+msgstr "Nº de Factura"
+
+msgid "Creation date"
+msgstr "Fecha de emisión"
+
+msgid "Operation date"
+msgstr "Fecha de operación"
+
+msgid "Mailing address"
+msgstr "Dirección de envío"
+
+msgid "Invoice address"
+msgstr "Dirección de facturación"
+
+msgid "Quantity"
+msgstr "Cantidad"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Unity price"
+msgstr "Precio unitario"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Taxable"
+msgstr "Base imponible"
+
+msgid "Total amount"
+msgstr "Importe total"
+
+msgid "Letsbonus credit"
+msgstr "Crédito LetsBonus"
+
+msgid "Credit used"
+msgstr "Crédito utilizado"
+
+msgid "Total to pay"
+msgstr "Total a pagar"
+
+msgid ""
+"The operation documented here is done in the terms and conditions outlined "
+"in our website and they were first expressly accepted in their recruitment."
+msgstr ""
+"La operación aquí documentada se realiza en los términos y condiciones "
+"señalados en nuestra página web y que fueron previa y expresamente aceptados "
+"en su contratación."
+
+msgid ""
+"Let's Bonus, S.L. is registered in the Registro Mercantil de Barcelona, "
+"Volume 41528, Folio 191, Sheet B-387606."
+msgstr ""
+"Let's Bonus, S.L. está inscrita en el Registro Mercantil de Barcelona, en el "
+"Tomo 41528, Folio 191, Hoja B-387606."
+
+msgid ""
+"Enjoy the best experiences in restaurants, wellness, getaways, travel, "
+"entertainment, family plans and the latest products at incredible discounts."
+msgstr ""
+"Disfruta de las mejores experiencias en restaurantes, wellness, escapadas, "
+"viajes, espectáculos, planes en familia y lo último en productos con "
+"descuentos increíbles."
+
+msgid ""
+"Enter <a href='http://es.letsbonus.com/letscard' style='color: #574739; text-"
+"decoration: underline;'>es.letsbonus.com/letscard</a> enter your code and "
+"follow the instructions."
+msgstr ""
+"Entra en <a href='http://es.letsbonus.com/letscard' style='color: #574739; "
+"text-decoration: underline;'>es.letsbonus.com/letscard</a> introduce tu "
+"código y sigue las instrucciones."
+
+msgid "LetsSurprise"
+msgstr "LetsSurprise"
+
+msgid "letssurprise.ticket.title.emocion"
+msgstr "Emoción"
+
+msgid "letssurprise.ticket.intro.emocion"
+msgstr ""
+"Con LetsSurprise siente la adrenalina y libérate del stress con nuestras "
+"actividades más emocionantes."
+
+msgid "letssurprise.index.txt1.emocion"
+msgstr "Estos son algunos de los ejemplos de planes que puedes disfrutar:"
+
+msgid "letssurprise.index.comercios.emocion"
+msgstr ""
+"Vuelo en Paramotor, Vuelo en Parapente, Conducción de Ferrari y Fórmula en "
+"Circuito, Paseo en Globo, Curso de Buceo PADI, Kite Surf, Bautismo de Buceo, "
+"Experiencia en Coche Deportivo, Excursión en Buggy, Vuelo en Avioneta, "
+"Bautismo Aéreo en Helicóptero, Conducción GT en Circuito..."
+
+msgid "letssurprise.index.cierre.emocion"
+msgstr "Tenemos más de 100 actividades para disfrutar durante todo el año."
+
+msgid "letssurprise.index.cierre.emocion.more"
+msgstr ""
+
+msgid "letssurprise.index.cierrepdf.emocion"
+msgstr ""
+"Introduce el código que encontrarás en la parte inferior izquierda de este "
+"tarjetón en la siguiente dirección: <a href='http://www.lets-surprise.com/"
+"emocion' style='color: #574739; text-decoration: underline;'>www.lets-"
+"surprise.com/emocion</a>"
+
+msgid "letssurprise.ticket.title.spa-deluxe"
+msgstr "Spa Deluxe"
+
+msgid "letssurprise.ticket.intro.spa-deluxe"
+msgstr ""
+"Con LetsSurprise siente como cuerpo y mente se renuevan en un spa y disfruta "
+"de una experiencia única para dos personas."
+
+msgid "letssurprise.index.txt1.spa-deluxe"
+msgstr "Estos son algunos de los ejemplos que puedes encontrar:"
+
+msgid "letssurprise.index.comercios.spa-deluxe"
+msgstr ""
+"Barcelona:<br />Spa Zen Zone Gran Hotel La Florida*****, Spa Aqua Diagonal "
+"Hotel Princesa Sofia*****, Balneari Vichy Catalán, Acbua Spa Macia Can "
+"Bonastre****, Sensations Spa&Wellness Centre Hotel La Mola****...<br /><br /"
+">Madrid:<br />02 Centro Wellness, The Sanctuary Spa, Auditorium Spa, "
+"Balneario Sol y Agua, Senator España Spa Hotel****, Spa Aguai+, Spa urbano "
+"Masqueagua, Aquaestetica Spa..."
+
+msgid "letssurprise.index.cierre.spa-deluxe"
+msgstr "Tenemos más de 1000 experiencias para disfrutar durante todo el año."
+
+msgid "letssurprise.index.cierre.spa-deluxe.more"
+msgstr ""
+"También encontrarás centros wellness como estos en Valencia, Sevilla, "
+"Zaragoza, Bilbao, Málaga, A Coruña, Palma de Mallorca, etc."
+
+msgid "letssurprise.index.cierrepdf.spa-deluxe"
+msgstr ""
+"Introduce el código que encontrarás en la parte inferior izquierda de este "
+"tarjetón en la siguiente dirección: <a href='http://www.lets-surprise.com/"
+"spa-deluxe' style='color: #574739; text-decoration: underline;'>www.lets-"
+"surprise.com/spa-deluxe</a>"
+
+msgid "letssurprise.ticket.title.escapadas-deluxe"
+msgstr "Escapadas"
+
+msgid "letssurprise.ticket.intro.escapadas-deluxe"
+msgstr ""
+"Con LetsSurprise disfruta de una escapada única para dos personas. Sal de la "
+"rutina y alójate en una estancia de lujo."
+
+msgid "letssurprise.index.txt1.escapadas-deluxe"
+msgstr "Estos son algunos hoteles de ensueño que puedes encontrar:"
+
+msgid "letssurprise.index.comercios.escapadas-deluxe"
+msgstr ""
+"Hotel Gran Claustre****, Costa Dorada; Fontanals Golf****, La Cerdanya; "
+"Hotel Mas Solà****, La Selva; Hotel Masia Bach****, El Penedés; La Costa "
+"Golf & Beach Resort****, Costa Brava; Hotel Piolets Park & Spa****, Andorra; "
+"Hotel & Spa Isabel de Farnesio****, Segovia; Hotel Don fadrique, Salamanca; "
+"Hotel Prado de la Marinas, Aranda del Duero; Hotel Fontecruz Caceres*****; "
+"Hotel Doña Teresa****, La Alberca; Hotel Plaza Veracruz****, Ciudad Real..."
+
+msgid "letssurprise.index.cierre.escapadas-deluxe"
+msgstr "Tenemos más de 1000 escapadas para disfrutar durante todo el año."
+
+msgid "letssurprise.index.cierre.escapadas-deluxe.more"
+msgstr ""
+
+msgid "letssurprise.index.cierrepdf.escapadas-deluxe"
+msgstr ""
+"Introduce el código que encontrarás en la parte inferior izquierda de este "
+"tarjetón en la siguiente dirección: <a href='http://www.lets-surprise.com/"
+"escapadas-deluxe' style='color: #574739; text-decoration: underline;'>www."
+"lets-surprise.com/escapadas-deluxe</a>"
+
+msgid "letssurprise.ticket.title.restaurantes-deluxe"
+msgstr "Restaurantes Deluxe"
+
+msgid "letssurprise.ticket.intro.restaurantes-deluxe"
+msgstr ""
+"Con LetsSurprise disfruta de una cena para dos personas en los restaurantes "
+"más chic y selectos que te sorprenderán."
+
+msgid "letssurprise.index.txt1.restaurantes-deluxe"
+msgstr ""
+"Estos son algunos de los ejemplos de restaurantes que puedes encontrar:"
+
+msgid "letssurprise.index.comercios.restaurantes-deluxe"
+msgstr ""
+"Barcelona:<br />Avalon By Ramon Freixa, Elephant Lounge Club, Roma Reial "
+"(Carlitos Group), Dolce Vita (Terraza Hotel Majestic*****), Sushi Fusion, "
+"Limbo...<br /><br />Madrid:<br />Estado Puro Paco Roncero (Chef con 2 "
+"Estrellas Michelin), Restaurante El Verdil Hotel Mirasierra Suites*****, "
+"Real Café Bernabeu, Restaurante Hotel Radisson Blue, Laydown, Sushiwakka..."
+
+msgid "letssurprise.index.cierre.restaurantes-deluxe"
+msgstr "Tenemos más de 1000 experiencias para disfrutar durante todo el año."
+
+msgid "letssurprise.index.cierre.restaurantes-deluxe.more"
+msgstr ""
+"También encontrarás restaurantes como estos en Valencia, Sevilla, Zaragoza, "
+"Bilbao, Málaga, A Coruña, Palma de Mallorca, etc."
+
+msgid "letssurprise.index.cierrepdf.restaurantes-deluxe"
+msgstr ""
+"Introduce el código que encontrarás en la parte inferior izquierda de este "
+"tarjetón en la siguiente dirección: <a href='http://www.lets-surprise.com/"
+"restaurantes-deluxe' style='color: #574739; text-decoration: underline;'>www."
+"lets-surprise.com/restaurantes-deluxe</a>"
+
+msgid "letssurprise.ticket.title.espectaculos"
+msgstr "Espectáculos"
+
+msgid "letssurprise.ticket.intro.espectaculos"
+msgstr ""
+"Con LetsSurprise vibra con un espectáculo para dos personas y disfruta de "
+"obras de teatro que te emocionarán.<br />Descubre las últimas novedades en "
+"drama, comedia, musicales..."
+
+msgid "letssurprise.index.txt1.espectaculos"
+msgstr ""
+"Estos son algunos de los teatros, salas y auditorios que puedes encontrar:"
+
+msgid "letssurprise.index.comercios.espectaculos"
+msgstr ""
+"Barcelona:<br />Liceu, Teatre Coliseum, Palau de la Música, El Auditori, "
+"Palau Sant Jordi, Teatre Tívoli...<br /><br />Madrid:<br />Teatro Compac "
+"Gran Vía, Teatro Rialto, Teatros del Canal, Auditorio Nacional, Arteria "
+"Coliseum, El Palacio de los Deportes..."
+
+msgid "letssurprise.index.cierre.espectaculos"
+msgstr "Tenemos más de 1000 espectáculos para disfrutar durante todo el año."
+
+msgid "letssurprise.index.cierre.espectaculos.more"
+msgstr ""
+"También encontrarás espectáculos como estos en Valencia, Sevilla, Zaragoza, "
+"Bilbao, Málaga, A Coruña, Palma de Mallorca, etc."
+
+msgid "letssurprise.index.cierrepdf.espectaculos"
+msgstr ""
+"Introduce el código que encontrarás en la parte inferior izquierda de este "
+"tarjetón en la siguiente dirección: <a href='http://www.lets-surprise.com/"
+"espectaculos' style='color: #574739; text-decoration: underline;'>www.lets-"
+"surprise.com/espectaculos</a>"
+
+msgid "letssurprise.ticket.title.viajes"
+msgstr "Viajes"
+
+msgid "letssurprise.ticket.intro.viajes"
+msgstr ""
+"Con LetsSurprise disfruta de un viaje para dos personas que te conquistará."
+
+msgid "letssurprise.index.txt1.viajes"
+msgstr "Estos son algunos ejemplos de destinos por descubrir:"
+
+msgid "letssurprise.index.comercios.viajes"
+msgstr ""
+"Fascinante Estambul<br />París del Amor<br />Emblemática Marrakech<br /"
+">Susurrante Lisboa<br />Mágica Venecia<br />Misteriosa Praga<br />Eterna "
+"Roma..."
+
+msgid "letssurprise.index.cierre.viajes"
+msgstr "Tenemos más de 1000 viajes para disfrutar durante todo el año."
+
+msgid "letssurprise.index.cierre.viajes.more"
+msgstr ""
+
+msgid "letssurprise.index.cierrepdf.viajes"
+msgstr ""
+"Introduce el código que encontrarás en la parte inferior izquierda de este "
+"tarjetón en la siguiente dirección: <a href='http://www.lets-surprise.com/"
+"viajes' style='color: #574739; text-decoration: underline;'>www.lets-"
+"surprise.com/viajes</a>"
+
+msgid "letssurprise.ticket.title.familyplans"
+msgstr "Family Plans"
+
+msgid "letssurprise.ticket.intro.familyplans"
+msgstr ""
+"Con LetsSurprise disfruta de experiencias en familia. Los momentos "
+"inolvidables y la diversión están aseguradas."
+
+msgid "letssurprise.index.txt1.familyplans"
+msgstr "Estos son algunos ejemplos de planes para vivir en familia:"
+
+msgid "letssurprise.index.comercios.familyplans"
+msgstr ""
+"Barcelona:<br />Tibidabo, Marineland, Gran Pallars forfaits, Events Karts, "
+"Teatre Coliseum, Teatre Poliorama...<br /><br />Madrid:<br />Parque de "
+"Atracciones, Faunia, Zoo de Madrid, Aquopolis, Karting Montoya, Parque "
+"Warner, Teatro Nuevo Apolo, Arteria Häagen Dazs Calderón..."
+
+msgid "letssurprise.index.cierre.familyplans"
+msgstr "Tenemos más de 500 experiencias para disfrutar durante todo el año."
+
+msgid "letssurprise.index.cierre.familyplans.more"
+msgstr ""
+"También encontrarás planes como estos en Valencia, Sevilla, Zaragoza, "
+"Bilbao, Málaga, A Coruña, Palma de Mallorca, etc."
+
+msgid "letssurprise.index.cierrepdf.familyplans"
+msgstr ""
+"Introduce el código que encontrarás en la parte inferior izquierda de este "
+"tarjetón en la siguiente dirección: <a href='http://www.lets-surprise.com/"
+"familyplans' style='color: #574739; text-decoration: underline;'>www.lets-"
+"surprise.com/familyplans</a>"
+
+msgid "Customer Service: 902 02 73 72"
+msgstr "Atención al cliente: 902 02 73 72"
+
+msgid "Google Maps"
+msgstr "Google Maps"
+
+msgid ""
+"For questions regarding the product you must fill out the <a style='color: "
+"#8c8c8c;' href='%1'>contact form</a> via the web LetsBonus. We only accept "
+"requests that come through the web form or by calling 902 027 372."
+msgstr ""
+"Para consultas relacionadas con el producto debes cumplimentar <a "
+"style='color: #8c8c8c;' href='%1'>el formulario de contacto</a> a través de "
+"la web de LetsBonus. Sólo se aceptarán las peticiones que lleguen a través "
+"del formulario web o llamando al 902 027 372."
+
+msgid "This ticket is nominal and is valid for:"
+msgstr "Este ticket es nominal y es válido para:"
+
+msgid "%1 tickets sold in <span>%2 hours</span>"
+msgstr "%1 tickets vendidos en <span>%2 horas</span>"
+
+msgid "aquí"
+msgstr "aquí"
+
+msgid "Sending method"
+msgstr "Método de envío"
+
+msgid "The page is not available right now"
+msgstr "La página no está disponible ahora mismo"
+
+msgid "See Web"
+msgstr "Ver Web"
+
+msgid "Payment summary"
+msgstr "Desglose pago"
+
+msgid "Info for merchant"
+msgstr "Datos para el comercio"
+
+msgid "Page"
+msgstr "Página"
+
+msgid "of"
+msgstr "de"
+
+msgid "Shop code"
+msgstr "Código de comercio"
+
+msgid "Not valid ticket"
+msgstr "Ticket no válido"
+
+msgid "travel"
+msgstr "Viajes"
+
+msgid "travelCityFrom"
+msgstr "Ciudad de origen"
+
+msgid "travelInitDate"
+msgstr "Fecha de salida/precio"
+
+msgid "travelPeopleQuantity"
+msgstr "Cantidad/Personas"
+
+msgid "travelConditions"
+msgstr "Condiciones"
+
+msgid "travelPriceInclude"
+msgstr "El precio incluye"
+
+msgid "travelPriceNoInclude"
+msgstr "El precio no incluye"
+
+msgid "travelSpecialConditions"
+msgstr "Opciones y condiciones especiales"
+
+msgid "travelChildConditions"
+msgstr "Condiciones especiales para niños"
+
+msgid "travelRecomendations"
+msgstr "Recomendaciones"
+
+msgid "travelUbication"
+msgstr "Caracteristicas y ubicación"
+
+msgid "Travel Deals"
+msgstr "Viajes"
+
+msgid "travelSoldout"
+msgstr "Agotado"
+
+msgid "errorTravelStock"
+msgstr "No hay suficiente stock para la opción que ha elegido."
+
+msgid "errorTravelMaxQuantity"
+msgstr "Se han seleccionado más pasajeros de los permitidos."
+
+msgid "errorTravelMinQuantity"
+msgstr "No se ha elegido la cantidad mínima de pasajeros."
+
+msgid "errorTravelNotDue"
+msgstr "La cantidad de pasajeros debe ser un número par."
+
+msgid "errorTravelInvalidVariation"
+msgstr "No se ha seleccionado una fecha valida."
+
+msgid "errorInvalidVariation"
+msgstr "No se ha seleccionado una opción valida."
+
+msgid "errorTravelInvalidCity"
+msgstr "La ciudad no se corresponde con los datos de la oferta."
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Phone"
+msgstr "Teléfono"
+
+msgid "travellersIdTraveller1"
+msgstr "Pasaporte"
+
+msgid "Passport"
+msgstr "Pasaporte"
+
+msgid "travellersIdTraveller2"
+msgstr "Dni"
+
+msgid "DNI"
+msgstr "DNI"
+
+msgid "travellersType1"
+msgstr "Adulto"
+
+msgid "Adults"
+msgstr "Adultos"
+
+msgid "Kids"
+msgstr "Niños"
+
+msgid "Babys"
+msgstr "Bebes"
+
+msgid "Adult"
+msgstr "Adulto"
+
+msgid "Kid"
+msgstr "Niño"
+
+msgid "Baby"
+msgstr "Bebe"
+
+msgid "travelHeading"
+msgstr "Viajes"
+
+msgid "Modify travellers data"
+msgstr "Modificar datos de los viajeros"
+
+msgid "Travellers information"
+msgstr "Información de los viajeros"
+
+msgid "Accept the conditions of travel"
+msgstr "Aceptar las condiciones de viaje"
+
+msgid "See conditions"
+msgstr "Ver condiciones"
+
+msgid "Make payment"
+msgstr "realizar pago"
+
+msgid "ico-aeroplane"
+msgstr "Vuelo incluido"
+
+msgid "Without flights"
+msgstr "Sin vuelos"
+
+msgid "All destinations at the best price"
+msgstr "Todos los destinos al mejor precio"
+
+msgid "The trip of your dreams at your fingertips."
+msgstr "Los viajes que siempre soñaste, a tu alcance."
+
+msgid ""
+"Pack your bags, we're going. Your trip will be perfect, because LetsBonus "
+"only select hotels and activities guarantees reliable and complete security "
+"for your purchase. In fact, while you're reading, we are working to bring "
+"you an incredible journey with a great discount."
+msgstr ""
+"Haz las maletas, que nos vamos de viaje. Tu trayecto será perfecto, porque "
+"LetsBonus sólo selecciona Hoteles y actividades fiables y te garantiza "
+"seguridad total en tu compra. De hecho, mientras tú estás leyendo, nosotros "
+"estamos trabajando para poder ofrecerte un viaje increíble con un gran "
+"descuento."
+
+msgid ""
+"We hope we can soon say goodbye to you as you head the place of your dreams."
+msgstr ""
+"Esperamos que próximamente podamos despedirte de ti mientras te diriges "
+"hacia el lugar de tus sueños."
+
+msgid "years"
+msgstr "años"
+
+msgid "Buy"
+msgstr "¡compra ya!"
+
+msgid "Share"
+msgstr "Comparte"
+
+msgid "Required field"
+msgstr "Campo obligatorio"
+
+msgid "Required"
+msgstr "Obligatorio"
+
+msgid "Invalid field"
+msgstr "Campo no válido"
+
+msgid "Invalid"
+msgstr "No válido"
+
+msgid "No use credit"
+msgstr "No utilizar crédito"
+
+msgid ""
+"To make your reservation correctly, we need you provide the full names of "
+"all travelers, as they appear in your passport. In addition we ask you an "
+"email and phone so we could get in touch with you if necessary."
+msgstr ""
+"Para poder hacer correctamente tu reserva, necesitamos que nos facilites el "
+"nombre y apellidos de todos los viajeros, tal como aparecen en tu DNI o "
+"pasaporte. Además te pedimos un email y teléfono para podernos poner en "
+"contacto contigo en caso necesario."
+
+msgid ""
+"The next step is the payment, be sure that all data, including the purchase "
+"are correct."
+msgstr ""
+"El siguiente paso es el del pago, asegúrate que todos los datos, incluidos "
+"los de la compra son los correctos."
+
+msgid "All, in travel, the best"
+msgstr "De todo, en viajes, lo mejor"
+
+msgid "soldout"
+msgstr "agotado"
+
+msgid "The holidays of your dreams? Exotic destinations? Romantic gateways?"
+msgstr "¿Vacaciones de película? ¿Destinos exóticos? ¿Escapadas románticas?"
+
+msgid ""
+"In LetsBonus we are selecting the most incredible trips in order that they "
+"stop being a dream and come true!"
+msgstr ""
+"En LetsBonus estamos seleccionando los viajes más increíbles para que dejen "
+"de ser un sueño y ¡se conviertan en realidad!"
+
+msgid "You must select a departure date/price and a quantity"
+msgstr "Debe seleccionar una fecha de salida/precio y una cantidad"
+
+msgid "Your selection:"
+msgstr "Tu selección:"
+
+msgid ""
+"Do you travel with children, prefer other dates ...?<br>Call 902 027 372"
+msgstr "¿Viajas con niños, prefieres otras fechas...?<br/>Llama al 902 027 372"
+
+# Welcome mail client
+msgid "Congrats! Your account is already active"
+msgstr "Enhorabuena! Tu cuenta ya está activa"
+
+msgid "Welcome - H to"
+msgstr "Bienvenido a"
+
+msgid "Welcome - M to"
+msgstr "Bienvenida a"
+
+msgid "Welcome - unknown to"
+msgstr "Bienvenid@ a"
+
+msgid ""
+"Everyday,<br><span style=\"color:#E52B31\">leisure plans</span><br>with "
+"unique prices"
+msgstr ""
+"Cada día,<br><span style=\"color:#E52B31\">planes de ocio</span><br>a "
+"precios únicos"
+
+# COI mail
+msgid "Confirm your subscription"
+msgstr "Confirma tu subscripción"
+
+msgid "Thank you very much for subscribing to our plans!"
+msgstr "¡Muchas gracias por suscribirte a nuestros planes!"
+
+msgid ""
+"To start receiving them, please confirm your subscription to the newsletter."
+msgstr ""
+"Para empezar a recibirlos, por favor confirma tu suscripción a la newsletter."
+
+msgid "confirm now!"
+msgstr "¡confirma ahora!"
+
+msgid ""
+"Please, do not reply to this mail, if you have any questions or suggestions "
+"go to"
+msgstr ""
+"Por favor, no respondas a este email, si tienes cualquier duda o sugerencia "
+"dirígete al"
+
+# Welcome mail newsletter
+msgid "Welcome to LetsBonus Now the fun begins!"
+msgstr "Bienvenido a LetsBonus ¡Empieza la diversión!"
+
+msgid "Do you want to stop receiving this email?"
+msgstr "¿Quieres dejar de recibir este e-mail?"
+
+msgid "Click here"
+msgstr "Haz click aquí"
+
+msgid "Welcome to"
+msgstr "Bienvenid@ a"
+
+msgid "Get ready to enjoy plans with"
+msgstr "Prepárate para disfrutar de planes con"
+
+msgid "big discounts till"
+msgstr "descuentazos de hasta el"
+
+msgid "in your city"
+msgstr "en tu ciudad"
+
+msgid ""
+"Every day you can sign up to a range of <strong>restaurants, spas, beauty "
+"centers, concerts, theater, escapes...</strong> and much more!"
+msgstr ""
+"Cada día podrás apuntarte a una oferta de <strong>restaurantes, spas, "
+"centros de belleza, conciertos, teatros, escapadas...</strong> y mucho más!"
+
+msgid ""
+"In LetsBonus we get incredible discounts because many of us buy together."
+msgstr ""
+"En LetsBonus conseguimos increíbles descuentos gracias a que muchos "
+"compramos juntos."
+
+msgid ""
+"Although you are subscribed <br>and receive our offers by <br>email, you "
+"have to create your account <br>with your username and password."
+msgstr ""
+"Aunque ya estás apuntado <br>y recibas nuestras ofertas por <br>email, "
+"tienes que crear tu cuenta <br>con tu nombre y contraseña."
+
+msgid "Account creation"
+msgstr "Creación de cuenta"
+
+msgid "Recommend LetsBonus and you will receive 10 euro!"
+msgstr "¡Recomienda LetsBonus y os regalamos 10 euros!"

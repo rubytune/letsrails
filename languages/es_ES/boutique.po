@@ -1,0 +1,102 @@
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2013-01-07 11:14+0100\n"
+"Last-Translator: Ruben Moral <ruben.moral@letsbonus.com>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Boutique Deals"
+msgstr "Boutique"
+
+msgid "boutiqueHeading"
+msgstr "Boutique"
+
+msgid "boutique"
+msgstr "Boutique"
+
+msgid "View more details"
+msgstr "ver más detalles"
+
+msgid "The specified amount exceeds the stock."
+msgstr "La cantidad especificada supera el stock."
+
+msgid "You've purchased %1 time/times this product, and with the specified amount exceeds the maximum amount allowed per user."
+msgstr "Ya has comprado %1 vez/veces este producto, y junto a la cantidad especificada supera la cantidad máxima permitida por usuario."
+
+msgid "Product Kit"
+msgstr "Kit de productos"
+
+msgid "Free Ticket"
+msgstr "Ticket regalo"
+
+msgid "You can only purchase a maximum of %1 tickets for this product."
+msgstr "Sólo puedes comprar un máximo de %1 tickets de este producto."
+
+msgid "Requested quantities are not available on all of your chosen items and have been adjusted. Quantities that have been reduced are shown in red."
+msgstr "Las cantidades solicitadas no están disponibles para todos los artículos y se han aplicado algunas limitaciones. Las cantidades que han sido limitadas están en color rojo."
+
+msgid "Requested quantities are not available and have been adjusted."
+msgstr "Las cantidades solicitadas no están disponibles y se han aplicado algunas limitaciones."
+
+msgid "Sorry, the requested items are no more available. The purchase process cannot go on."
+msgstr "Las cantidades solicitadas no están disponibles. No será posible continuar con el proceso de compra."
+
+msgid "All, in boutique, the best"
+msgstr "De todo, en la boutique de productos, lo mejor"
+
+msgid "We are selecting the most exclusive products from the brands you love surround you, chic accessories, perfumes better you feel, the design details you love the most for your home ... and more!"
+msgstr "Estamos seleccionando los productos más exclusivos de las marcas de las que te gusta rodearte, los complementos más chic, los perfumes que mejor te sientan, los detalles de diseño que más te agradan para tu hogar... ¡y mucho más!"
+
+msgid "Select the products you'd like to add to your kit"
+msgstr "Selecciona los productos que quieras añadir al kit"
+
+msgid "Your selection boutique"
+msgstr "Tu Selección de Boutique"
+
+msgid "Show product"
+msgstr "Mostrar producto"
+
+msgid "See product"
+msgstr "Ver producto"
+
+msgid "add"
+msgstr "añadir"
+
+msgid "Select the products you wish to add to your pack"
+msgstr "Selecciona los productos que quieras añadir al pack"
+
+msgid "You've purchased %1 time/times this item, and with the specified amount exceeds the maximum amount allowed per user."
+msgstr "Ya has comprado %1 unidades de este artículo, y junto a la cantidad solicitada excede el máximo permitido por usuario."
+
+msgid "You can only purchase a maximum of %1 units for this item."
+msgstr "Sólo puedes comprar un máximo de %1 unidades de este artículo."
+
+msgid "See all details of %1"
+msgstr "Ver detalles de %1"
+
+msgid "Choose an option"
+msgstr "Elige una opción"
+
+msgid "Look at other plans"
+msgstr "Ver más planes"
+
+msgid "Item out of stock"
+msgstr "Artículo agotado"
+
+msgid "You do not have even any product in your shopping cart"
+msgstr "No tienes ningún artículo en tu carrito de la compra"
+
+msgid "add product"
+msgstr "añadir producto"
+

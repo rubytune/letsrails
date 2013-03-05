@@ -1,0 +1,40 @@
+# recommend.po
+# Portuguese translations for letsbonus package.
+# Recommend page
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2012-04-02 12:58+0100\n"
+"Last-Translator: Alessio Mavica <alessio.mavica@letsbonus.com>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Discount still 70% in your city"
+msgstr "Descuentos del 70% en tu ciudad"
+
+msgid "Hi"
+msgstr "Hola"
+
+msgid "A friend wants to share a link with you:"
+msgstr "Un amigo, quiere compartir este enlace contigo:"
+
+msgid "Also wrote you this message:"
+msgstr "Además te ha escrito este mensaje:"
+
+msgid "Please do not respond to this e-mail: If you have any questions or suggestions go to"
+msgstr "Por favor, no respondas a ese e-mail: Si tienes cualquier pregunta o sugerencia dirígete al"
+
+msgid "Help Center."
+msgstr "Centro de Ayuda."
+
+msgid "Share to a friend"
+msgstr "Compartir a amigo"
+
+msgid "%1 recommends you LetsBonus and gives you %2. Deals for up to 70% discount in your city!"
+msgstr "%1 recomienda LetsBonus y te regala %2. ¡Planes de hasta el 70% de descuento en tu ciudad!"

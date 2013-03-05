@@ -1,0 +1,233 @@
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2011-12-29 16:43+0100\n"
+"Last-Translator: . <.>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Congratulations, you have your gift. Now personalize it and send!"
+msgstr "Enhorabuena, ya tienes tu regalo. ¡Ahora personalízalo y envíalo!"
+
+msgid "Check your inbox. You will receive an email with the details of your purchase."
+msgstr "Revisa tu buzón de entrada. Recibirás un email con los datos de tu compra."
+
+msgid "Send it by mail"
+msgstr "Envíalo por email"
+
+msgid "Give it yourself"
+msgstr "Entrégalo en persona"
+
+msgid "Just indicate the email of the person you want to give her the plan. Receive an instant personalized gift ticket by email!"
+msgstr "Sólo tienes que indicar el correo electrónico de la persona a la que quieres regalarle el plan. ¡Recibirá al instante un ticket regalo personalizado en su email!"
+
+msgid "Once you've made ​​the purchase, you will receive an original gift voucher in the inbox of your email. Want not only to give it print in hand!"
+msgstr "En cuanto hayas realizado la compra, recibirás un original ticket regalo en la bandeja de entrada de tu email. ¡Sólo te faltará imprimirlo para darlo en mano!"
+
+msgid "I want to use this data for other gifts"
+msgstr "Quiero utilizar estos datos para el resto de regalos."
+
+msgid "Check this box if you want to use the same settings for the remaining shipping gifts"
+msgstr "Marca esta casilla si deseas utilizar la misma configuración de envío para el resto de regalos."
+
+msgid "Who do you want to send?"
+msgstr "¿A quién se lo quieres enviar?"
+
+msgid "Write the recipient name"
+msgstr "Escribe el nombre del destinatario"
+
+msgid "Write it's email"
+msgstr "Escribe su email"
+
+msgid "When you want to send?"
+msgstr "¿Cuándo quieres enviarlo?"
+
+msgid "Text that will appear on your gift"
+msgstr "Texto que aparecerá en tu regalo."
+
+msgid "Remember that the ship date must be before the expiration date"
+msgstr "Recuerda que la fecha de envío debe ser anterior a la fecha de caducidad"
+
+msgid "Write some words for your gift"
+msgstr "Acompaña tu regalo con unas palabras"
+
+msgid "Write here the message that appears on your ticket gift (max. 150 characters)..."
+msgstr "Escribe aquí el mensaje que aparecerá en tu ticket regalo (máx. 150 caracteres)…"
+
+msgid "Pick a topic and remain with the postcard that you like.There are many different!"
+msgstr "Elige un tema y quédate con la postal que más te guste. ¡Hay muchas diferentes!"
+
+msgid "Gift"
+msgstr "Regalo"
+
+msgid "Thanks for giving LetsBonus!"
+msgstr "¡Gracias por regalar LetsBonus!"
+
+msgid "Thanks for trust in LetsBonus and to gift the best plans!"
+msgstr "¡Gracias por confiar en LetsBonus y regalar los mejores planes!"
+
+msgid "Here's your gift ticket, download it now to give it yourself."
+msgstr "Aquí tienes el ticket regalo, ya puedes descargarlo para entregarlo en mano."
+
+msgid "We hope that the destinatary enjoy the experience."
+msgstr "Esperamos que quien reciba el regalo disfrute de la experiencia."
+
+msgid "Your present is it's way. Will be sent to the direction"
+msgstr "Tu regalo ya está en camino. Se enviará a esta dirección"
+
+msgid "the day"
+msgstr "el día"
+
+msgid "Every ticket has "
+msgstr "Cada ticket tiene "
+
+msgid "a different locator"
+msgstr "un localizador distinto"
+
+msgid "So, if you've bought more than one,"
+msgstr "Por eso, si has comprado más de uno"
+
+msgid "you have to print all them"
+msgstr "deberás imprimirlos todos para disfrutar del plan"
+
+msgid "Check your tickets"
+msgstr "Consulta tus tickets"
+
+msgid "when and where you want"
+msgstr "cuando y donde quieras desde"
+
+msgid "your LetsBonus account"
+msgstr "tu cuenta LetsBonus"
+
+msgid "Download your PDF ticket"
+msgstr "Descarga tu ticket en PDF"
+
+msgid "Do you want more information?"
+msgstr "¿Quieres más información?"
+
+msgid "Remember! If you have more than one ticket, you must print all of them to enjoi it because every one has a different locator code."
+msgstr "¡Recuerda! Si tienes más de un ticket, para poder disfrutar el plan deberás utilizarlos todos porque cada uno tiene un localizador distinto."
+
+msgid "Here"
+msgstr "Aquí"
+
+msgid "Remember!"
+msgstr "¡Recuerda!"
+
+msgid "Personalize"
+msgstr "Personaliza"
+
+msgid "You can do it at the 'My Purchases' at your LetsBonus account."
+msgstr "También puedes hacerlo desde el apartado 'Mis Compras' de tu cuenta LetsBonus."
+
+msgid "Once done, you will recive a mail with your gift data."
+msgstr "Una vez hecho, recibirás un email con los datos de tu regalo."
+
+msgid "Gift options"
+msgstr "Opciones de regalo"
+
+msgid "Your gifts"
+msgstr "Tus regalos"
+
+msgid "Your purchases"
+msgstr "Tus compras"
+
+msgid "To"
+msgstr "Para"
+
+msgid "Give"
+msgstr "Entrega"
+
+msgid "Print"
+msgstr "Imprime"
+
+msgid "¡Congratulations! You have personalized your gifts."
+msgstr "¡Felicidades! Ya has personalizado tus regalos."
+
+msgid "If email delivery will be sent on the date you indicated. If you give it in hand, you've got it in your inbox."
+msgstr "Si lo entregas por email, se enviará en la fecha que nos has indicado. Si lo entregas en mano, ya lo tienes en tu correo electrónico."
+
+msgid "You have decided personalize your gift later."
+msgstr "Has decidido aplazar la personalización de tu regalo."
+
+msgid "You can personalize it in the area 'My Purchases' of your personal area"
+msgstr "Puedes personalizarlo en el apartado 'Mis Compras' de tu area personal"
+
+msgid "Skip this step"
+msgstr "Saltarse este paso"
+
+msgid "Download your gift voucher"
+msgstr "Descarga tu ticket regalo"
+
+msgid "Your gift is ready to deliver!"
+msgstr "¡Tu regalo ya está listo para entregar!"
+
+msgid "Surprise! A friend gives you a plan LetsBonus"
+msgstr "¡Sorpresa! Un amigo te regala un plan LetsBonus"
+
+msgid "You received this great plan"
+msgstr "Te han regalado este fantástico plan"
+
+msgid "If you received this, it is because they think no one would enjoy it more. Find out!"
+msgstr "Si te lo han querido regalar a ti, es porque han pensado que nadie sabría disfrutarlo mejor que tú. ¡Descúbrelo!"
+
+msgid "Now you can enjoy your plan."
+msgstr "Ya puedes disfrutar de tu plan."
+
+msgid "Your gift, in process!"
+msgstr "¡Tu regalo, en camino!"
+
+msgid "Yes, that's a good present!"
+msgstr "¡Sí, este sí es un buen regalo!"
+
+msgid "download gift ticket"
+msgstr "descarga el ticket regalo"
+
+msgid "Here you have the gift ticket!"
+msgstr "¡Aquí tienes el ticket regalo!"
+
+msgid "If you fold it in half you will have a nice card to hand deliver to the person you want to surprise."
+msgstr "Si lo doblas por la mitad tendrás una bonita tarjeta para entregar en mano a la persona que quieres sorprender."
+
+msgid "Write a few words on the front of the gift ticket to customize it. Will love it!"
+msgstr "Escribe unas palabras en la parte delantera del ticket regalo para personalizarlo. ¡Le encantará!"
+
+msgid "Thanks for trusting us"
+msgstr "Gracias por confiar en nosotros"
+
+msgid "Your present is on its way!"
+msgstr "¡Tu regalo ya está en camino!"
+
+msgid "It will be sent to the direction %1, the day %2"
+msgstr "Se enviará a la dirección %1, el día %2"
+
+msgid "Each ticket has a different locator. So if you buy more than one, you must print them all to enjoy the plan."
+msgstr "Cada ticket tiene un localizador distinto. Por eso, si has comprado más de uno, deberás imprimirlos todos para disfrutar del plan."
+
+msgid "Check your tickets where and when you want from"
+msgstr "Consulta tus tickets cuando y donde quieras desde"
+
+msgid "Do you want your ticket in PDF?"
+msgstr "¿Quieres tu ticket en PDF?"
+
+msgid "download it here"
+msgstr "descárgalo aquí"
+
+msgid "If you can't read the PDF"
+msgstr "Si no puedes leer el PDF"
+
+msgid "download Adobe Reader"
+msgstr "descarga Adobe Reader"
+
+msgid "Discounts of up to 70% on the best daily plans in your city, movie trips and exclusive products."
+msgstr "Descuentos de hasta el 70% en los mejores planes del día en tu ciudad, viajes de película y productos exclusivos."

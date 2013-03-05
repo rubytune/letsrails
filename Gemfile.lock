@@ -44,6 +44,7 @@ GEM
     erubis (2.7.0)
     execjs (1.4.0)
       multi_json (~> 1.0)
+    fast_gettext (0.7.0)
     hike (1.2.1)
     httparty (0.10.0)
       multi_json (~> 1.0)
@@ -114,6 +115,7 @@ DEPENDENCIES
   attribution
   awesome_print
   coffee-rails (~> 3.2.1)
+  fast_gettext
   httparty
   jquery-rails
   rails (= 3.2.11)

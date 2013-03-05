@@ -1,0 +1,334 @@
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2011-12-29 16:43+0100\n"
+"Last-Translator: . <.>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Select a valid payment method"
+msgstr "Selecciona un método de pago apropiado"
+
+msgid "There is a TPV error"
+msgstr "Hubo un error con el TPV"
+
+msgid "My cards"
+msgstr "Mis tarjetas"
+
+msgid "Enter your payment details"
+msgstr "Introduce los detalles de pago"
+
+msgid "Payment methods"
+msgstr "Métodos de pago"
+
+msgid "CVC/CVV"
+msgstr "CVC/CVV"
+
+msgid "What is CVC/CVV?"
+msgstr "¿Qué es CVC/CVV?"
+
+msgid "Name and surname"
+msgstr "Nombre y apellidos"
+
+msgid "Card Number"
+msgstr "Número de tarjeta"
+
+msgid "Card Caducity"
+msgstr "Caducidad de la tarjeta"
+
+msgid "Year"
+msgstr "Año"
+
+msgid "Month"
+msgstr "Mes"
+
+msgid " Save my credi card for features buys "
+msgstr "Guardar mi tarjeta de crédito para futuras compras"
+
+msgid "( %1 last digits on the back )"
+msgstr "( %1 últimas cifras del reverso )"
+
+msgid "( %1 digits above and either at the right or left side of the card number )"
+msgstr "( %1 cifras encima y a la derecha o a la izquierda del número de tarjeta )"
+
+msgid "Modify invoice data"
+msgstr "modificar datos de facturación"
+
+msgid "Name and surname / Company name"
+msgstr "Nombre y apellidos / Nombre fiscal Empresa"
+
+msgid "Number"
+msgstr "Número"
+
+msgid "Floor"
+msgstr "Piso"
+
+msgid "Door"
+msgstr "Puerta"
+
+msgid "Your buy"
+msgstr "Tu compra"
+
+msgid "Your buy: %1"
+msgstr "Tu compra: %1"
+
+msgid "Price"
+msgstr "Precio"
+
+msgid "Available credit"
+msgstr "Crédito disponible"
+
+msgid "No Credits found."
+msgstr "No se ha encontrado crédito"
+
+msgid "Modify postal data"
+msgstr "modificar datos postales"
+
+msgid "Purchase completed successfully"
+msgstr "La compra se ha completado con éxito"
+
+msgid "Check your e-mail"
+msgstr "Comprueba tu correo electrónico"
+
+msgid "Thank you for your purchase, you will receive an e-mail with the details of your purchase."
+msgstr "Gracias por tu compra, recibirás un email con los detalles de tu compra."
+
+msgid "If you want you can"
+msgstr "Si quieres puedes"
+
+msgid "Recommend this offer to your friends"
+msgstr "Recomendar esta oferta a tus amigos"
+
+msgid "Back to home"
+msgstr "Volver a la Home"
+
+msgid "Do you need invoice?"
+msgstr "¿Necesitas una factura?"
+
+msgid "Yes, I want an invoice"
+msgstr "Sí, quiero una factura"
+
+msgid "Copy shipping data"
+msgstr "Copiar información de Datos de Envío"
+
+msgid "All fields are required"
+msgstr "Todos los campos son obligatorios"
+
+msgid "taxId"
+msgstr "NIF / CIF"
+
+msgid "nif"
+msgstr "NIF"
+
+msgid "cif"
+msgstr "CIF"
+
+msgid "nie"
+msgstr "NIE"
+
+msgid "other"
+msgstr "Otro"
+
+msgid "Other"
+msgstr "Otra"
+
+msgid "Select"
+msgstr "Seleccionar"
+
+msgid "Save this information for future purchases"
+msgstr "Guardar estos datos para futuras compras"
+
+msgid "Travel with everything under control: LetsBonus provides you with the Cancellation Insurance Plus, it will refund 100% of costs in case you have to cancel for any of the reasons guaranteed. (Price for the total amount)"
+msgstr "Viaja con todo bajo control: LetsBonus pone a tu disposición el Seguro Anulación Plus, que reembolsará el 100% de los gastos en caso de que tengas que cancelar por cualquiera de las causas garantizadas. (Precio por el total de la reserva)"
+
+msgid "Shipping charges are calculated based on the number of units and delivery address. To know the amount you need to register and fill in the form of delivery address. If you already have stored in your user area, the address will appear automatically when you register"
+msgstr "Los gastos de envío se calculan en base al número de unidades y a la dirección de entrega. Para saber cuales son estos gastos, tienes que acceder con tu cuenta y rellenar el formulario con tu dirección de envío. Si tus datos ya están guardados, aparecerán automáticamente."
+
+msgid "Units"
+msgstr "Unidades"
+
+msgid "Your payment details"
+msgstr "Tu información de pago"
+
+msgid "New card / Paypal"
+msgstr "Tarjeta nueva / PayPal"
+
+msgid "Information"
+msgstr "Información"
+
+msgid "Congratulations, using your credit this purchase is free!"
+msgstr "¡Felicidades, usando tu crédito esta compra te sale gratis!"
+
+msgid "Congratulations, this purchase is free!"
+msgstr "¡Felicidades, esta compra te sale gratis!"
+
+msgid "How do you want to share it?"
+msgstr "¿Cómo quieres compartirlo?"
+
+msgid "Amex"
+msgstr "American Express"
+
+msgid "Paypal"
+msgstr "PayPal"
+
+msgid "Mastercard"
+msgstr "MasterCard"
+
+msgid "Adyen-visa"
+msgstr "Visa"
+
+msgid "Adyen-mastercard"
+msgstr "Mastercard"
+
+msgid "Adyen-amex"
+msgstr "American Express"
+
+msgid "Saving"
+msgstr "Ahorro"
+
+msgid "Login"
+msgstr "Identifícate"
+
+msgid "You must accept the conditions of travel"
+msgstr "Debe aceptar las condiciones de viaje"
+
+msgid "You must purchase a minimum of %1 tickets for this product."
+msgstr "Debe adquirir un minimo de %1 unidades de este producto."
+
+msgid "Confirmation"
+msgstr "Confirmación"
+
+msgid "Your buy:"
+msgstr "Tu compra:"
+
+msgid "Your selection"
+msgstr "Tu selección"
+
+msgid "Shipping info"
+msgstr "Información de envío"
+
+msgid "Travellers info"
+msgstr "Información de viajeros"
+
+msgid "Payment info"
+msgstr "Información de pago"
+
+msgid "Error AJAX"
+msgstr "Error AJAX"
+
+msgid "I agree that LetsBonus process my purchases without requiring the CVV code."
+msgstr "Acepto que LetsBonus procese mis compras sin necesidad de introducir el código CVV."
+
+msgid "Although you are subscribed and receive our email offers, create your account with your name and password. So you can manage your credit, your purchases and direct access to your tickets. If you have any questions please contact us at <a href='%1'>our contact form</a>"
+msgstr "Aunque estés suscrito y recibas nuestra newsletter, crea tu cuenta con tu nombre y contraseña! De esta manera podrás gestionar tu crédito y tener acceso directo a tus tickets comprados. Si tienes alguna duda por favor ponte en contacto con nosotros a través de nuestro <a href='%1'>formulario de contacto</a>"
+
+msgid "The user is responsible for the veracity of the data provided in the shipping form"
+msgstr "El usuario se hace responsable de la veracidad de los datos suministrados en el formulario de entrega"
+
+msgid "The user is responsible for the veracity of the data provided in the invoice form"
+msgstr "El usuario se hace responsable de la veracidad de los datos suministrados en el formulario de facturación"
+
+msgid "There is another shopping process active, only one is allowed."
+msgstr "Existe otro proceso de compra activo, sólo se permite uno a la vez."
+
+msgid "Something wrong happened at the shopping process, please refresh the page"
+msgstr "Hubo un error en el proceso de compra, por favor, actualice la página"
+
+msgid "Expiry Date: %1 - %2 - %3"
+msgstr "Fecha de caducidad: %1 - %2 - %3"
+
+msgid "There was an error"
+msgstr "Hubo un error"
+
+msgid "Unknown error with payment API"
+msgstr "No se puede completar su compra, por favor, inténtelo de nuevo"
+
+msgid "Gift check"
+msgstr "Crédito Regalo"
+
+msgid "Total Cost"
+msgstr "Importe total"
+
+msgid "Subtotal"
+msgstr "Subtotal"
+
+msgid "This is your choice"
+msgstr "Esta es tu selección"
+
+msgid "Select an option and the number of plans or products"
+msgstr "Selecciona una opción y la cantidad de planes o productos"
+
+msgid "More plans and products"
+msgstr "Más planes y productos"
+
+msgid "PayPal cannot process this sale in this moment"
+msgstr "PayPal no puede procesar la venta en este momento"
+
+msgid "Because of an incident outside, right now you can make purchases directly on the site LetsBonus."
+msgstr "Por causas ajenas a LetsBonus, en estos momentos no se pueden realizar compras directamente en la web."
+
+msgid "Meanwhile the problem is being solved, you can pay using PayPal."
+msgstr "Mientras se soluciona el problema, puedes realizar el pago a través de PayPal."
+
+msgid "Thanks and sorry for the inconvenience"
+msgstr "Gracias y disculpa las molestias"
+
+msgid "Make your choice"
+msgstr "Selecciona una opción"
+
+# Installment Payments.
+msgid "Installment payment"
+msgstr "Pago fraccionado"
+
+msgid "You pay the 50% of this travel now and the rest %1 days before the departure."
+msgstr "Paga el 50% cuando compras el viaje y el resto %1 días antes de la salida."
+
+msgid "Remember that"
+msgstr "Recuerda que"
+
+msgid "Select installments"
+msgstr "Selecciona cuotas"
+
+msgid "1 payment of %2"
+msgid_plural "%1 payments of %2"
+msgstr[0] "1 pago de %2"
+msgstr[1] "%1 pagos de %2"
+
+msgid "You can pay in two parts"
+msgstr "Podrás pagarlo en dos partes"
+
+msgid "The second half of the fee %1 will be charged %2 days before departure of your trip"
+msgstr "La segunda mitad del cobro de %1 se te cargará %2 días antes de la salida de tu viaje"
+
+msgid "Quantity for me"
+msgstr "Cantidad para mi"
+
+msgid "Quantity to gift"
+msgstr "Cantidad para regalo"
+
+msgid "After the buy you will be able to personalize your gifts"
+msgstr "Después de la compra, podrás personalizar tus regalos con los diseños y textos que más te gusten."
+
+msgid "Travel safe - your insurance contract calling to 902 027 327"
+msgstr "Viaja seguro - contrata tu seguro llamando al 902 027 327"
+
+msgid "Remember that you can only buy or gift %1 unit"
+msgid_plural "Remember that you can only buy or gift %1 unit"
+msgstr[0] "Recuerda que puedes comprar o regalar sólo %1 unidad"
+msgstr[1] "Recuerda que puedes comprar o regalar sólo %1 unidades"
+
+msgid "Your present will be sent the day"
+msgstr "Tu regalo se enviará el día"
+
+msgid "to the next mail address:"
+msgstr "a la siguiente dirección de correo electrónico:"

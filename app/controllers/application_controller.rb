@@ -3,6 +3,9 @@ class ApplicationController < ActionController::Base
 
   before_filter :load_locale
 
+  helper FastGettext::Translation
+  include FastGettext::Translation
+
 protected
 
   def current_city

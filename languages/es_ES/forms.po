@@ -1,0 +1,328 @@
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2012-11-05 12:24+0100\n"
+"Last-Translator: \n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "Contact us"
+msgstr "Contacta con nosotros"
+
+msgid "Fill out the form below to send us your request."
+msgstr "Rellena el siguiente formulario para hacernos llegar tu consulta."
+
+msgid "Sorry, there has been an error sending your request. Please try it again."
+msgstr "Lo sentimos, ha ocurrido un error al enviar tu consulta. Por favor inténtalo de nuevo."
+
+msgid "Thank you very much for contacting us, your question will be answered as soon as possible."
+msgstr "Muchas gracias por contactar con nosotros, tu consulta será atendida lo antes posible."
+
+msgid "Question type"
+msgstr "Tipo de consulta"
+
+msgid "Newsletter / LetsBonus account"
+msgstr "Newsletter / Cuenta LetsBonus"
+
+msgid "Payment methods / Billing"
+msgstr "Métodos de pago / Facturación"
+
+msgid "Doubt / Incidence with a plan"
+msgstr "Duda / Incidencia con un plan"
+
+msgid "LetsBonus credit"
+msgstr "Crédito LetsBonus"
+
+msgid "Generic question"
+msgstr "Consulta general"
+
+msgid "Choose the type of the plan"
+msgstr "Elige el tipo de plan"
+
+msgid "dailyDealContactForm"
+msgstr "Planes del día"
+
+msgid "travelContactForm"
+msgstr "Ofertas de viaje y escapadas"
+
+msgid "boutiqueContactForm"
+msgstr "Boutique de productos"
+
+msgid "familyContactForm"
+msgstr "Family & Kids"
+
+msgid "flashContactForm"
+msgstr "Planes flash"
+
+msgid "showsContactForm"
+msgstr "Espectáculos"
+
+msgid "Your name"
+msgstr "Tu nombre"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Repeat your email"
+msgstr "Repite tu email"
+
+msgid "Enter your email again"
+msgstr "Vuelve a escribir tu email"
+
+msgid "Not valid email format"
+msgstr "Formato de email no válido"
+
+msgid "Enter your phone number"
+msgstr "Escribe tu teléfono"
+
+msgid "Comment"
+msgstr "Comentario"
+
+msgid "SAC contact"
+msgstr "Contacto SAC"
+
+msgid "Surname"
+msgstr "Apellidos"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "Repeat password"
+msgstr "Repetir contraseña"
+
+msgid "Birth's date"
+msgstr "Fecha de nacimiento"
+
+msgid "Gender"
+msgstr "Sexo"
+
+msgid "Male"
+msgstr "Hombre"
+
+msgid "Female"
+msgstr "Mujer"
+
+msgid "Newsletter's city"
+msgstr "Ciudad newsletter"
+
+msgid "Indicates what city you wish to receive the newsletter with the day's plans."
+msgstr "Indica de qué ciudad deseas recibir la newsletter con los planes del día."
+
+msgid "Agree with the Privacy policy"
+msgstr "Acepto la Política de privacidad"
+
+msgid "Terms of Service"
+msgstr "Términos generales de uso"
+
+msgid "Register Facebook"
+msgstr "Regístrate con Facebook"
+
+msgid "Login Facebook"
+msgstr "Accede con Facebook"
+
+msgid "Although you are subscribed and receive our email offers, create your account with your name and password. So you can manage your credit, your purchases and direct access to your tickets. If you have any questions please <a href='%1'>contact us.</a>"
+msgstr "Aunque ya estés suscrito a la newsletter y recibas nuestros planes y productos por email, puedes crear tu cuenta LetsBonus.  A través de la cuenta podrás gestionar tu crédito, tus compras y acceder directamente a tus tickets. Si tienes alguna duda comunícanosla a través del formulario de contacto que encontrarás <a href='%1'>aquí</a> o llámanos al 902 027 372"
+
+msgid "First surname"
+msgstr "Primer apellido"
+
+msgid "Second surname"
+msgstr "Segundo apellido"
+
+msgid "Postal code"
+msgstr "Código postal"
+
+# Postal code in invoice-form
+msgid "PC"
+msgstr "CP"
+
+msgid "Main phone"
+msgstr "Teléfono principal"
+
+msgid "Second phone"
+msgstr "Teléfono secundario"
+
+msgid "first payment step"
+msgstr "1"
+
+msgid "second payment step"
+msgstr "2"
+
+msgid "third payment step"
+msgstr "3"
+
+msgid "Your password"
+msgstr "Contraseña"
+
+msgid "Message sent from the website"
+msgstr "Mensaje enviado desde la web"
+
+msgid "enter"
+msgstr "entrar"
+
+msgid "Enter your contact information"
+msgstr "Introduce tus datos de contacto"
+
+msgid "Insert an email"
+msgstr "Introduce un email"
+
+msgid "Continue"
+msgstr "continuar"
+
+msgid "Your request has been sent successfully"
+msgstr "Tu solicitud ha sido enviada con éxito"
+
+msgid "The answer as soon as possible."
+msgstr "Responderemos a la mayor brevedad posible."
+
+msgid "Thank you for contacting us."
+msgstr "Muchas gracias por ponerte en contacto con nosotros"
+
+msgid "Details"
+msgstr "Detalles"
+
+msgid "Select an option"
+msgstr "Selecciona una opción"
+
+msgid "I've bought already"
+msgstr "Ya he comprado"
+
+msgid "I want to buy and I have a doubt"
+msgstr "Quiero comprar y tengo una duda"
+
+msgid "I'm a merchant"
+msgstr "Soy un comercio"
+
+msgid "Other requests"
+msgstr "Otras consultas"
+
+msgid "Questions about a Plan"
+msgstr "Consultas sobre un plan"
+
+msgid "Documentation/ticket reception"
+msgstr "Recepción de documentación/tickets"
+
+msgid "Credit question"
+msgstr "Consulta sobre el crédito"
+
+msgid "Problems using my ticket"
+msgstr "Problemas para utilizar mi ticket"
+
+msgid "I want to request a change"
+msgstr "Quiero solicitar un cambio"
+
+msgid "I want to request a devolution"
+msgstr "Quiero solicitar una devolución"
+
+msgid "I want to know the status of my order"
+msgstr "Quiero conocer el estado de mi pedido"
+
+msgid "Problems with the website"
+msgstr "Incicidencias con la Web"
+
+msgid "I have a doubt with the purchase process"
+msgstr "Tengo una duda relacionada con el proceso de compra"
+
+msgid "I have problems to make the payment"
+msgstr "Tengo problemas para hacer el pago"
+
+msgid "No credit is deducted"
+msgstr "No se descuenta el crédito"
+
+msgid "User sign up"
+msgstr "Alta usuario"
+
+msgid "User unsubscribe"
+msgstr "Baja usuario"
+
+msgid "Data modification in My account"
+msgstr "Modificación de datos en Mi cuenta"
+
+msgid "I can't enter into My account"
+msgstr "No puedo entrar en Mi cuenta"
+
+msgid "Privacy policies"
+msgstr "Políticas de privacidad"
+
+msgid "How do I get My credit?"
+msgstr "¿Cómo obtengo Mi crédito?"
+
+msgid "Problems with My credit"
+msgstr "Problemas con Mi crédito"
+
+msgid "Extranet"
+msgstr "Extranet"
+
+msgid "New merchant"
+msgstr "Nuevo comercio"
+
+msgid "Doubt"
+msgstr "Duda"
+
+msgid "QR code"
+msgstr "Código QR"
+
+msgid "Opinions and suggestions"
+msgstr "Opiniones y sugerencias"
+
+msgid "Curriculum Vitae"
+msgstr "Currículum Vitae"
+
+msgid "Marketing Proposals"
+msgstr "Propuestas de Marketing"
+
+msgid "Other Plans"
+msgstr "Resto de Planes"
+
+msgid "Travel"
+msgstr "Viajes"
+
+msgid "You have to choose a question type."
+msgstr "Debes seleccionar un tipo de consulta."
+
+msgid "You have to choose the question details."
+msgstr "Debes seleccionar el detalle de tu consulta."
+
+msgid "You must select the type of plan you want to perform the request."
+msgstr "Debes seleccionar el tipo de plan sobre el que deseas realizar la consulta."
+
+msgid "Don't forget to write your name correctly."
+msgstr "No olvides escribir tu nombre correctamente."
+
+msgid "Make sure your email is correct."
+msgstr "Comprueba que tu correo electrónico sea correcto."
+
+msgid "Email fields do not match."
+msgstr "Los campos de email no coinciden."
+
+msgid "Phone number can only contain numbers."
+msgstr "El teléfono sólo puede contener números."
+
+msgid "Don't forget to write a comment."
+msgstr "No olvides escribirnos un comentario."
+
+msgid "Maximum comment length is 1000 characters."
+msgstr "La longitud máxima del comentario es de 1000 caracteres."
+
+msgid "activate your LetsBonus account"
+msgstr "activa tu cuenta LetsBonus"
+
+msgid "Travel and hotels"
+msgstr "Viajes y hoteles"
+
+msgid "Products"
+msgstr "Productos"
+
+msgid "Services and other Plans"
+msgstr "Servicios y resto de planes"

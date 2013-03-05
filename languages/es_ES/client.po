@@ -1,0 +1,353 @@
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2012-11-13 17:19+0100\n"
+"Last-Translator: Jessica <jessica.marin@letsbonus.com>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# %1 is the name of the website (e.g. LetsBonus, Multiestrella, etc.).
+msgid "My account"
+msgstr "Mi cuenta"
+
+msgid "My purchases"
+msgstr "Mis compras"
+
+msgid "No purchases found."
+msgstr "No has realizado ninguna compra."
+
+msgid "Expiration"
+msgstr "Caducidad"
+
+msgid "Date"
+msgstr "Fecha"
+
+msgid "Saved"
+msgstr "Ahorrado"
+
+msgid "Total saved"
+msgstr "Total ahorrado"
+
+# %1 is the page number, %2 is the section being paged.
+msgid "Page %1 of '%2'"
+msgstr "Página %1 de '%2'"
+
+msgid "Go to the first page of '%1'"
+msgstr "Ir a la primera página de '%1'"
+
+msgid "Go to the last page of '%1'"
+msgstr "Ir a la última página de '%1'"
+
+msgid "Go to the next page of '%1'"
+msgstr "Ir a la siguiente página de '%1'"
+
+msgid "Go to the previous page of '%1'"
+msgstr "Ir a la página anterior de '%1'"
+
+msgid "Previous"
+msgstr "Anterior"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "First"
+msgstr "Primera"
+
+msgid "Last"
+msgstr "Última"
+
+msgid "Oferta"
+msgstr "Oferta"
+
+msgid "Fecha"
+msgstr "Fecha"
+
+msgid "Caduca"
+msgstr "Caduca"
+
+msgid "Ahorrados"
+msgstr "Ahorrados"
+
+msgid "Download ticket"
+msgstr "descarga tu ticket"
+
+msgid "Download ticket bonus"
+msgstr "descarga tu ticket bonus"
+
+msgid "Download invoice"
+msgstr "descarga tu factura"
+
+msgid "Consumed ticket"
+msgstr "Ticket consumido"
+
+msgid "The ticket was consumed on %1"
+msgstr "El ticket fue consumido el %1"
+
+msgid "Expired ticket"
+msgstr "Ticket caducado"
+
+msgid "My data"
+msgstr "Mis datos"
+
+msgid "Postal data"
+msgstr "Datos de envío"
+
+msgid "Required fields"
+msgstr "Campos obligatorios"
+
+msgid "Address"
+msgstr "Dirección"
+
+msgid "Address name"
+msgstr "Nombre dirección"
+
+msgid "Town"
+msgstr "Población"
+
+msgid "Province"
+msgstr "Provincia"
+
+msgid "This will be my usual address"
+msgstr "Ésta será mi dirección habitual"
+
+msgid "My personal data"
+msgstr "Datos personales"
+
+msgid "Modify my data"
+msgstr "Modificar mis datos"
+
+msgid "Save"
+msgstr "guardar"
+
+msgid "Cancel"
+msgstr "cancelar"
+
+msgid "Newsletter"
+msgstr "Newsletter"
+
+msgid "Modify"
+msgstr "modificar"
+
+msgid "Delete"
+msgstr "borrar"
+
+msgid "New address"
+msgstr "Nueva dirección"
+
+msgid "Subscribe to daily newsletter"
+msgstr "Suscripción a la newsletter diaria"
+
+msgid "Alternative address %1"
+msgstr "Dirección alternativa %1"
+
+msgid "Save my preferences"
+msgstr "Guardar mis preferencias"
+
+msgid "Daily Newsletter"
+msgstr "Newsletter diaria"
+
+msgid "My Credit"
+msgstr "Mi crédito"
+
+msgid "Payment Data"
+msgstr "Datos de pago"
+
+msgid "Create"
+msgstr "crear"
+
+msgid "Purchase"
+msgstr "Compra"
+
+msgid "Value"
+msgstr "Valor"
+
+msgid "Credit Card data"
+msgstr "Mis tarjetas"
+
+msgid "Invoice data"
+msgstr "Datos de facturación"
+
+msgid "Name / Company"
+msgstr "Nombre / Razón social"
+
+msgid "My addresses"
+msgstr "Mis direcciones"
+
+msgid "Enter your shipping information"
+msgstr "Introduce tus datos de envío"
+
+msgid "Add new address"
+msgstr "Añadir una nueva dirección"
+
+msgid "Existing password"
+msgstr "Contraseña actual"
+
+msgid "New password"
+msgstr "Nueva contraseña"
+
+msgid "Enter the new password"
+msgstr "Introduzca nueva contraseña"
+
+msgid "Repeat new password"
+msgstr "Repetir nueva contraseña"
+
+msgid "Concept"
+msgstr "Concepto"
+
+msgid "Credit type"
+msgstr "Tipo de crédito"
+
+msgid "default credit card"
+msgstr "predeterminada"
+
+msgid "No credit Cards"
+msgstr "No tienes tarjetas de crédito"
+
+msgid "Set default"
+msgstr "Establecer como predeterminada"
+
+msgid "My newsletters"
+msgstr "Mis newsletters"
+
+msgid "City newsletter"
+msgstr "Ciudad newsletter"
+
+msgid "Newsletter available"
+msgstr "Newsletters disponibles"
+
+msgid "Enter the city you want to receive the newsletter"
+msgstr "Indica de qué ciudad quieres recibir la newsletter"
+
+msgid "Insert a name"
+msgstr "Introduce un nombre"
+
+msgid "Insert your name"
+msgstr "Introduce tu nombre"
+
+msgid "Insert a surname"
+msgstr "Introduce un apellido"
+
+msgid "Insert your surname"
+msgstr "Introduce tu apellido"
+
+msgid "Insert a password"
+msgstr "Introduce una contraseña"
+
+msgid "Insert your current password"
+msgstr "Introduce tu contraseña actual"
+
+msgid "Gender is required"
+msgstr "El sexo es obligatorio"
+
+msgid "Insert a valid date"
+msgstr "Introduce una fecha válida"
+
+msgid "Insert a valid postal code"
+msgstr "Introduce un código postal válido"
+
+msgid "Insert a valid phone number"
+msgstr "Introduce un número de teléfono válido"
+
+msgid "This field must be a string"
+msgstr "Este campo tiene que ser una cadena de texto"
+
+msgid "Invalid password"
+msgstr "La contraseña no es correcta"
+
+msgid "You must accept the Privacy policy & Terms"
+msgstr "Debes aceptar la Política de privacidad y los Términos de uso"
+
+#My Credit Tooltips
+msgid "What you win Recommending to your friends or what you can recived in your registry or for compensation."
+msgstr "Lo que ganas Recomendando a tus amigos o que puedes haber recibido en tu proceso de registro o por compensación."
+
+msgid "Purchase returns."
+msgstr "Devoluciones de compra."
+
+msgid "LetsBonus present."
+msgstr "Obsequio de LetsBonus."
+
+msgid "LetsBonus credit cards purchases."
+msgstr "Compras de Tarjetas de Crédito LetsBonus."
+
+msgid "The credit you had in your account before March 2012."
+msgstr "El crédito que tenías en tu cuenta antes de Marzo 2012."
+
+msgid "You have no saved card"
+msgstr "No tienes ninguna tarjeta guardada"
+
+msgid "You have no purchases."
+msgstr "No tienes ninguna compra."
+
+#%1 is a link to the recommendation page
+#%2 is the recommendation credit amount
+msgid "Stay tuned to news from our website! because anytime you can get credit through special promotions."
+msgstr "Estate atento a las noticias de nuestra web! porque en cualquier momento podrías obtener crédito gracias a promociones especiales."
+
+msgid "Access Data"
+msgstr "Datos de acceso"
+
+msgid "Invalid Credentials"
+msgstr "Credenciales inválidas"
+
+msgid "Home delivery with %1"
+msgstr "Envío a domicilio con %1"
+
+msgid "Home delivery"
+msgstr "Envío a domicilio"
+
+msgid "Sorry your postal data have not modfied. Try it later"
+msgstr "Lo sentimos, tus datos postales no se han guardado. Vuelve a intentarlo más tarde"
+
+msgid "The credit you had in your account before March 2012"
+msgstr "El crédito que tenías en tu cuenta antes de Marzo del 2012"
+
+msgid "Welcome to LetsBonus"
+msgstr "Bienvenido/a a LetsBonus"
+
+msgid "New to LetsBonus or already have some LetsBonus account created?"
+msgstr "¿Nuevo/a en LetsBonus o ya tienes cuenta con nosotros?"
+
+msgid "I have no account in LetsBonus, I want to create one."
+msgstr "No tengo cuenta en LetsBonus, me gustaría crear una."
+
+msgid "If you already have LetsBonus account."
+msgstr "Sí, ya tengo una cuenta en LetsBonus."
+
+msgid "See more"
+msgstr "Ver más"
+
+msgid "You can get it upon registration, or through recommending friends, or as a compensation. Usage conditions: Can be used once and as long as the purchase value is at least three times the amount of the credit used, and will expire in 30 days."
+msgstr "El Crédito LetsBonus. Lo consigues cuando te registras, a través de recomendaciones de amigos y por compensaciones. Condiciones de uso: Son de un solo uso, tienen una caducidad inferior a 30 días y se pueden utilizar en compras superiores al cuádruple del valor del crédito utilizado salvo en promociones específicas."
+
+msgid "You get it as a refund, the ammount of the purchase or plan that you are returning is added to your account. Usage conditions: you can use it in more than one purchase, until the whole credit is consumed, it does not require a minimum purchase value and it will expire in 1 month."
+msgstr "Crédito por Devoluciones. Con una devolución de compra, se añade a tu cuenta el importe de la compra o del plan que has devuelto. Condiciones de uso: siempre que la devolución no contenga como origen de compra otro crédito (es decir, “Crédito LetsBonus”, “Crédito de Cheque Regalo” o “LetsCard”) puedes utilizar el crédito devolución en más de una compra hasta que gastes todo el crédito, no requieren un importe mínimo de compra y tienen caducidad de 1 año. En caso contrario, deberás consultar las condiciones específicas del crédito utilizado en Términos generales de uso."
+
+msgid "You get it as a refund, the ammount of the purchase or plan that you are returning is added to your account. Usage conditions: you can use it in more than one purchase, until the whole credit is consumed, it does not require a minimum purchase value and it will expire in 1 year."
+msgstr "Crédito por Devoluciones. Con una devolución de compra, se añade a tu cuenta el importe de la compra o del plan que has devuelto. Condiciones de uso: siempre que la devolución no contenga como origen de compra otro crédito (es decir, “Crédito LetsBonus”, “Crédito de Cheque Regalo” o “LetsCard”) puedes utilizar el crédito devolución en más de una compra hasta que gastes todo el crédito, no requieren un importe mínimo de compra y tienen caducidad de 1 año. En caso contrario, deberás consultar las condiciones específicas del crédito utilizado en Términos generales de uso."
+
+msgid "You can earn it from LetsBonus rewarding you with an special check because of you participating in a promotion. Usage conditions: It can be used once and as long as the value of your purchase is at least three times the ammount of the credit used. The expiry date will depend on the special conditions of the given promo with a maximum of 30 days. (Shipping cost excluded from purchase value)."
+msgstr "Crédito de Cheque Regalo. Es el que consigues cuando LetsBonus te obsequia voluntariamente con un cheque de crédito. Condiciones de uso: Son de un solo uso, tienen una caducidad inferior a 30 días y se pueden utilizar en compras superiores al cuádruple del valor del crédito utilizado salvo en promociones específicas."
+
+msgid "You get it when you buy LetsBonus Credit Cards or LetsSurprise Cards. Usage conditions: you can use it in more than one purchase, until the whole credit is consumed, it does not require a minimum purchase value and the expiry date will depend on the particular conditions of the given offer."
+msgstr "LetsCard. Lo consigues cuando compras Tarjetas de Crédito LetsBonus o Tarjetas LetsSurprise. Condiciones de uso: puedes utilizarlo en más de una compra hasta que gastes todo el crédito, no requiere un importe mínimo de compra, y tendrá una caducidad que se ajustará a las condiciones particulares de esa oferta."
+
+msgid "Is the one you had in your account before the new credit system became available (March 2012). Usage conditions: you can use it in more than one purchase until the whole credit is consumed and it does not require a minimum purchase value. The expiry date is subject to the terms determined by LetsBonus that you will find in your personal account."
+msgstr "Crédito Acumulado Marzo 2012. Es el que tenías en tu cuenta antes de que el nuevo sistema de crédito estuviera disponible (Marzo 2012). Condiciones de uso: puedes utilizarlos en más de una compra hasta que gastes todo el crédito y no requieren un importe mínimo de compra. La caducidad está sujeta a los plazos establecidos por LetsBonus especificados en tu cuenta personal."
+
+msgid "You can change your newsletters via the website of the country in which you are subscribed."
+msgstr "Puedes acceder al cambio de ciudad de tus newsletters a través de la web del país en el que estás suscrito."
+
+msgid "Coming soon"
+msgstr "Próximamente"
+

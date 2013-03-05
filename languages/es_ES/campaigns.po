@@ -1,0 +1,95 @@
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2012-04-17 17:17+0100\n"
+"Last-Translator: didac Pedra <didac.pedra@letsbonus.com>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "See all"
+msgstr "Ver todos"
+
+msgid "See More"
+msgstr "Ver más"
+
+msgid "Legal bases"
+msgstr "Bases legales"
+
+msgid "!Find out!"
+msgstr "Descúbrelo"
+
+msgid "Get your 2x1"
+msgstr "Consigue tu 2x1"
+
+msgid "Get it"
+msgstr "Consíguelo"
+
+msgid "Become a fan!"
+msgstr "Hazte fan!"
+
+msgid "Code not found"
+msgstr "El código no existe"
+
+msgid "These are some examples of plans you can enjoy:"
+msgstr "Estos son algunos de los ejemplos de planes que puedes disfrutar:"
+
+msgid "Access your account (<a href='%1'>Still not registered?</a>)"
+msgstr "Accede a tu cuenta (<a href='%1'>¿Todavía no estás registrado?</a>)"
+
+msgid "We have many experiences to enjoy throughout the year."
+msgstr "Tenemos muchas experiencias para disfrutar durante todo el año."
+
+msgid "Validate"
+msgstr "Validar"
+
+msgid "Insert here your code:"
+msgstr "Introduce el código aquí:"
+
+msgid "LetsSurprise Emotion"
+msgstr "LetsSurprise Emoción"
+
+msgid "With this LetsCard enjoying plans, and the latest travel products you choose.<p>We have over 10 daily plans, products and destinations to enjoy throughout the year.</p>"
+msgstr "Con esta LetsCard disfruta de planes, viajes y lo último en productos que tú elijas.<p>Tenemos más de 10 planes diarios, productos y destinos para disfrutar todo el año.</p>"
+
+msgid "With this LetsCard enjoy unforgettable experiences to a maximum of € 29.00 will be charged to your \"My credit\" for you to use as you wish. To get:"
+msgstr "Con este LetsCard disfrutarás de experiencias inolvidables hasta un máximo de 29.00€ que se cargarán en tu sección \"Mi crédito\" para que los utilices como quieras. Para obtenerlos:"
+
+msgid "With this %1 enjoy unforgettable experiences to a maximum of € 30 will be charged to your \"My credit\" for you to use as you wish. To get:"
+msgstr "Con este %1 disfrutarás de experiencias inolvidables hasta un máximo de 30€ que se cargarán en tu sección \"Mi crédito\" para que los utilices como quieras. Para obtenerlos:"
+
+msgid "With %1 enjoy exclusive experiences."
+msgstr "Con %1 disfruta de exclusivas experiencias."
+
+msgid "LetsSurprise Escapes"
+msgstr "LetsSurprise Escapadas"
+
+msgid "LetsSurprise Restaurants Deluxe"
+msgstr "LetsSurprise Restaurantes Deluxe"
+
+msgid "LetsSurprise Shows"
+msgstr "LetsSurprise Espectáculos"
+
+msgid "LetsSurprise Travells"
+msgstr "LetsSurprise Viajes"
+
+msgid "LetsSurprise Family Plans"
+msgstr "LetsSurprise Family Plans"
+
+msgid "EVERY DAY UNFORGETTABLE EXPERIENCES IN YOUR CITY"
+msgstr "CADA DIA EXPERIENCIAS INOLVIDABLES EN TU CIUDAD"
+
+msgid "Each day, a plan in your city at discounts of up to 70%"
+msgstr "Cada día, un plan en tu ciudad con descuentos de hasta el 70%"
+
+msgid "!Participate!"
+msgstr "¡Participa!"

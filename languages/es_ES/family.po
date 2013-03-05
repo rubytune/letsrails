@@ -1,0 +1,60 @@
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2011-12-29 16:43+0100\n"
+"Last-Translator: . <.>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "family"
+msgstr "Family & Kids"
+
+msgid "familyHeading"
+msgstr "Family & Kids"
+
+msgid "All, in family, the best"
+msgstr "De todo, en planes en familia, lo mejor"
+
+msgid "We are selecting the best plans for your children to have fun and enjoy your family, plays, amusement parks, trips, toys that are more fun ... and more!"
+msgstr "Estamos seleccionando los mejores planes para que tus hijos se diviertan y que disfrutéis en familia; obras de teatro, parques de atracciones, escapadas, los juguetes que más les divierten... ¡y mucho más!"
+
+msgid "From everything you want, we choose for you and yours the best."
+msgstr "De todo lo que buscas, escogemos para ti y para los tuyos lo mejor."
+
+msgid "Want to continue to enjoy the best family experiences?"
+msgstr "¿Te gustaría continuar disfrutando de las mejores experiencias en familia?"
+
+msgid "Discover Family & Kids, the section with the most original proposals to take advantage with little ones!"
+msgstr "Descubre Family & Kids, la sección con las propuestas más originales para compartir con los más pequeños!"
+
+msgid "Breaks, shows, latest in product and much more, so that passen unforgettable moments together."
+msgstr "Escapadas, espectáculos, últimas novedades en productos y mucho más, para que paséis momentos inolvidables juntos."
+
+msgid "Go to Family & Kids"
+msgstr "Ir a Family & Kids"
+
+msgid "Would you like to receive offers and products from Family & Kids?"
+msgstr "¿Te gustaría recibir ofertas y productos de Family & Kids?"
+
+msgid "Complete the fields with your data"
+msgstr "Completa los campos con tus datos"
+
+msgid "Your Email"
+msgstr "Tu Email"
+
+msgid "Indicate which city you want to receive them"
+msgstr "Indica de qué ciudad te gustaría recibirlas"
+
+msgid "Receive offers"
+msgstr "Recibir ofertas"
+

@@ -1,0 +1,203 @@
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 LetsBonus_S.L.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Core v2.5\n"
+"Report-Msgid-Bugs-To: it@letsbonus.com\n"
+"POT-Creation-Date: 2011-12-29 16:33+0100\n"
+"PO-Revision-Date: 2012-06-22 09:32+0100\n"
+"Last-Translator: \n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "travel"
+msgstr "Viajes"
+
+msgid "travelCityFrom"
+msgstr "Ciudad de origen"
+
+msgid "travelInitDate"
+msgstr "Fecha de salida/precio"
+
+msgid "travelPeopleQuantity"
+msgstr "Cantidad/Personas"
+
+msgid "travelConditions"
+msgstr "Condiciones"
+
+msgid "travelPriceInclude"
+msgstr "El precio incluye"
+
+msgid "travelPriceNoInclude"
+msgstr "El precio no incluye"
+
+msgid "travelSpecialConditions"
+msgstr "Opciones y condiciones especiales"
+
+msgid "travelChildConditions"
+msgstr "Condiciones especiales para niños"
+
+msgid "travelRecomendations"
+msgstr "Recomendaciones"
+
+msgid "travelUbication"
+msgstr "Caracteristicas y ubicación"
+
+msgid "Travel Deals"
+msgstr "Viajes"
+
+msgid "travelSoldout"
+msgstr "Agotado"
+
+msgid "errorTravelStock"
+msgstr "No hay suficiente stock para la opción que ha elegido."
+
+msgid "errorTravelMaxQuantity"
+msgstr "Se han seleccionado más pasajeros de los permitidos."
+
+msgid "errorTravelMinQuantity"
+msgstr "No se ha elegido la cantidad mínima de pasajeros."
+
+msgid "errorTravelNotDue"
+msgstr "La cantidad de pasajeros debe ser un número par."
+
+msgid "errorTravelInvalidVariation"
+msgstr "No se ha seleccionado una fecha valida."
+
+msgid "errorInvalidVariation"
+msgstr "No se ha seleccionado una opción valida."
+
+msgid "errorTravelInvalidCity"
+msgstr "La ciudad no se corresponde con los datos de la oferta."
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Phone"
+msgstr "Teléfono"
+
+msgid "travellersIdTraveller1"
+msgstr "Pasaporte"
+
+msgid "Passport"
+msgstr "Pasaporte"
+
+msgid "travellersIdTraveller2"
+msgstr "Dni"
+
+msgid "DNI"
+msgstr "DNI"
+
+msgid "travellersType1"
+msgstr "Adulto"
+
+msgid "Adults"
+msgstr "Adultos"
+
+msgid "Kids"
+msgstr "Niños"
+
+msgid "Babys"
+msgstr "Bebes"
+
+msgid "Adult"
+msgstr "Adulto"
+
+msgid "Kid"
+msgstr "Niño"
+
+msgid "Baby"
+msgstr "Bebe"
+
+msgid "travelHeading"
+msgstr "Viajes"
+
+msgid "Modify travellers data"
+msgstr "Modificar datos de los viajeros"
+
+msgid "Travellers information"
+msgstr "Información de los viajeros"
+
+msgid "Accept the conditions of travel"
+msgstr "Aceptar las condiciones de viaje"
+
+msgid "See conditions"
+msgstr "Ver condiciones"
+
+msgid "Make payment"
+msgstr "realizar pago"
+
+msgid "ico-aeroplane"
+msgstr "Vuelo incluido"
+
+msgid "Without flights"
+msgstr "Sin vuelos"
+
+msgid "All destinations at the best price"
+msgstr "Todos los destinos al mejor precio"
+
+msgid "The trip of your dreams at your fingertips."
+msgstr "Los viajes que siempre soñaste, a tu alcance."
+
+msgid "Pack your bags, we're going. Your trip will be perfect, because LetsBonus only select hotels and activities guarantees reliable and complete security for your purchase. In fact, while you're reading, we are working to bring you an incredible journey with a great discount."
+msgstr "Haz las maletas, que nos vamos de viaje. Tu trayecto será perfecto, porque LetsBonus sólo selecciona Hoteles y actividades fiables y te garantiza seguridad total en tu compra. De hecho, mientras tú estás leyendo, nosotros estamos trabajando para poder ofrecerte un viaje increíble con un gran descuento."
+
+msgid "We hope we can soon say goodbye to you as you head the place of your dreams."
+msgstr "Esperamos que próximamente podamos despedirte de ti mientras te diriges hacia el lugar de tus sueños."
+
+msgid "years"
+msgstr "años"
+
+msgid "Buy"
+msgstr "¡compra ya!"
+
+msgid "Share"
+msgstr "Comparte"
+
+msgid "Required field"
+msgstr "Campo obligatorio"
+
+msgid "Required"
+msgstr "Obligatorio"
+
+msgid "Invalid field"
+msgstr "Campo no válido"
+
+msgid "Invalid"
+msgstr "No válido"
+
+msgid "No use credit"
+msgstr "No utilizar crédito"
+
+msgid "To make your reservation correctly, we need you provide the full names of all travelers, as they appear in your passport. In addition we ask you an email and phone so we could get in touch with you if necessary."
+msgstr "Para poder hacer correctamente tu reserva, necesitamos que nos facilites el nombre y apellidos de todos los viajeros, tal como aparecen en tu DNI o pasaporte. Además te pedimos un email y teléfono para podernos poner en contacto contigo en caso necesario."
+
+msgid "The next step is the payment, be sure that all data, including the purchase are correct."
+msgstr "El siguiente paso es el del pago, asegúrate que todos los datos, incluidos los de la compra son los correctos."
+
+msgid "All, in travel, the best"
+msgstr "De todo, en viajes, lo mejor"
+
+msgid "soldout"
+msgstr "agotado"
+
+msgid "The holidays of your dreams? Exotic destinations? Romantic gateways?"
+msgstr "¿Vacaciones de película? ¿Destinos exóticos? ¿Escapadas románticas?"
+
+msgid "In LetsBonus we are selecting the most incredible trips in order that they stop being a dream and come true!"
+msgstr "En LetsBonus estamos seleccionando los viajes más increíbles para que dejen de ser un sueño y ¡se conviertan en realidad!"
+
+msgid "You must select a departure date/price and a quantity"
+msgstr "Debe seleccionar una fecha de salida/precio y una cantidad"
+
+msgid "Your selection:"
+msgstr "Tu selección:"
+
+msgid "Do you travel with children, prefer other dates ...?<br>Call 902 027 372"
+msgstr "¿Viajas con niños, prefieres otras fechas...?<br/>Llama al 902 027 372"
